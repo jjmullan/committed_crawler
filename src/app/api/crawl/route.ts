@@ -8,7 +8,7 @@ export async function POST(req: NextRequest) {
   // 요청 body를 스키마로 검증. 실패 시 zod 에러 메시지를 그대로 반환
   const parsed = CrawlConfigSchema.safeParse(body);
   if (!parsed.success) {
-    return NextResponse.json({ error: parsed.error.issues.map((i) => i.message).join(', ') }, { status: 400 });
+    return NextResponse.json({ error: parsed.error.issues.map((i: { message: string }) => i.message).join(', ') }, { status: 400 });
   }
 
   const result = await runPipeline(parsed.data);
