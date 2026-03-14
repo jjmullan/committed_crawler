@@ -1,0 +1,39 @@
+name: 자동 크롤링
+
+on:
+  schedule:
+    # 매일 오전 9시 (KST) = UTC 00:00
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'yarn'
+
+      - name: Yarn 활성화
+        run: corepack enable
+
+      - name: 의존성 설치
+        run: yarn install --immutable
+
+      - name: Playwright Chromium 설치
+        run: yarn playwright install chromium --with-deps
+
+      - name: 크롤링 실행
+        run: yarn crawl
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATASOURCE_ID: ${{ secrets.NOTION_DATASOURCE_ID }}
+          NODE_TLS_REJECT_UNAUTHORIZED: '0'
