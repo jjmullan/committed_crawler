@@ -1,10 +1,11 @@
 import { chromium } from 'playwright';
 import { extractStatic } from '../src/features/crawl/api/static';
 import { SITES } from '../src/features/crawl/config/sites';
+import { buildPageUrl } from '../src/features/crawl/lib/paginate';
 import { sendDiscordNotification } from '../src/features/load/api/discord';
-import { saveAllToNotion } from '../src/features/load/api/notion';
 import type { JobPosting } from '../src/entities/job-posting';
-import 'dotenv/config';
+import dotenv from 'dotenv';
+dotenv.config({ path: '.env.local' });
 
 const CRAWL_TIMEOUT = 30_000;
 const INTER_SITE_DELAY = 2_000;
@@ -13,9 +14,10 @@ function delay(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function crawlSite(site: (typeof SITES)[number], browser: Awaited<ReturnType<typeof chromium.launch>>): Promise<JobPosting[]> {
-  let html: string;
+type Browser = Awaited<ReturnType<typeof chromium.launch>>;
 
+/** 단일 URL을 로드하고 HTML 문자열을 반환한다 */
+async function fetchHtml(url: string, site: (typeof SITES)[number], browser: Browser): Promise<string> {
   if (site.mode === 'dynamic') {
     const context = await browser.newContext({
       userAgent:
@@ -30,19 +32,56 @@ async function crawlSite(site: (typeof SITES)[number], browser: Awaited<ReturnTy
       Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
     });
     try {
-      // 사이트별 waitUntil 설정 (기본값: domcontentloaded)
-      await page.goto(site.url, { waitUntil: site.waitUntil ?? 'domcontentloaded', timeout: CRAWL_TIMEOUT });
+      await page.goto(url, { waitUntil: site.waitUntil ?? 'domcontentloaded', timeout: CRAWL_TIMEOUT });
       await page.waitForTimeout(3_000);
-      html = await page.content();
+
+      // 무한 스크롤 처리 — 높이 변화 없으면 조기 종료
+      if (site.scrollOptions) {
+        const { maxScrolls, waitMs } = site.scrollOptions;
+        for (let i = 0; i < maxScrolls; i++) {
+          const prevHeight: number = await page.evaluate(() => document.body.scrollHeight);
+          await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+          await page.waitForTimeout(waitMs);
+          const newHeight: number = await page.evaluate(() => document.body.scrollHeight);
+          if (newHeight === prevHeight) break;
+        }
+      }
+
+      return await page.content();
     } finally {
       await page.close();
       await context.close();
     }
-  } else {
-    html = await extractStatic(site.url);
+  }
+  if (site.mode === 'api') {
+    const res = await fetch(url, { headers: { Accept: 'application/json', 'User-Agent': 'Mozilla/5.0' } });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.text();
+  }
+  return extractStatic(url);
+}
+
+async function crawlSite(site: (typeof SITES)[number], browser: Browser): Promise<JobPosting[]> {
+  // 페이지네이션 없으면 단일 페이지
+  if (!site.pagination) {
+    const html = await fetchHtml(site.url, site, browser);
+    return site.mapper(html);
   }
 
-  return site.mapper(html);
+  // 페이지네이션: pageParam을 순차 증가시키며 로드, 빈 결과면 조기 종료
+  const { pageParam, maxPages, waitMs = 3_000, startValue = 1, step = 1 } = site.pagination;
+  const allJobs: JobPosting[] = [];
+
+  for (let p = 0; p < maxPages; p++) {
+    const pageUrl = buildPageUrl(site.url, pageParam, startValue + p * step);
+    const html = await fetchHtml(pageUrl, site, browser);
+    const jobs = site.mapper(html);
+    if (jobs.length === 0) break;
+    allJobs.push(...jobs);
+    if (p < maxPages - 1) await delay(waitMs);
+  }
+
+  return allJobs;
 }
 
 async function main() {
@@ -75,19 +114,11 @@ async function main() {
 
   await browser.close();
 
-  console.log(`\n📦 총 ${allJobs.length}건 수집 완료. Notion에 저장 중...\n`);
-  const saved = await saveAllToNotion(allJobs);
-  console.log(`  ✅ Notion 신규 저장: ${saved}건 (중복 제외)\n`);
-
   const duration = Date.now() - startTime;
 
-  if (process.env.DISCORD_WEBHOOK_URL) {
-    console.log('📣 Discord 알림 전송 중...');
-    await sendDiscordNotification({ jobs: allJobs, saved, duration, errors });
-    console.log('  ✅ 완료\n');
-  } else {
-    console.log('⚠️  DISCORD_WEBHOOK_URL 미설정 — Discord 알림 건너뜀\n');
-  }
+  console.log(`\n📦 총 ${allJobs.length}건 수집 완료. Discord로 전송 중...\n`);
+  await sendDiscordNotification({ jobs: allJobs, duration, errors });
+  console.log('  ✅ 완료\n');
 
   console.log(`🏁 전체 소요 시간: ${(duration / 1000).toFixed(1)}초`);
 }

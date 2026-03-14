@@ -2,18 +2,17 @@ import { Client } from '@notionhq/client';
 import type { JobPosting } from '@/entities/job-posting';
 
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
-const DATABASE_ID = process.env.NOTION_DATABASE_ID ?? '';
+// SDK v5에서 query/create는 data_source_id(collection ID)를 사용
+const DATASOURCE_ID = process.env.NOTION_DATASOURCE_ID ?? '';
 
 /**
  * Notion DB에서 동일한 URL의 공고가 존재하는지 확인한다.
  * 중복 저장 방지를 위해 저장 전 호출한다.
  */
 async function isDuplicate(url: string): Promise<boolean> {
-  // SDK v5에서 databases.query 제거됨 → request()로 직접 API 호출
-  const res = await notion.request<{ results: unknown[] }>({
-    path: `databases/${DATABASE_ID}/query`,
-    method: 'post',
-    body: { filter: { property: 'URL', url: { equals: url } } },
+  const res = await notion.dataSources.query({
+    data_source_id: DATASOURCE_ID,
+    filter: { property: 'URL', url: { equals: url }, type: 'url' },
   });
   return res.results.length > 0;
 }
@@ -26,7 +25,7 @@ export async function saveToNotion(job: JobPosting): Promise<boolean> {
   if (await isDuplicate(job.url)) return false;
 
   await notion.pages.create({
-    parent: { database_id: DATABASE_ID },
+    parent: { data_source_id: DATASOURCE_ID },
     properties: {
       공고명: { title: [{ text: { content: job.title } }] },
       회사: { rich_text: [{ text: { content: job.company } }] },
