@@ -1,15 +1,15 @@
-name: 채용 공고 크롤링
+name: 뉴스 크롤링
 
 on:
   schedule:
-    # 주중(월~금) 오전 10시 (KST) = UTC 01:00
-    - cron: '0 1 * * 1-5'
+    # 매일 오전 10시 (KST) = UTC 01:00
+    - cron: '0 1 * * *'
   workflow_dispatch: # 수동 실행
 
 jobs:
-  crawl:
+  crawl-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
 
     steps:
       - name: 코드 체크아웃
@@ -42,10 +42,8 @@ jobs:
         if: steps.playwright-cache.outputs.cache-hit == 'true'
         run: yarn playwright install-deps chromium
 
-      - name: 크롤링 실행
-        run: yarn crawl
+      - name: 뉴스 크롤링 실행
+        run: yarn crawl-news
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          NOTION_DATASOURCE_ID: ${{ secrets.NOTION_DATASOURCE_ID }}
+          DISCORD_NEWS_WEBHOOK_URL: ${{ secrets.DISCORD_NEWS_WEBHOOK_URL }}
           NODE_TLS_REJECT_UNAUTHORIZED: '0'
