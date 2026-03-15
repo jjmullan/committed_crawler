@@ -48,14 +48,30 @@ function splitIntoChunks(header: string, lines: string[]): string[] {
  */
 async function post(webhookUrl: string, content: string, threadId?: string): Promise<void> {
   const url = threadId ? `${webhookUrl}?thread_id=${threadId}` : webhookUrl;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ content, flags: 4 }),
-  });
-  if (!res.ok) {
-    throw new Error(`Discord Webhook 오류: ${res.status} ${res.statusText}`);
+
+  for (let attempt = 0; attempt < 5; attempt++) {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ content, flags: 4 }),
+    });
+
+    if (res.status === 429) {
+      const retryAfter = parseFloat(res.headers.get('retry-after') ?? '2');
+      await new Promise((r) => setTimeout(r, (retryAfter + 0.5) * 1000));
+      continue;
+    }
+
+    if (!res.ok) {
+      throw new Error(`Discord Webhook 오류: ${res.status} ${res.statusText}`);
+    }
+
+    // 전송 성공 후 다음 요청 전 최소 간격 확보
+    await new Promise((r) => setTimeout(r, 500));
+    return;
   }
+
+  throw new Error('Discord Webhook 오류: rate limit 재시도 초과');
 }
 
 /**
