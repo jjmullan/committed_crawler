@@ -1,4 +1,6 @@
 import { chromium } from 'playwright';
+import { writeFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 import { NEWS_SITES } from '../src/features/news-crawl/config/sites';
 import { isWithinWindow } from '../src/features/news-crawl/lib/filter';
 import { sendNewsDiscordNotification } from '../src/features/load/api/discord-news';
@@ -123,6 +125,15 @@ async function main() {
     console.log(`🏁 전체 소요 시간: ${(duration / 1000).toFixed(1)}초`);
     return;
   }
+
+  // 결과를 프로젝트 루트에 JSON으로 저장 (매 실행 시 초기화)
+  const outputPath = resolve(process.cwd(), 'news-crawl-result.json');
+  writeFileSync(
+    outputPath,
+    JSON.stringify({ crawledAt: new Date().toISOString(), total: allArticles.length, articles: allArticles }, null, 2),
+    'utf-8',
+  );
+  console.log(`\n💾 JSON 저장 완료: ${outputPath}`);
 
   console.log(`\n📦 총 ${allArticles.length}건 수집 완료. Discord로 전송 중...\n`);
   await sendNewsDiscordNotification({ articles: allArticles, duration, errors });
