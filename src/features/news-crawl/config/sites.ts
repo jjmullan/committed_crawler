@@ -164,9 +164,7 @@ function parseMoji(html: string): Array<Omit<NewsArticle, 'source'>> {
     if (dateMatch) {
       const [, year, month, day] = dateMatch;
       // KST 09:00 기준으로 변환
-      publishedAt = new Date(
-        `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}T09:00:00+09:00`,
-      ).toISOString();
+      publishedAt = new Date(`${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}T09:00:00+09:00`).toISOString();
     } else {
       publishedAt = new Date().toISOString();
     }
@@ -209,9 +207,7 @@ function parseTossTech(html: string): Array<Omit<NewsArticle, 'source'>> {
     const keyPos = pm.index ?? 0;
 
     // key 앞 3000자 이내에서 가장 가까운 title 역탐색
-    const nearestTitle = titles
-      .filter((t) => t.pos < keyPos && keyPos - t.pos < 3000)
-      .sort((a, b) => b.pos - a.pos)[0];
+    const nearestTitle = titles.filter((t) => t.pos < keyPos && keyPos - t.pos < 3000).sort((a, b) => b.pos - a.pos)[0];
 
     const title = nearestTitle?.value;
     if (!title) continue;
@@ -226,7 +222,6 @@ function parseTossTech(html: string): Array<Omit<NewsArticle, 'source'>> {
 
   return items;
 }
-
 
 /**
  * 네이버 FE News (github.com/naver/fe-news/tree/master/issues)
@@ -248,9 +243,7 @@ function parseNaverFE(json: string): Array<Omit<NewsArticle, 'source'>> {
   }>;
 
   // YYYY-MM.md 형식 파일만 추출, 내림차순 정렬(최신 우선)
-  const issueFiles = files
-    .filter((f) => f.type === 'file' && /^\d{4}-\d{2}\.md$/.test(f.name))
-    .sort((a, b) => b.name.localeCompare(a.name));
+  const issueFiles = files.filter((f) => f.type === 'file' && /^\d{4}-\d{2}\.md$/.test(f.name)).sort((a, b) => b.name.localeCompare(a.name));
 
   const latest = issueFiles[0];
   if (!latest) return [];
@@ -288,14 +281,14 @@ export const NEWS_SITES: NewsSiteConfig[] = [
   },
   {
     name: '뭐지',
-    filterWindow: '7d',
+    filterWindow: '24h',
     mode: 'static',
     url: 'https://moji.or.kr/archive/',
     mapper: parseMoji,
   },
   {
     name: '토스 테크',
-    filterWindow: '7d',
+    filterWindow: '24h',
     // RSC 스트림에 아티클 데이터 포함 — static fetch로 JSON 파싱
     mode: 'static',
     url: 'https://toss.tech/category/engineering?categoryIds=2105',
@@ -303,7 +296,7 @@ export const NEWS_SITES: NewsSiteConfig[] = [
   },
   {
     name: '네이버 FE',
-    filterWindow: '31d',
+    filterWindow: '24h',
     mode: 'github',
     url: 'https://api.github.com/repos/naver/fe-news/contents/issues',
     mapper: parseNaverFE,
