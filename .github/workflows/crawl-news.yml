@@ -1,49 +1,49 @@
-name: 뉴스 크롤링
+# name: 뉴스 크롤링
 
-on:
-  schedule:
-    # 매일 오전 10시 (KST) = UTC 01:00
-    - cron: '0 1 * * *'
-  workflow_dispatch: # 수동 실행
+# on:
+#   schedule:
+#     # 매일 오전 10시 (KST) = UTC 01:00
+#     - cron: '0 1 * * *'
+#   workflow_dispatch: # 수동 실행
 
-jobs:
-  crawl-news:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
+# jobs:
+#   crawl-news:
+#     runs-on: ubuntu-latest
+#     timeout-minutes: 20
 
-    steps:
-      - name: 코드 체크아웃
-        uses: actions/checkout@v4
+#     steps:
+#       - name: 코드 체크아웃
+#         uses: actions/checkout@v4
 
-      - name: Node.js 설정
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: 'yarn'
+#       - name: Node.js 설정
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: '22'
+#           cache: 'yarn'
 
-      - name: Yarn 활성화
-        run: corepack enable
+#       - name: Yarn 활성화
+#         run: corepack enable
 
-      - name: 의존성 설치
-        run: yarn install --immutable
+#       - name: 의존성 설치
+#         run: yarn install --immutable
 
-      - name: Playwright 캐시 복원
-        uses: actions/cache@v4
-        id: playwright-cache
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+#       - name: Playwright 캐시 복원
+#         uses: actions/cache@v4
+#         id: playwright-cache
+#         with:
+#           path: ~/.cache/ms-playwright
+#           key: playwright-chromium-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
 
-      - name: Playwright Chromium 설치
-        if: steps.playwright-cache.outputs.cache-hit != 'true'
-        run: yarn playwright install chromium --with-deps
+#       - name: Playwright Chromium 설치
+#         if: steps.playwright-cache.outputs.cache-hit != 'true'
+#         run: yarn playwright install chromium --with-deps
 
-      - name: Playwright 시스템 의존성 설치 (캐시 히트 시)
-        if: steps.playwright-cache.outputs.cache-hit == 'true'
-        run: yarn playwright install-deps chromium
+#       - name: Playwright 시스템 의존성 설치 (캐시 히트 시)
+#         if: steps.playwright-cache.outputs.cache-hit == 'true'
+#         run: yarn playwright install-deps chromium
 
-      - name: 뉴스 크롤링 실행
-        run: yarn crawl-news
-        env:
-          DISCORD_NEWS_WEBHOOK_URL: ${{ secrets.DISCORD_NEWS_WEBHOOK_URL }}
-          NODE_TLS_REJECT_UNAUTHORIZED: '0'
+#       - name: 뉴스 크롤링 실행
+#         run: yarn crawl-news
+#         env:
+#           DISCORD_NEWS_WEBHOOK_URL: ${{ secrets.DISCORD_NEWS_WEBHOOK_URL }}
+#           NODE_TLS_REJECT_UNAUTHORIZED: '0'
