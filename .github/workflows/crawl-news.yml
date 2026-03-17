@@ -3,7 +3,7 @@ name: 뉴스 크롤링
 on:
   schedule:
     # 매일 오전 9시 51분 (KST) = UTC 00:51
-    - cron: '51 0 * * *'
+    - cron: '23 0 * * *'
   workflow_dispatch: # 수동 실행
 
 jobs:
