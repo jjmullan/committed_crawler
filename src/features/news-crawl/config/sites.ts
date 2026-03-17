@@ -279,13 +279,13 @@ export const NEWS_SITES: NewsSiteConfig[] = [
     mapper: parseYozmITBase as unknown as (html: string) => Array<Omit<NewsArticle, 'source'>>,
     asyncMapper: asyncParseYozmIT,
   },
-  {
-    name: '뭐지',
-    filterWindow: '24h',
-    mode: 'static',
-    url: 'https://moji.or.kr/archive/',
-    mapper: parseMoji,
-  },
+  // {
+  //   name: '뭐지',
+  //   filterWindow: '24h',
+  //   mode: 'static',
+  //   url: 'https://moji.or.kr/archive/',
+  //   mapper: parseMoji,
+  // },
   {
     name: '토스 테크',
     filterWindow: '24h',
