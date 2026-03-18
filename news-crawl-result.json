@@ -1,35 +1,41 @@
 {
-  "crawledAt": "2026-03-18T01:38:55.627Z",
-  "total": 5,
+  "crawledAt": "2026-03-18T23:02:21.407Z",
+  "total": 6,
   "articles": [
+    {
+      "title": "Ask GN: AI 사용 방법에 대한 글이 많습니다만, 어떻게 해야하는지 잘 모르겠습니다.",
+      "url": "https://news.hada.io/topic?id=27625",
+      "publishedAt": "2026-03-18T20:02:11.798Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 비밀번호관리자 1Password 의 추천 대안이 있을까요?",
+      "url": "https://news.hada.io/topic?id=27615",
+      "publishedAt": "2026-03-18T10:02:11.799Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "오픈 소스 보안 작업은 “특별”하지 않다",
+      "url": "https://news.hada.io/topic?id=27613",
+      "publishedAt": "2026-03-18T07:02:11.799Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "ClawTeam — AI 에이전트를 “팀”으로 만드는 오픈소스",
+      "url": "https://news.hada.io/topic?id=27609",
+      "publishedAt": "2026-03-18T04:02:11.800Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Unsloth Studio - 로컬에서 AI 모델을 훈련하고 실행하는 오픈소스 노코드 웹 UI",
+      "url": "https://news.hada.io/topic?id=27606",
+      "publishedAt": "2026-03-18T02:02:11.800Z",
+      "source": "Geeknews"
+    },
     {
       "title": "cmux - AI 코딩 에이전트를 위한 Ghostty 기반 macOS용 터미널",
       "url": "https://news.hada.io/topic?id=27598",
-      "publishedAt": "2026-03-18T00:38:46.131Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "“지금 AI는 너무 싸다” 개발자 커뮤니티가 본 가격 거품과 생존 전망",
-      "url": "https://news.hada.io/topic?id=27584",
-      "publishedAt": "2026-03-17T04:38:46.132Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "크래프톤 CEO, 서브노티카 2 개발자들에게 보너스 지급을 피할 수 있는 방법을 ChatGPT에 물어본 것으로...",
-      "url": "https://news.hada.io/topic?id=27583",
-      "publishedAt": "2026-03-17T04:38:46.133Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "CodexBar - Codex/Claude Code 등의 사용량 통계를 편하게 보기",
-      "url": "https://news.hada.io/topic?id=27580",
-      "publishedAt": "2026-03-17T02:38:46.133Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "오라클의 쿠키 안에 담긴 진짜 의미 [유튜브]",
-      "url": "https://news.hada.io/topic?id=27579",
-      "publishedAt": "2026-03-17T02:38:46.133Z",
+      "publishedAt": "2026-03-18T00:02:11.800Z",
       "source": "Geeknews"
     }
   ]
