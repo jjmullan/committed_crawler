@@ -1,41 +1,23 @@
 {
-  "crawledAt": "2026-03-18T23:02:21.407Z",
-  "total": 6,
+  "crawledAt": "2026-03-19T22:57:50.126Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Ask GN: AI 사용 방법에 대한 글이 많습니다만, 어떻게 해야하는지 잘 모르겠습니다.",
-      "url": "https://news.hada.io/topic?id=27625",
-      "publishedAt": "2026-03-18T20:02:11.798Z",
+      "title": "Kaku – AI 코딩을 위해 설계된 빠른 맥 전용 터미널",
+      "url": "https://news.hada.io/topic?id=27649",
+      "publishedAt": "2026-03-19T15:57:40.268Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 비밀번호관리자 1Password 의 추천 대안이 있을까요?",
-      "url": "https://news.hada.io/topic?id=27615",
-      "publishedAt": "2026-03-18T10:02:11.799Z",
+      "title": "Linear MCP 서버를 CLI와 Agent Skill로 다시 만들었습니다",
+      "url": "https://news.hada.io/topic?id=27637",
+      "publishedAt": "2026-03-19T00:57:40.269Z",
       "source": "Geeknews"
     },
     {
-      "title": "오픈 소스 보안 작업은 “특별”하지 않다",
-      "url": "https://news.hada.io/topic?id=27613",
-      "publishedAt": "2026-03-18T07:02:11.799Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "ClawTeam — AI 에이전트를 “팀”으로 만드는 오픈소스",
-      "url": "https://news.hada.io/topic?id=27609",
-      "publishedAt": "2026-03-18T04:02:11.800Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Unsloth Studio - 로컬에서 AI 모델을 훈련하고 실행하는 오픈소스 노코드 웹 UI",
-      "url": "https://news.hada.io/topic?id=27606",
-      "publishedAt": "2026-03-18T02:02:11.800Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "cmux - AI 코딩 에이전트를 위한 Ghostty 기반 macOS용 터미널",
-      "url": "https://news.hada.io/topic?id=27598",
-      "publishedAt": "2026-03-18T00:02:11.800Z",
+      "title": "MimikaStudio - 맥용 음성 복제 및 TTS 오픈소스",
+      "url": "https://news.hada.io/topic?id=27628",
+      "publishedAt": "2026-03-19T00:57:40.269Z",
       "source": "Geeknews"
     }
   ]
