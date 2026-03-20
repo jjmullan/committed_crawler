@@ -1,42 +1,24 @@
 {
-  "crawledAt": "2026-03-17T02:08:32.936Z",
-  "total": 6,
+  "crawledAt": "2026-03-19T22:57:50.126Z",
+  "total": 3,
   "articles": [
     {
-      "title": "OpenGenerativeUI - AI기반 생성형 UI 프레임워크 오픈소스",
-      "url": "https://news.hada.io/topic?id=27570",
-      "publishedAt": "2026-03-17T00:08:20.742Z",
+      "title": "Kaku – AI 코딩을 위해 설계된 빠른 맥 전용 터미널",
+      "url": "https://news.hada.io/topic?id=27649",
+      "publishedAt": "2026-03-19T15:57:40.268Z",
       "source": "Geeknews"
     },
     {
-      "title": "nullclaw - Zig로 구현한 초경량 자율형 AI 어시스턴트",
-      "url": "https://news.hada.io/topic?id=27568",
-      "publishedAt": "2026-03-17T00:08:20.742Z",
+      "title": "Linear MCP 서버를 CLI와 Agent Skill로 다시 만들었습니다",
+      "url": "https://news.hada.io/topic?id=27637",
+      "publishedAt": "2026-03-19T00:57:40.269Z",
       "source": "Geeknews"
     },
     {
-      "title": "Jazzband - 파이썬 오픈소스 커뮤니티 운영 종료",
-      "url": "https://news.hada.io/topic?id=27564",
-      "publishedAt": "2026-03-16T14:08:20.743Z",
+      "title": "MimikaStudio - 맥용 음성 복제 및 TTS 오픈소스",
+      "url": "https://news.hada.io/topic?id=27628",
+      "publishedAt": "2026-03-19T00:57:40.269Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "Python 수학 모듈과 1비트까지 일치하는 Rust 라이브러리",
-      "url": "https://news.hada.io/topic?id=27563",
-      "publishedAt": "2026-03-16T12:08:20.743Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "영업 없이 1,000개 기업이 찾아온 '웍스AI' 표철민 대표의 생존법",
-      "url": "https://yozm.wishket.com/magazine/detail/3657/",
-      "publishedAt": "2026-03-16T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "159번째 뉴스레터 : 청소년 예비 창업가 네트워킹 행사, Link",
-      "url": "https://moji.or.kr/archive/login/?content=25-9-1s",
-      "publishedAt": "2026-03-17T02:08:26.271Z",
-      "source": "뭐지"
     }
   ]
 }
