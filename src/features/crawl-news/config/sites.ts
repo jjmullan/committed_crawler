@@ -105,7 +105,8 @@ function extractYozmPublishedAt(html: string): string | null {
  */
 async function asyncParseYozmIT(xml: string): Promise<Array<Omit<NewsArticle, 'source'>>> {
   const { default: pLimit } = await import('p-limit');
-  const limit = pLimit(5);
+  // 동시 요청 3개로 제한 — 단시간 burst가 Cloudflare 봇 감지를 트리거하는 것을 방지
+  const limit = pLimit(3);
   const baseItems = parseYozmITBase(xml);
 
   const results = await Promise.all(
@@ -113,7 +114,13 @@ async function asyncParseYozmIT(xml: string): Promise<Array<Omit<NewsArticle, 's
       limit(async () => {
         try {
           const res = await fetch(item.url, {
-            headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36' },
+            headers: {
+              'User-Agent':
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+              Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+              'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+              Referer: 'https://yozm.wishket.com/magazine/',
+            },
             signal: AbortSignal.timeout(10_000),
           });
           if (!res.ok) return null;
