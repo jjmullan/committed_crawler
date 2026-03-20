@@ -1,24 +1,48 @@
 {
-  "crawledAt": "2026-03-19T22:57:50.126Z",
-  "total": 3,
+  "crawledAt": "2026-03-20T04:35:29.114Z",
+  "total": 7,
   "articles": [
+    {
+      "title": "MAU? \"4명\" \"ㅋㅋ\"",
+      "url": "https://news.hada.io/topic?id=27672",
+      "publishedAt": "2026-03-20T04:02:16.023Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "하네스 엔지니어링이란?",
+      "url": "https://news.hada.io/topic?id=27667",
+      "publishedAt": "2026-03-20T00:35:16.024Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "open-pencil - Figma 대체용 AI 기반 디자인 편집기",
+      "url": "https://news.hada.io/topic?id=27658",
+      "publishedAt": "2026-03-20T00:35:16.025Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Visa CLI — AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 (베타)",
+      "url": "https://news.hada.io/topic?id=27655",
+      "publishedAt": "2026-03-19T23:35:16.025Z",
+      "source": "Geeknews"
+    },
     {
       "title": "Kaku – AI 코딩을 위해 설계된 빠른 맥 전용 터미널",
       "url": "https://news.hada.io/topic?id=27649",
-      "publishedAt": "2026-03-19T15:57:40.268Z",
+      "publishedAt": "2026-03-19T15:35:16.025Z",
       "source": "Geeknews"
     },
     {
-      "title": "Linear MCP 서버를 CLI와 Agent Skill로 다시 만들었습니다",
-      "url": "https://news.hada.io/topic?id=27637",
-      "publishedAt": "2026-03-19T00:57:40.269Z",
-      "source": "Geeknews"
+      "title": "Codex 서브에이전트 136개 모음집: awesome-codex-subagents",
+      "url": "https://yozm.wishket.com/magazine/detail/3666/",
+      "publishedAt": "2026-03-20T09:00:17+09:00",
+      "source": "요즘IT"
     },
     {
-      "title": "MimikaStudio - 맥용 음성 복제 및 TTS 오픈소스",
-      "url": "https://news.hada.io/topic?id=27628",
-      "publishedAt": "2026-03-19T00:57:40.269Z",
-      "source": "Geeknews"
+      "title": "요즘IT 독자 선정 국내 1등 협업툴은 무엇이 다른가",
+      "url": "https://yozm.wishket.com/magazine/detail/3664/",
+      "publishedAt": "2026-03-19T14:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
