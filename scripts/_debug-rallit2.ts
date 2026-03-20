@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 dotenv.config({ path: '.env.local' });
 import { chromium } from 'playwright';
-import { parseRallit_test } from '../src/features/crawl/config/sites-test';
+import { parseRallit_test } from '../src/features/crawl-job/config/sites-test';
 
 // 간단히 직접 구현
 import * as cheerio from 'cheerio';

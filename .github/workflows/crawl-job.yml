@@ -43,7 +43,7 @@ jobs:
         run: yarn playwright install-deps chromium
 
       - name: 크롤링 실행
-        run: yarn crawl
+        run: yarn crawl-job
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}

@@ -7,7 +7,7 @@
     "build": "next build",
     "clean": "rm -rf .next",
     "start": "next start",
-    "crawl": "NODE_TLS_REJECT_UNAUTHORIZED=0 tsx scripts/crawl.ts",
+    "crawl-job": "NODE_TLS_REJECT_UNAUTHORIZED=0 tsx scripts/crawl-job.ts",
     "crawl-news": "NODE_TLS_REJECT_UNAUTHORIZED=0 tsx scripts/crawl-news.ts",
     "lint": "biome check",
     "format": "biome format --write"

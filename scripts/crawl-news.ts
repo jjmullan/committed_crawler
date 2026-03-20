@@ -1,9 +1,9 @@
 import { chromium } from 'playwright';
 import { writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { NEWS_SITES } from '../src/features/news-crawl/config/sites';
-import { isWithinWindow } from '../src/features/news-crawl/lib/filter';
-import { sendNewsDiscordNotification } from '../src/features/load/api/discord-news';
+import { NEWS_SITES } from '../src/features/crawl-news/config/sites';
+import { isWithinWindow } from '../src/features/crawl-news/lib/filter';
+import { sendNewsDiscordNotification } from '../src/features/crawl-export/api/discord-news';
 import type { NewsArticle } from '../src/entities/news-article';
 import dotenv from 'dotenv';
 

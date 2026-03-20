@@ -331,4 +331,11 @@ export const SITES: SiteConfig[] = [
   //   scrollOptions: { maxScrolls: 10, waitMs: 2000 },
   //   mapper: parseOkky,
   // },
+  // {
+  //   name: 'OKKY',
+  //   url: 'https://jobs.okky.kr/contract?duty%5B0%5D=40&duty%5B1%5D=36&minCareer=0',
+  //   mode: 'dynamic',
+  //   scrollOptions: { maxScrolls: 10, waitMs: 2000 },
+  //   mapper: parseOkky,
+  // },
 ];

@@ -1,6 +1,6 @@
 import { type NextRequest, NextResponse } from 'next/server';
 import { CrawlConfigSchema } from '@/entities/crawl-item';
-import { runPipeline } from '@/features/crawl';
+import { runPipeline } from '@/shared/crawler/model/pipeline';
 
 export async function POST(req: NextRequest) {
   const body = await req.json();

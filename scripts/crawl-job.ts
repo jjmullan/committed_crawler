@@ -1,8 +1,8 @@
 import { chromium } from 'playwright';
-import { extractStatic } from '../src/features/crawl/api/static';
-import { SITES } from '../src/features/crawl/config/sites';
-import { buildPageUrl } from '../src/features/crawl/lib/paginate';
-import { sendDiscordNotification } from '../src/features/load/api/discord';
+import { extractStatic } from '../src/shared/crawler/api/static';
+import { SITES } from '../src/features/crawl-job/config/sites';
+import { buildPageUrl } from '../src/shared/crawler/lib/paginate';
+import { sendDiscordNotification } from '../src/features/crawl-export/api/discord';
 import type { JobPosting } from '../src/entities/job-posting';
 import dotenv from 'dotenv';
 dotenv.config({ path: '.env.local' });
