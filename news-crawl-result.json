@@ -1,48 +1,42 @@
 {
-  "crawledAt": "2026-03-20T04:35:29.114Z",
-  "total": 7,
+  "crawledAt": "2026-03-20T22:57:08.261Z",
+  "total": 6,
   "articles": [
     {
-      "title": "MAU? \"4명\" \"ㅋㅋ\"",
-      "url": "https://news.hada.io/topic?id=27672",
-      "publishedAt": "2026-03-20T04:02:16.023Z",
+      "title": "Cursor, 코딩 특화 AI 모델 Composer 2 출시",
+      "url": "https://news.hada.io/topic?id=27682",
+      "publishedAt": "2026-03-20T12:56:58.624Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Adobe, 구독 해지 방해 혐의로 미국 법무부에 1억 5천만 달러(약 2,249억 원) 합의",
+      "url": "https://news.hada.io/topic?id=27678",
+      "publishedAt": "2026-03-20T05:56:58.625Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 시대 개발 방법론 (SDD+TDD)",
+      "url": "https://news.hada.io/topic?id=27675",
+      "publishedAt": "2026-03-20T04:56:58.626Z",
       "source": "Geeknews"
     },
     {
       "title": "하네스 엔지니어링이란?",
       "url": "https://news.hada.io/topic?id=27667",
-      "publishedAt": "2026-03-20T00:35:16.024Z",
+      "publishedAt": "2026-03-20T00:56:58.627Z",
       "source": "Geeknews"
     },
     {
       "title": "open-pencil - Figma 대체용 AI 기반 디자인 편집기",
       "url": "https://news.hada.io/topic?id=27658",
-      "publishedAt": "2026-03-20T00:35:16.025Z",
+      "publishedAt": "2026-03-20T00:56:58.627Z",
       "source": "Geeknews"
     },
     {
       "title": "Visa CLI — AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 (베타)",
       "url": "https://news.hada.io/topic?id=27655",
-      "publishedAt": "2026-03-19T23:35:16.025Z",
+      "publishedAt": "2026-03-19T23:56:58.627Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "Kaku – AI 코딩을 위해 설계된 빠른 맥 전용 터미널",
-      "url": "https://news.hada.io/topic?id=27649",
-      "publishedAt": "2026-03-19T15:35:16.025Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Codex 서브에이전트 136개 모음집: awesome-codex-subagents",
-      "url": "https://yozm.wishket.com/magazine/detail/3666/",
-      "publishedAt": "2026-03-20T09:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "요즘IT 독자 선정 국내 1등 협업툴은 무엇이 다른가",
-      "url": "https://yozm.wishket.com/magazine/detail/3664/",
-      "publishedAt": "2026-03-19T14:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
