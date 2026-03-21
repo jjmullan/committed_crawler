@@ -1,41 +1,29 @@
 {
-  "crawledAt": "2026-03-20T22:57:08.261Z",
-  "total": 6,
+  "crawledAt": "2026-03-21T22:51:26.869Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Cursor, 코딩 특화 AI 모델 Composer 2 출시",
-      "url": "https://news.hada.io/topic?id=27682",
-      "publishedAt": "2026-03-20T12:56:58.624Z",
+      "title": "Bing 검색 \"카카오톡\" 상위 3개 결과가 전부 중국발 피싱",
+      "url": "https://news.hada.io/topic?id=27712",
+      "publishedAt": "2026-03-21T17:51:17.365Z",
       "source": "Geeknews"
     },
     {
-      "title": "Adobe, 구독 해지 방해 혐의로 미국 법무부에 1억 5천만 달러(약 2,249억 원) 합의",
-      "url": "https://news.hada.io/topic?id=27678",
-      "publishedAt": "2026-03-20T05:56:58.625Z",
+      "title": "매일 아침 AI 트렌드 리포트 자동화하기: 클로드 코워크 x 노션 가이드",
+      "url": "https://news.hada.io/topic?id=27704",
+      "publishedAt": "2026-03-21T05:51:17.366Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대 개발 방법론 (SDD+TDD)",
-      "url": "https://news.hada.io/topic?id=27675",
-      "publishedAt": "2026-03-20T04:56:58.626Z",
+      "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
+      "url": "https://news.hada.io/topic?id=27691",
+      "publishedAt": "2026-03-21T00:51:17.366Z",
       "source": "Geeknews"
     },
     {
-      "title": "하네스 엔지니어링이란?",
-      "url": "https://news.hada.io/topic?id=27667",
-      "publishedAt": "2026-03-20T00:56:58.627Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "open-pencil - Figma 대체용 AI 기반 디자인 편집기",
-      "url": "https://news.hada.io/topic?id=27658",
-      "publishedAt": "2026-03-20T00:56:58.627Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Visa CLI — AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 (베타)",
-      "url": "https://news.hada.io/topic?id=27655",
-      "publishedAt": "2026-03-19T23:56:58.627Z",
+      "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
+      "url": "https://news.hada.io/topic?id=27690",
+      "publishedAt": "2026-03-20T23:51:17.366Z",
       "source": "Geeknews"
     }
   ]
