@@ -9,6 +9,7 @@
     "start": "next start",
     "crawl-job": "NODE_TLS_REJECT_UNAUTHORIZED=0 tsx scripts/crawl-job.ts",
     "crawl-news": "NODE_TLS_REJECT_UNAUTHORIZED=0 tsx scripts/crawl-news.ts",
+    "crawl-realestate": "NODE_TLS_REJECT_UNAUTHORIZED=0 tsx scripts/crawl-realestate.ts",
     "lint": "biome check",
     "format": "biome format --write"
   },
@@ -16,6 +17,7 @@
     "@notionhq/client": "^5.12.0",
     "cheerio": "^1.2.0",
     "dotenv": "^17.3.1",
+    "googleapis": "^171.4.0",
     "next": "16.1.6",
     "p-limit": "^7.3.0",
     "playwright": "^1.58.2",
