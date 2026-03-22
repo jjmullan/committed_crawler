@@ -46,15 +46,10 @@ interface RawArticleInfo {
     approvalElapsedYear?: number;
   };
   verificationInfo?: {
-    verificationType?: string;
     exposureStartDate?: string;
-  };
-  brokerInfo?: {
-    brokerageName?: string;
   };
   articleDetail?: {
     direction?: string;
-    articleFeatureDescription?: string;
     floorDetailInfo?: { targetFloor?: string; totalFloor?: string };
   };
   address?: {
@@ -103,17 +98,14 @@ function parseArticle(info: RawArticleInfo, realtorCount: number): RealEstateArt
     spaceTypeName: typeName,
     dealPrice: info.priceInfo?.dealPrice ?? 0,
     managementFeeAmount: info.priceInfo?.managementFeeAmount ?? 0,
-    articleFeatureDescription: info.articleDetail?.articleFeatureDescription ?? '',
-    verificationType: info.verificationInfo?.verificationType ?? '',
     exposureStartDate: info.verificationInfo?.exposureStartDate ?? '',
-    brokerageName: info.brokerInfo?.brokerageName ?? '',
     realtorCount,
   };
 }
 
 /**
  * 네이버 부동산 URL로 이동 후 매물 목록 전체 수집
- * - duplicatedArticleInfo.articleInfoList의 개별 매물까지 모두 펼쳐서 수집
+ * - 동일 조건 매물이 여러 건이어도 대표 매물(최상단) 하나만 수집
  * - lastInfo 커서 기반 페이지네이션으로 모든 매물 수집 (무한스크롤 대응)
  */
 export async function collectArticles(page: Page, url: string): Promise<RealEstateArticle[]> {
@@ -233,22 +225,14 @@ export async function collectArticles(page: Page, url: string): Promise<RealEsta
 }
 
 /**
- * boundedArticles list에서 duplicatedArticleInfo.articleInfoList까지 펼쳐
- * 개별 매물 RealEstateArticle 배열로 변환
+ * boundedArticles list에서 대표 매물(최상단) 하나만 수집
+ * 동일 조건 매물이 여러 건이어도 representativeArticleInfo만 사용
  */
 function flattenArticles(list: RawBoundedArticleItem[]): RealEstateArticle[] {
   const result: RealEstateArticle[] = [];
   for (const item of list) {
-    const dupInfo = item.duplicatedArticleInfo;
-    const realtorCount = dupInfo?.realtorCount ?? 1;
-
-    // articleInfoList가 있으면 개별 매물 모두 수집, 없으면 대표 매물만
-    const infoList = dupInfo?.articleInfoList;
-    if (infoList?.length) {
-      for (const info of infoList) {
-        result.push(parseArticle(info, realtorCount));
-      }
-    } else if (item.representativeArticleInfo) {
+    const realtorCount = item.duplicatedArticleInfo?.realtorCount ?? 1;
+    if (item.representativeArticleInfo) {
       result.push(parseArticle(item.representativeArticleInfo, realtorCount));
     }
   }
