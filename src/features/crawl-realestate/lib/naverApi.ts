@@ -76,9 +76,7 @@ function parseArticle(info: RawArticleInfo, realtorCount: number): RealEstateArt
   const dirCode = info.articleDetail?.direction ?? '';
   const floor = info.articleDetail?.floorDetailInfo;
   const nameType = info.spaceInfo?.nameType ?? '';
-  const typeName = nameType
-    ? `${info.spaceInfo?.exclusiveSpaceName ?? ''}${nameType}`
-    : (info.spaceInfo?.exclusiveSpaceName ?? '');
+  const typeName = nameType ? `${info.spaceInfo?.exclusiveSpaceName ?? ''}${nameType}` : (info.spaceInfo?.exclusiveSpaceName ?? '');
 
   return {
     complexName: info.complexName ?? '',
@@ -88,7 +86,7 @@ function parseArticle(info: RawArticleInfo, realtorCount: number): RealEstateArt
     buildingConjunctionDate: info.buildingInfo?.buildingConjunctionDate ?? '',
     approvalElapsedYear: info.buildingInfo?.approvalElapsedYear ?? 0,
     articleNumber: info.articleNumber,
-    articleUrl: '',  // pipeline에서 complexNumber 없이 articleNumber만으로 구성
+    articleUrl: '', // pipeline에서 complexNumber 없이 articleNumber만으로 구성
     dongName: info.dongName ?? '',
     floor: floor?.targetFloor ?? '',
     totalFloor: floor?.totalFloor ?? '',
@@ -125,7 +123,12 @@ export async function collectArticles(page: Page, url: string): Promise<RealEsta
       rawResponses.length = 0;
       capturedApiUrl = reqUrl;
       const raw = req.postData();
-      if (raw) try { capturedReqBody = JSON.parse(raw) as Record<string, unknown>; } catch { /* ignore */ }
+      if (raw)
+        try {
+          capturedReqBody = JSON.parse(raw) as Record<string, unknown>;
+        } catch {
+          /* ignore */
+        }
     }
   };
 
@@ -137,7 +140,9 @@ export async function collectArticles(page: Page, url: string): Promise<RealEsta
         if (data.isSuccess && data.result?.totalCount !== undefined && totalCount === 0) {
           totalCount = data.result.totalCount;
         }
-      } catch { /* ignore */ }
+      } catch {
+        /* ignore */
+      }
       return;
     }
     if (!resUrl.includes('boundedArticles')) return;
@@ -149,7 +154,9 @@ export async function collectArticles(page: Page, url: string): Promise<RealEsta
       if (!data.isSuccess || !data.result?.list) return;
       if (totalCount === 0 && data.result.totalCount) totalCount = data.result.totalCount;
       rawResponses.push({ list: data.result.list, totalCount: data.result.totalCount, lastInfo: data.result.lastInfo });
-    } catch { /* ignore */ }
+    } catch {
+      /* ignore */
+    }
   };
 
   page.on('request', reqHandler);
@@ -187,15 +194,18 @@ export async function collectArticles(page: Page, url: string): Promise<RealEsta
         articlePagingRequest: { ...basePaging, lastInfo },
       };
 
-      const data = (await page.evaluate(async (arg: FetchArg) => {
-        const res = await fetch(arg.url, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: arg.body,
-          credentials: 'include',
-        });
-        return res.json();
-      }, { url: apiUrl, body: JSON.stringify(reqBody) })) as {
+      const data = (await page.evaluate(
+        async (arg: FetchArg) => {
+          const res = await fetch(arg.url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: arg.body,
+            credentials: 'include',
+          });
+          return res.json();
+        },
+        { url: apiUrl, body: JSON.stringify(reqBody) },
+      )) as {
         isSuccess: boolean;
         result?: { list?: RawBoundedArticleItem[]; lastInfo?: unknown[] };
       };
