@@ -39,10 +39,7 @@ export interface RealEstateArticle {
   managementFeeAmount: number; // 관리비 (원)
 
   /** 매물 추가 정보 */
-  articleFeatureDescription: string;  // 매물 특징
-  verificationType: string;           // 인증유형 (OWNER/MOBL/NDOC1)
   exposureStartDate: string;          // 매물 등록일
-  brokerageName: string;              // 중개사무소명
   realtorCount: number;               // 동일조건 중개 수
 }
 
