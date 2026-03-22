@@ -1,7 +1,6 @@
 import type { Page } from 'playwright';
-import { NAVER_LAND_API, DEFAULT_FILTER } from '../config/realestate';
-import type { LegalDivision, BoundingBox, ComplexCluster, ComplexDetail, RealEstateCrawlConfig } from '../model/types';
-import { DIRECTION_MAP } from '../config/realestate';
+import { NAVER_LAND_API, DIRECTION_MAP } from '../config/realestate';
+import type { LegalDivision, RealEstateArticle } from '../model/types';
 
 /**
  * center 파라미터(경도-위도 문자열)를 좌표 객체로 파싱
@@ -13,88 +12,14 @@ export function parseCenter(center: string): { lng: number; lat: number } {
 }
 
 /**
- * min/max가 선택적인 범위 객체를 'min-max' 쿼리 문자열로 변환
- * min 미설정 시 0, max 미설정 시 Infinity로 치환
- * 예: { min: 100, max: 600 } → '100-600'
- *     { min: 100 }          → '100-Infinity'
- *     { max: 600 }          → '0-600'
- *     {}                    → '0-Infinity'
- */
-/**
- * min/max 둘 다 없으면 null 반환 → 쿼리스트링에서 제외
- * min 만 없으면 0, max 만 없으면 Infinity로 치환
- */
-function toRangeParam(range: { min?: number; max?: number }): string | null {
-  if (range.min === undefined && range.max === undefined) return null;
-  return `${range.min ?? 0}-${range.max ?? Infinity}`;
-}
-
-/**
- * RealEstateCrawlConfig의 필터 파라미터만 쿼리 문자열로 변환 (center, zoom 제외)
- * 단지 목록 URL, 매물 URL 등 여러 곳에서 재사용
- */
-export function buildFilterParams(config: RealEstateCrawlConfig): string {
-  const parts: string[] = [`tradeTypes=${config.tradeTypes.join(',')}`, `realEstateTypes=${config.realEstateTypes.join(',')}`];
-  const dealPriceParam = toRangeParam(config.dealPrice);
-  if (dealPriceParam !== null) parts.push(`dealPrice=${dealPriceParam}`);
-  if (config.space) {
-    const p = toRangeParam(config.space);
-    if (p !== null) parts.push(`space=${p}`);
-  }
-  if (config.householdNumber) {
-    const p = toRangeParam(config.householdNumber);
-    if (p !== null) parts.push(`householdNumber=${p}`);
-  }
-  if (config.subwayWalkingMinute) parts.push(`subwayWalkingMinute=${config.subwayWalkingMinute}`);
-  if (config.approvalElapsedYear) {
-    const p = toRangeParam(config.approvalElapsedYear);
-    if (p !== null) parts.push(`approvalElapsedYear=${p}`);
-  }
-  if (config.exclusiveSpaceMode) parts.push('filtersExclusiveSpace=true');
-  return parts.join('&');
-}
-
-/**
- * buildFilterParams에 center, zoom을 추가한 지도 URL 파라미터 빌더
- */
-export function buildMapParams(config: RealEstateCrawlConfig, center: string, zoom: number): string {
-  return `${buildFilterParams(config)}&center=${center}&zoom=${zoom}`;
-}
-
-/**
- * polygon 좌표에서 bounding box 계산
- */
-export function calcBoundingBox(division: LegalDivision): BoundingBox {
-  const polygon = division.polygon;
-  if (!polygon) throw new Error('polygon 데이터가 없습니다.');
-
-  const allCoords = polygon.coordinates.flatMap((c) => c.coordinates).flatMap((c) => c.coordinates);
-
-  return {
-    left: Math.min(...allCoords.map((c) => c.x)),
-    right: Math.max(...allCoords.map((c) => c.x)),
-    top: Math.max(...allCoords.map((c) => c.y)),
-    bottom: Math.min(...allCoords.map((c) => c.y)),
-  };
-}
-
-/**
- * 브라우저 컨텍스트에서 GET 요청 실행 (쿠키/세션 자동 포함)
- */
-async function pageGet(page: Page, url: string): Promise<unknown> {
-  return page.evaluate(async (reqUrl: string) => {
-    const res = await fetch(reqUrl);
-    return res.json();
-  }, url);
-}
-
-/**
- * center 좌표 → 행정구역 정보 조회 (polygon 포함)
- * GUN(구/시) 단위로 조회
+ * center 좌표 → 행정구역 정보 조회 (결과 레이블 표시용)
  */
 export async function getLegalDivision(page: Page, lng: number, lat: number): Promise<LegalDivision> {
-  const url = `${NAVER_LAND_API}/legalDivision/searchByCoordinate?longitude=${lng}&latitude=${lat}&type=GUN&needsPolygon=true`;
-  const data = (await pageGet(page, url)) as { isSuccess: boolean; detailCode?: string; result: LegalDivision };
+  const url = `${NAVER_LAND_API}/legalDivision/searchByCoordinate?longitude=${lng}&latitude=${lat}&type=GUN&needsPolygon=false`;
+  const data = (await page.evaluate(async (reqUrl: string) => {
+    const res = await fetch(reqUrl);
+    return res.json();
+  }, url)) as { isSuccess: boolean; detailCode?: string; result: LegalDivision };
 
   if (!data.isSuccess || !data.result) {
     throw new Error(`행정구역 조회 실패: ${data.detailCode ?? JSON.stringify(data)}`);
@@ -103,224 +28,171 @@ export async function getLegalDivision(page: Page, lng: number, lat: number): Pr
   return data.result;
 }
 
-/** 동(EUP) 정보 */
-export interface EupDivision {
-  legalDivisionNumber: string;
-  legalDivisionName: string;
-  coordinates: { xCoordinate: number; yCoordinate: number };
-}
-
-/**
- * bounding box 내 동(EUP) 목록 조회
- */
-export async function getEupList(page: Page, bbox: BoundingBox): Promise<EupDivision[]> {
-  const url = `${NAVER_LAND_API}/legalDivision/searchByBoundingBox`;
-  const body = { boundingBox: bbox, legalDivisionType: 'EUP' };
-
-  const data = (await page.evaluate(
-    async ({ reqUrl, reqBody }: { reqUrl: string; reqBody: string }) => {
-      const res = await fetch(reqUrl, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-        body: reqBody,
-        credentials: 'include',
-      });
-      return res.json();
-    },
-    { reqUrl: url, reqBody: JSON.stringify(body) },
-  )) as { isSuccess: boolean; result?: EupDivision[] };
-
-  return data.result ?? [];
-}
-
-/**
- * zoom=14 URL로 페이지 이동 후 complexClusters 응답 인터셉트로 단지 목록 수집
- * 직접 fetch 호출은 서버에서 차단(HTTP 400)되므로 브라우저 자동 요청 방식 사용
- */
-async function interceptComplexClusters(page: Page, lng: number, lat: number, config: RealEstateCrawlConfig): Promise<ComplexCluster[]> {
-  const clusters: ComplexCluster[] = [];
-
-  const handler = async (res: import('playwright').Response) => {
-    if (!res.url().includes('complex/complexClusters')) return;
-    try {
-      const data = (await res.json()) as { result?: { clusters?: ComplexCluster[] } };
-      if (data.result?.clusters) {
-        for (const c of data.result.clusters) clusters.push(c);
-      }
-    } catch {
-      /* 파싱 실패 무시 */
-    }
+/** boundedArticles API raw 응답 타입 */
+interface RawArticleInfo {
+  complexName?: string;
+  articleNumber: string;
+  dongName?: string;
+  tradeType?: string;
+  spaceInfo?: {
+    supplySpace?: number;
+    exclusiveSpace?: number;
+    supplySpaceName?: string;
+    exclusiveSpaceName?: string;
+    nameType?: string;
   };
-
-  page.on('response', handler);
-
-  // zoom=14: 동 단위 크기로 단지가 클러스터 없이 개별 표시됨
-  const url = `https://fin.land.naver.com/map?${buildMapParams(config, `${lng}-${lat}`, 14)}`;
-
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15_000 });
-  await page.waitForTimeout(3_000);
-
-  page.off('response', handler);
-
-  return clusters;
+  buildingInfo?: {
+    buildingConjunctionDate?: string;
+    approvalElapsedYear?: number;
+  };
+  verificationInfo?: {
+    verificationType?: string;
+    exposureStartDate?: string;
+  };
+  brokerInfo?: {
+    brokerageName?: string;
+  };
+  articleDetail?: {
+    direction?: string;
+    articleFeatureDescription?: string;
+    floorDetailInfo?: { targetFloor?: string; totalFloor?: string };
+  };
+  address?: {
+    city?: string;
+    division?: string;
+    sector?: string;
+    coordinates?: { xCoordinate: number; yCoordinate: number };
+  };
+  priceInfo?: {
+    dealPrice?: number;
+    managementFeeAmount?: number;
+  };
 }
 
-/**
- * 구(GUN) 전체 단지 목록 수집
- * 구 내 동(EUP) 목록 조회 → 각 동 좌표로 zoom=14 이동 → complexClusters 인터셉트 → 중복 제거
- */
-export async function getComplexList(page: Page, bbox: BoundingBox, gunNumber: string, config: RealEstateCrawlConfig): Promise<ComplexCluster[]> {
-  // 1. 구 내 동 목록 조회
-  const eupList = await getEupList(page, bbox);
-
-  // 구 코드 prefix(4자리)로 필터링 (예: "1141000000" → "1141"로 시작하는 동만)
-  const gunPrefix = gunNumber.substring(0, 4);
-  const filteredEups = eupList.filter((e) => e.legalDivisionNumber.startsWith(gunPrefix));
-
-  if (filteredEups.length === 0) {
-    console.warn(`[WARN] ${gunNumber} 내 동 목록을 찾지 못했습니다.`);
-    return [];
-  }
-
-  // dongs 필터가 설정된 경우 대상 동만 탐색 (Level 1: EUP 이름 포함 여부로 loose 필터링)
-  const dongFilter = config.dongs?.length ? config.dongs : null;
-  const targetEups = dongFilter
-    ? filteredEups.filter((e) => dongFilter.some((dong) => e.legalDivisionName.includes(dong)))
-    : filteredEups;
-
-  console.log(`[단지 수집] ${targetEups.length}개 동 탐색 시작${dongFilter ? ` (전체 ${filteredEups.length}개 중 필터링)` : ''}`);
-
-  // 2. 각 동별로 zoom=14 이동 → complexClusters 인터셉트
-  const complexMap = new Map<number, ComplexCluster>();
-
-  for (const eup of targetEups) {
-    const cx = eup.coordinates.xCoordinate;
-    const cy = eup.coordinates.yCoordinate;
-
-    const clusters = await interceptComplexClusters(page, cx, cy, config);
-    for (const c of clusters) {
-      complexMap.set(c.complexNumber, c);
-    }
-  }
-
-  console.log(`[단지 수집] 총 ${complexMap.size}개 단지 수집 완료`);
-
-  return Array.from(complexMap.values());
+interface RawBoundedArticleItem {
+  representativeArticleInfo?: RawArticleInfo;
+  duplicatedArticleInfo?: {
+    realtorCount?: number;
+    articleInfoList?: RawArticleInfo[];
+  };
 }
 
-/**
- * 단지 기본 정보 조회 (단지명, 위치, 세대수, 사용승인일, 용적률, 건폐율)
- */
-export async function getComplexDetail(page: Page, complexNumber: number): Promise<ComplexDetail | null> {
-  const url = `${NAVER_LAND_API}/complex?complexNumber=${complexNumber}`;
-  const data = (await pageGet(page, url)) as { isSuccess: boolean; result?: ComplexDetailRaw };
+function parseArticle(info: RawArticleInfo, realtorCount: number): RealEstateArticle {
+  const dirCode = info.articleDetail?.direction ?? '';
+  const floor = info.articleDetail?.floorDetailInfo;
+  const nameType = info.spaceInfo?.nameType ?? '';
+  const typeName = nameType
+    ? `${info.spaceInfo?.exclusiveSpaceName ?? ''}${nameType}`
+    : (info.spaceInfo?.exclusiveSpaceName ?? '');
 
-  if (!data.isSuccess || !data.result) return null;
-
-  const r = data.result;
   return {
-    complexNumber,
-    name: r.name,
-    address: {
-      city: r.address.city,
-      division: r.address.division,
-      sector: r.address.sector,
-      jibun: r.address.jibun,
-    },
-    totalHouseholdNumber: r.totalHouseholdNumber,
-    useApprovalDate: r.useApprovalDate,
-    floorAreaRatio: r.buildingRatioInfo?.floorAreaRatio ?? null,
-    buildingCoverageRatio: r.buildingRatioInfo?.buildingCoverageRatio ?? null,
+    complexName: info.complexName ?? '',
+    city: info.address?.city ?? '',
+    division: info.address?.division ?? '',
+    sector: info.address?.sector ?? '',
+    buildingConjunctionDate: info.buildingInfo?.buildingConjunctionDate ?? '',
+    approvalElapsedYear: info.buildingInfo?.approvalElapsedYear ?? 0,
+    articleNumber: info.articleNumber,
+    articleUrl: '',  // pipeline에서 complexNumber 없이 articleNumber만으로 구성
+    dongName: info.dongName ?? '',
+    floor: floor?.targetFloor ?? '',
+    totalFloor: floor?.totalFloor ?? '',
+    direction: DIRECTION_MAP[dirCode] ?? dirCode,
+    supplySpace: info.spaceInfo?.supplySpace ?? 0,
+    exclusiveSpace: info.spaceInfo?.exclusiveSpace ?? 0,
+    spaceTypeName: typeName,
+    dealPrice: info.priceInfo?.dealPrice ?? 0,
+    managementFeeAmount: info.priceInfo?.managementFeeAmount ?? 0,
+    articleFeatureDescription: info.articleDetail?.articleFeatureDescription ?? '',
+    verificationType: info.verificationInfo?.verificationType ?? '',
+    exposureStartDate: info.verificationInfo?.exposureStartDate ?? '',
+    brokerageName: info.brokerInfo?.brokerageName ?? '',
+    realtorCount,
   };
 }
 
 /**
- * API 응답 본문에서 매물 항목을 ArticleItem 배열로 변환
+ * 네이버 부동산 URL로 이동 후 매물 목록 전체 수집
+ * - duplicatedArticleInfo.articleInfoList의 개별 매물까지 모두 펼쳐서 수집
+ * - lastInfo 커서 기반 페이지네이션으로 모든 매물 수집 (무한스크롤 대응)
  */
-function parseArticleItems(list: RawArticleItem[]): ArticleItem[] {
-  return list.map((item) => {
-    const info = item.representativeArticleInfo;
-    const floorInfo = info.articleDetail?.floorDetailInfo;
-    const dirCode = info.articleDetail?.direction ?? '';
-    return {
-      articleNumber: info.articleNumber,
-      dongName: info.dongName ?? '',
-      floor: floorInfo?.targetFloor ?? '',
-      totalFloor: floorInfo?.totalFloor ?? '',
-      direction: DIRECTION_MAP[dirCode] ?? dirCode,
-      supplySpace: info.spaceInfo?.supplySpace ?? 0,
-      exclusiveSpace: info.spaceInfo?.exclusiveSpace ?? 0,
-      dealPrice: info.priceInfo?.dealPrice ?? 0,
-    };
-  });
-}
-
-/**
- * 단지 매물 목록 조회 (동, 층, 향, 면적, 가격)
- * 1페이지: 단지 상세 페이지 이동 후 article/list 응답 인터셉트
- * 추가 페이지: 캡처한 API URL의 pageNo 파라미터를 증가시켜 page.evaluate로 직접 호출
- */
-export async function getArticleList(page: Page, complexNumber: number, config: RealEstateCrawlConfig): Promise<ArticleItem[]> {
-  const articles: ArticleItem[] = [];
+export async function collectArticles(page: Page, url: string): Promise<RealEstateArticle[]> {
+  const articles: RealEstateArticle[] = [];
   const seen = new Set<string>();
   let totalCount = 0;
-  let capturedReq: { url: string; body: Record<string, unknown> } | null = null;
+  let capturedApiUrl: string | null = null;
+  let capturedReqBody: Record<string, unknown> | null = null;
   let lastInfo: unknown[] = [];
 
-  // 요청 캡처 — POST body를 저장
+  type RawResp = { list: RawBoundedArticleItem[]; totalCount?: number; lastInfo?: unknown[] };
+  const rawResponses: RawResp[] = [];
+
   const reqHandler = (req: import('playwright').Request) => {
-    if (req.url().includes('complex/article/list') && !capturedReq) {
+    const reqUrl = req.url();
+    if (reqUrl.includes('boundedArticles') && !reqUrl.includes('Count')) {
+      rawResponses.length = 0;
+      capturedApiUrl = reqUrl;
       const raw = req.postData();
-      if (raw) capturedReq = { url: req.url(), body: JSON.parse(raw) as Record<string, unknown> };
+      if (raw) try { capturedReqBody = JSON.parse(raw) as Record<string, unknown>; } catch { /* ignore */ }
     }
   };
 
-  // 1페이지 응답 인터셉트 — totalCount, lastInfo, 데이터 캡처
   const resHandler = async (res: import('playwright').Response) => {
-    if (!res.url().includes('complex/article/list')) return;
+    const resUrl = res.url();
+    if (resUrl.includes('boundedArticlesCount')) {
+      try {
+        const data = (await res.json()) as { isSuccess?: boolean; result?: { totalCount?: number } };
+        if (data.isSuccess && data.result?.totalCount !== undefined && totalCount === 0) {
+          totalCount = data.result.totalCount;
+        }
+      } catch { /* ignore */ }
+      return;
+    }
+    if (!resUrl.includes('boundedArticles')) return;
     try {
       const data = (await res.json()) as {
-        isSuccess: boolean;
-        result?: { list?: RawArticleItem[]; totalCount?: number; lastInfo?: unknown[] };
+        isSuccess?: boolean;
+        result?: { list?: RawBoundedArticleItem[]; totalCount?: number; lastInfo?: unknown[] };
       };
       if (!data.isSuccess || !data.result?.list) return;
-      if (totalCount === 0 && data.result.totalCount !== undefined) {
-        totalCount = data.result.totalCount;
-      }
-      if (data.result.lastInfo) lastInfo = data.result.lastInfo;
-      for (const item of parseArticleItems(data.result.list)) {
-        if (!seen.has(item.articleNumber)) {
-          seen.add(item.articleNumber);
-          articles.push(item);
-        }
-      }
-    } catch {
-      /* 파싱 실패 무시 */
-    }
+      if (totalCount === 0 && data.result.totalCount) totalCount = data.result.totalCount;
+      rawResponses.push({ list: data.result.list, totalCount: data.result.totalCount, lastInfo: data.result.lastInfo });
+    } catch { /* ignore */ }
   };
 
   page.on('request', reqHandler);
   page.on('response', resHandler);
-  await page.goto(`https://fin.land.naver.com/complexes/${complexNumber}?${buildFilterParams(config)}&tab=article`, {
-    waitUntil: 'domcontentloaded',
-    timeout: 15_000,
-  });
-  await page.waitForTimeout(3_000);
+
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 20_000 });
+  await page.waitForTimeout(5_000);
+
   page.off('request', reqHandler);
   page.off('response', resHandler);
 
-  // 추가 페이지: lastInfo 커서를 다음 요청 body에 전달
-  if (totalCount > articles.length && capturedReq) {
-    console.log(`  [페이지네이션] ${articles.length}/${totalCount}건 → 커서 기반 추가 호출`);
+  // 첫 번째 배치 파싱
+  for (const raw of rawResponses) {
+    if (raw.lastInfo) lastInfo = raw.lastInfo;
+    for (const item of flattenArticles(raw.list)) {
+      if (!seen.has(item.articleNumber)) {
+        seen.add(item.articleNumber);
+        articles.push(item);
+      }
+    }
+  }
 
-    const { url: apiUrl, body: baseBody } = capturedReq!;
+  console.log(`[수집] 1차: ${articles.length}건 / 총 ${totalCount}건`);
+
+  // 커서 기반 추가 페이지 수집 (무한스크롤 대응)
+  if (totalCount > articles.length && capturedApiUrl && capturedReqBody) {
+    const apiUrl = capturedApiUrl;
+    const baseBody = capturedReqBody as Record<string, unknown>;
+    const basePaging = (baseBody.articlePagingRequest as Record<string, unknown>) ?? {};
 
     while (articles.length < totalCount) {
       type FetchArg = { url: string; body: string };
-      const reqBody: Record<string, unknown> = Object.assign({}, baseBody, { lastInfo });
-      const fetchArg: FetchArg = {
-        url: apiUrl,
-        body: JSON.stringify(reqBody),
+      const reqBody: Record<string, unknown> = {
+        ...baseBody,
+        articlePagingRequest: { ...basePaging, lastInfo },
       };
 
       const data = (await page.evaluate(async (arg: FetchArg) => {
@@ -331,12 +203,15 @@ export async function getArticleList(page: Page, complexNumber: number, config: 
           credentials: 'include',
         });
         return res.json();
-      }, fetchArg)) as { isSuccess: boolean; result?: { list?: RawArticleItem[]; lastInfo?: unknown[] } };
+      }, { url: apiUrl, body: JSON.stringify(reqBody) })) as {
+        isSuccess: boolean;
+        result?: { list?: RawBoundedArticleItem[]; lastInfo?: unknown[] };
+      };
 
       if (!data.isSuccess || !data.result?.list?.length) break;
 
       const prevCount = articles.length;
-      for (const item of parseArticleItems(data.result.list)) {
+      for (const item of flattenArticles(data.result.list)) {
         if (!seen.has(item.articleNumber)) {
           seen.add(item.articleNumber);
           articles.push(item);
@@ -344,48 +219,38 @@ export async function getArticleList(page: Page, complexNumber: number, config: 
       }
 
       lastInfo = data.result.lastInfo ?? [];
+      console.log(`[수집] ${articles.length}건 / 총 ${totalCount}건`);
 
-      // 새 항목이 추가되지 않으면 더 이상 수집 불가 (무한루프 방지)
       if (articles.length === prevCount) break;
     }
   }
 
   if (totalCount > 0 && articles.length < totalCount) {
-    console.warn(`  [경고] 매물 ${articles.length}/${totalCount}건만 수집됨 (일부 누락 가능)`);
+    console.warn(`[경고] ${articles.length}/${totalCount}건만 수집됨`);
   }
 
   return articles;
 }
 
-/** getArticleList 반환 타입 */
-export interface ArticleItem {
-  articleNumber: string;
-  dongName: string;
-  floor: string;
-  totalFloor: string;
-  direction: string;
-  supplySpace: number;
-  exclusiveSpace: number;
-  dealPrice: number;
-}
+/**
+ * boundedArticles list에서 duplicatedArticleInfo.articleInfoList까지 펼쳐
+ * 개별 매물 RealEstateArticle 배열로 변환
+ */
+function flattenArticles(list: RawBoundedArticleItem[]): RealEstateArticle[] {
+  const result: RealEstateArticle[] = [];
+  for (const item of list) {
+    const dupInfo = item.duplicatedArticleInfo;
+    const realtorCount = dupInfo?.realtorCount ?? 1;
 
-interface ComplexDetailRaw {
-  name: string;
-  address: { city: string; division: string; sector: string; jibun: string };
-  totalHouseholdNumber: number;
-  useApprovalDate: string;
-  buildingRatioInfo?: { floorAreaRatio: number; buildingCoverageRatio: number };
-}
-
-interface RawArticleItem {
-  representativeArticleInfo: {
-    articleNumber: string;
-    dongName?: string;
-    articleDetail?: {
-      direction?: string;
-      floorDetailInfo?: { targetFloor?: string; totalFloor?: string };
-    };
-    spaceInfo?: { supplySpace?: number; exclusiveSpace?: number };
-    priceInfo?: { dealPrice?: number };
-  };
+    // articleInfoList가 있으면 개별 매물 모두 수집, 없으면 대표 매물만
+    const infoList = dupInfo?.articleInfoList;
+    if (infoList?.length) {
+      for (const info of infoList) {
+        result.push(parseArticle(info, realtorCount));
+      }
+    } else if (item.representativeArticleInfo) {
+      result.push(parseArticle(item.representativeArticleInfo, realtorCount));
+    }
+  }
+  return result;
 }
