@@ -1,29 +1,35 @@
 {
-  "crawledAt": "2026-03-21T22:51:26.869Z",
-  "total": 4,
+  "crawledAt": "2026-03-22T22:53:45.246Z",
+  "total": 5,
   "articles": [
     {
-      "title": "Bing 검색 \"카카오톡\" 상위 3개 결과가 전부 중국발 피싱",
-      "url": "https://news.hada.io/topic?id=27712",
-      "publishedAt": "2026-03-21T17:51:17.365Z",
+      "title": "Gemini + Claude 병렬 리뷰 파이프라인으로 블로그 품질 자동 검증하기",
+      "url": "https://news.hada.io/topic?id=27739",
+      "publishedAt": "2026-03-22T12:53:31.843Z",
       "source": "Geeknews"
     },
     {
-      "title": "매일 아침 AI 트렌드 리포트 자동화하기: 클로드 코워크 x 노션 가이드",
-      "url": "https://news.hada.io/topic?id=27704",
-      "publishedAt": "2026-03-21T05:51:17.366Z",
+      "title": "월 15만원짜리 Claude Code가 바꾼 아이디어-실행 사이클",
+      "url": "https://news.hada.io/topic?id=27736",
+      "publishedAt": "2026-03-22T10:53:31.844Z",
       "source": "Geeknews"
     },
     {
-      "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
-      "url": "https://news.hada.io/topic?id=27691",
-      "publishedAt": "2026-03-21T00:51:17.366Z",
+      "title": "중국의 오픈클로 열풍에 대하여",
+      "url": "https://news.hada.io/topic?id=27730",
+      "publishedAt": "2026-03-22T02:53:31.844Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
-      "url": "https://news.hada.io/topic?id=27690",
-      "publishedAt": "2026-03-20T23:51:17.366Z",
+      "title": "onecli - AI 에이전트용 시크릿 게이트웨이",
+      "url": "https://news.hada.io/topic?id=27719",
+      "publishedAt": "2026-03-22T00:53:31.845Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "생각 — 빠르게, 느리게, 그리고 인공지능으로: AI가 인간의 사고 방식을 어떻게 재구성하고 있는가",
+      "url": "https://news.hada.io/topic?id=27718",
+      "publishedAt": "2026-03-21T23:53:31.845Z",
       "source": "Geeknews"
     }
   ]
