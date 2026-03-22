@@ -8,45 +8,22 @@ on:
 
 jobs:
   crawl:
-    runs-on: ubuntu-latest
+    # 네이버 부동산은 AWS/Azure IP 차단 → Self-hosted Runner(로컬 Mac)에서 실행
+    runs-on: self-hosted
     timeout-minutes: 90
 
     steps:
       - name: 코드 체크아웃
         uses: actions/checkout@v4
 
-      - name: Node.js 설정
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          cache: 'yarn'
-
-      - name: Yarn 활성화
-        run: corepack enable
-
       - name: 의존성 설치
         run: yarn install --immutable
 
-      - name: Playwright 캐시 복원
-        uses: actions/cache@v4
-        id: playwright-cache
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
-
       - name: Playwright Chromium 설치
-        if: steps.playwright-cache.outputs.cache-hit != 'true'
-        run: yarn playwright install chromium --with-deps
-
-      - name: Playwright 시스템 의존성 설치 (캐시 히트 시)
-        if: steps.playwright-cache.outputs.cache-hit == 'true'
-        run: yarn playwright install-deps chromium
-
-      - name: Xvfb 설치 (headless:false 브라우저 실행용)
-        run: sudo apt-get install -y xvfb
+        run: yarn playwright install chromium
 
       - name: 부동산 크롤링 실행
-        run: xvfb-run --auto-servernum yarn crawl-realestate
+        run: yarn crawl-realestate
         env:
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           GOOGLE_SHEETS_SPREADSHEET_ID: ${{ secrets.GOOGLE_SHEETS_SPREADSHEET_ID }}
