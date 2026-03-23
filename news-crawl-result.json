@@ -1,35 +1,59 @@
 {
-  "crawledAt": "2026-03-22T22:53:45.246Z",
-  "total": 5,
+  "crawledAt": "2026-03-23T23:00:32.174Z",
+  "total": 9,
   "articles": [
     {
-      "title": "Gemini + Claude 병렬 리뷰 파이프라인으로 블로그 품질 자동 검증하기",
-      "url": "https://news.hada.io/topic?id=27739",
-      "publishedAt": "2026-03-22T12:53:31.843Z",
+      "title": "1대1 RTS 게임으로 만든 LLM 벤치마크",
+      "url": "https://news.hada.io/topic?id=27785",
+      "publishedAt": "2026-03-23T17:00:22.858Z",
       "source": "Geeknews"
     },
     {
-      "title": "월 15만원짜리 Claude Code가 바꾼 아이디어-실행 사이클",
-      "url": "https://news.hada.io/topic?id=27736",
-      "publishedAt": "2026-03-22T10:53:31.844Z",
+      "title": "AI 시대 개발자 수요 전망 분석 (제번스의 역설 관점 포함)",
+      "url": "https://news.hada.io/topic?id=27780",
+      "publishedAt": "2026-03-23T09:00:22.859Z",
       "source": "Geeknews"
     },
     {
-      "title": "중국의 오픈클로 열풍에 대하여",
-      "url": "https://news.hada.io/topic?id=27730",
-      "publishedAt": "2026-03-22T02:53:31.844Z",
+      "title": "81,000명이 말한 AI의 진짜 쓰임새 (Anthropic “81k Interviews”)",
+      "url": "https://news.hada.io/topic?id=27779",
+      "publishedAt": "2026-03-23T09:00:22.859Z",
       "source": "Geeknews"
     },
     {
-      "title": "onecli - AI 에이전트용 시크릿 게이트웨이",
-      "url": "https://news.hada.io/topic?id=27719",
-      "publishedAt": "2026-03-22T00:53:31.845Z",
+      "title": "Siri + Claude Code + Obsidian 으로 만든 AI 베이비시터",
+      "url": "https://news.hada.io/topic?id=27774",
+      "publishedAt": "2026-03-23T04:00:22.859Z",
       "source": "Geeknews"
     },
     {
-      "title": "생각 — 빠르게, 느리게, 그리고 인공지능으로: AI가 인간의 사고 방식을 어떻게 재구성하고 있는가",
-      "url": "https://news.hada.io/topic?id=27718",
-      "publishedAt": "2026-03-21T23:53:31.845Z",
+      "title": "코드의 죽음은 과장되었다",
+      "url": "https://news.hada.io/topic?id=27772",
+      "publishedAt": "2026-03-23T03:00:22.860Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "코드의 죽음 보고는 크게 과장되었다",
+      "url": "https://news.hada.io/topic?id=27768",
+      "publishedAt": "2026-03-23T02:00:22.860Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Xiaomi mimo-v2-pro - 극가성비 샤오미 모델",
+      "url": "https://news.hada.io/topic?id=27764",
+      "publishedAt": "2026-03-23T02:00:22.860Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "gstack - Claude Code로 만드는 가상 엔지니어링 팀",
+      "url": "https://news.hada.io/topic?id=27756",
+      "publishedAt": "2026-03-23T01:00:22.860Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Impeccable - AI 하네스가 더 디자인 잘하게 만들기",
+      "url": "https://news.hada.io/topic?id=27750",
+      "publishedAt": "2026-03-23T01:00:22.860Z",
       "source": "Geeknews"
     }
   ]
