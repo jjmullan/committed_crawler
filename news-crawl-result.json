@@ -1,59 +1,47 @@
 {
-  "crawledAt": "2026-03-23T23:00:32.174Z",
-  "total": 9,
+  "crawledAt": "2026-03-24T22:59:38.905Z",
+  "total": 7,
   "articles": [
     {
-      "title": "1대1 RTS 게임으로 만든 LLM 벤치마크",
-      "url": "https://news.hada.io/topic?id=27785",
-      "publishedAt": "2026-03-23T17:00:22.858Z",
+      "title": "AI Native Engineer — 원리 위의 감각",
+      "url": "https://news.hada.io/topic?id=27812",
+      "publishedAt": "2026-03-24T14:59:29.498Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대 개발자 수요 전망 분석 (제번스의 역설 관점 포함)",
-      "url": "https://news.hada.io/topic?id=27780",
-      "publishedAt": "2026-03-23T09:00:22.859Z",
+      "title": "LiteLLM이 공급망 공격으로 해킹당했습니다.",
+      "url": "https://news.hada.io/topic?id=27810",
+      "publishedAt": "2026-03-24T12:59:29.499Z",
       "source": "Geeknews"
     },
     {
-      "title": "81,000명이 말한 AI의 진짜 쓰임새 (Anthropic “81k Interviews”)",
-      "url": "https://news.hada.io/topic?id=27779",
-      "publishedAt": "2026-03-23T09:00:22.859Z",
+      "title": "기여자 서약(Contributor Covenant) 3.0 행동 강령 한국어 번역 PR",
+      "url": "https://news.hada.io/topic?id=27809",
+      "publishedAt": "2026-03-24T12:59:29.500Z",
       "source": "Geeknews"
     },
     {
-      "title": "Siri + Claude Code + Obsidian 으로 만든 AI 베이비시터",
-      "url": "https://news.hada.io/topic?id=27774",
-      "publishedAt": "2026-03-23T04:00:22.859Z",
+      "title": "오픈소스 협력 강화｜ArmSoM Sige5, 2026 임베디드 월드에서 Collabora와 함께 선보여",
+      "url": "https://news.hada.io/topic?id=27805",
+      "publishedAt": "2026-03-24T08:59:29.500Z",
       "source": "Geeknews"
     },
     {
-      "title": "코드의 죽음은 과장되었다",
-      "url": "https://news.hada.io/topic?id=27772",
-      "publishedAt": "2026-03-23T03:00:22.860Z",
+      "title": "emulate - 로컬에서 GitHub·Vercel·Google API를 완전 복제해 실행하기",
+      "url": "https://news.hada.io/topic?id=27802",
+      "publishedAt": "2026-03-24T04:59:29.500Z",
       "source": "Geeknews"
     },
     {
-      "title": "코드의 죽음 보고는 크게 과장되었다",
-      "url": "https://news.hada.io/topic?id=27768",
-      "publishedAt": "2026-03-23T02:00:22.860Z",
+      "title": "Claude, 컴퓨터의 마우스·키보드·화면 직접 제어 기능 출시",
+      "url": "https://news.hada.io/topic?id=27794",
+      "publishedAt": "2026-03-24T00:59:29.501Z",
       "source": "Geeknews"
     },
     {
-      "title": "Xiaomi mimo-v2-pro - 극가성비 샤오미 모델",
-      "url": "https://news.hada.io/topic?id=27764",
-      "publishedAt": "2026-03-23T02:00:22.860Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "gstack - Claude Code로 만드는 가상 엔지니어링 팀",
-      "url": "https://news.hada.io/topic?id=27756",
-      "publishedAt": "2026-03-23T01:00:22.860Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Impeccable - AI 하네스가 더 디자인 잘하게 만들기",
-      "url": "https://news.hada.io/topic?id=27750",
-      "publishedAt": "2026-03-23T01:00:22.860Z",
+      "title": "OpenSquirrel - GPU 기반 AI 코드 에이전트 제어판",
+      "url": "https://news.hada.io/topic?id=27787",
+      "publishedAt": "2026-03-24T00:59:29.501Z",
       "source": "Geeknews"
     }
   ]
