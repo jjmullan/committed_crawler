@@ -1,48 +1,60 @@
 {
-  "crawledAt": "2026-03-24T22:59:38.905Z",
-  "total": 7,
+  "crawledAt": "2026-03-25T23:03:55.695Z",
+  "total": 9,
   "articles": [
     {
-      "title": "AI Native Engineer — 원리 위의 감각",
-      "url": "https://news.hada.io/topic?id=27812",
-      "publishedAt": "2026-03-24T14:59:29.498Z",
+      "title": "AI로 35년전 고전 게임 한글화하기",
+      "url": "https://news.hada.io/topic?id=27850",
+      "publishedAt": "2026-03-25T17:03:41.383Z",
       "source": "Geeknews"
     },
     {
-      "title": "LiteLLM이 공급망 공격으로 해킹당했습니다.",
-      "url": "https://news.hada.io/topic?id=27810",
-      "publishedAt": "2026-03-24T12:59:29.499Z",
+      "title": "2026 Bio-AI 오픈소스 감사 보고서: 10개를 점검해보니, \"대부분은 돌아가지만 믿기 어려웠다.\"",
+      "url": "https://news.hada.io/topic?id=27848",
+      "publishedAt": "2026-03-25T12:03:41.383Z",
       "source": "Geeknews"
     },
     {
-      "title": "기여자 서약(Contributor Covenant) 3.0 행동 강령 한국어 번역 PR",
-      "url": "https://news.hada.io/topic?id=27809",
-      "publishedAt": "2026-03-24T12:59:29.500Z",
+      "title": "미국 FCC, 해외 생산 소비자용 라우터 신규 모델 수입 전면 금지",
+      "url": "https://news.hada.io/topic?id=27842",
+      "publishedAt": "2026-03-25T06:03:41.384Z",
       "source": "Geeknews"
     },
     {
-      "title": "오픈소스 협력 강화｜ArmSoM Sige5, 2026 임베디드 월드에서 Collabora와 함께 선보여",
-      "url": "https://news.hada.io/topic?id=27805",
-      "publishedAt": "2026-03-24T08:59:29.500Z",
+      "title": "Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지",
+      "url": "https://news.hada.io/topic?id=27829",
+      "publishedAt": "2026-03-25T01:03:41.384Z",
       "source": "Geeknews"
     },
     {
-      "title": "emulate - 로컬에서 GitHub·Vercel·Google API를 완전 복제해 실행하기",
-      "url": "https://news.hada.io/topic?id=27802",
-      "publishedAt": "2026-03-24T04:59:29.500Z",
+      "title": "OpenAI, AI 영상 앱 Sora 전격 종료 — Disney 파트너십도 해체",
+      "url": "https://news.hada.io/topic?id=27825",
+      "publishedAt": "2026-03-25T01:03:41.385Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude, 컴퓨터의 마우스·키보드·화면 직접 제어 기능 출시",
-      "url": "https://news.hada.io/topic?id=27794",
-      "publishedAt": "2026-03-24T00:59:29.501Z",
+      "title": "Dozzle - 컨테이너 실시간 로그 뷰어",
+      "url": "https://news.hada.io/topic?id=27821",
+      "publishedAt": "2026-03-25T00:03:41.385Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenSquirrel - GPU 기반 AI 코드 에이전트 제어판",
-      "url": "https://news.hada.io/topic?id=27787",
-      "publishedAt": "2026-03-24T00:59:29.501Z",
-      "source": "Geeknews"
+      "title": "당신의 취향(Taste)은 AI보다 나은가?",
+      "url": "https://yozm.wishket.com/magazine/detail/3675/",
+      "publishedAt": "2026-03-25T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "AI와 만든 앱에 결제를 붙이는 가장 현명한 방법들 (Feat. MoR)",
+      "url": "https://yozm.wishket.com/magazine/detail/3674/",
+      "publishedAt": "2026-03-25T17:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "코드는 줄고 판단은 남았다: AI 시대 개발자의 일일일",
+      "url": "https://yozm.wishket.com/magazine/detail/3673/",
+      "publishedAt": "2026-03-25T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
