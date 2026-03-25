@@ -1,0 +1,30 @@
+{
+  "crawledAt": "2026-03-21T22:51:26.869Z",
+  "total": 4,
+  "articles": [
+    {
+      "title": "Bing 검색 \"카카오톡\" 상위 3개 결과가 전부 중국발 피싱",
+      "url": "https://news.hada.io/topic?id=27712",
+      "publishedAt": "2026-03-21T17:51:17.365Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "매일 아침 AI 트렌드 리포트 자동화하기: 클로드 코워크 x 노션 가이드",
+      "url": "https://news.hada.io/topic?id=27704",
+      "publishedAt": "2026-03-21T05:51:17.366Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
+      "url": "https://news.hada.io/topic?id=27691",
+      "publishedAt": "2026-03-21T00:51:17.366Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
+      "url": "https://news.hada.io/topic?id=27690",
+      "publishedAt": "2026-03-20T23:51:17.366Z",
+      "source": "Geeknews"
+    }
+  ]
+}
