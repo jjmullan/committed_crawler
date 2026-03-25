@@ -1,29 +1,47 @@
 {
-  "crawledAt": "2026-03-21T22:51:26.869Z",
-  "total": 4,
+  "crawledAt": "2026-03-24T22:59:38.905Z",
+  "total": 7,
   "articles": [
     {
-      "title": "Bing 검색 \"카카오톡\" 상위 3개 결과가 전부 중국발 피싱",
-      "url": "https://news.hada.io/topic?id=27712",
-      "publishedAt": "2026-03-21T17:51:17.365Z",
+      "title": "AI Native Engineer — 원리 위의 감각",
+      "url": "https://news.hada.io/topic?id=27812",
+      "publishedAt": "2026-03-24T14:59:29.498Z",
       "source": "Geeknews"
     },
     {
-      "title": "매일 아침 AI 트렌드 리포트 자동화하기: 클로드 코워크 x 노션 가이드",
-      "url": "https://news.hada.io/topic?id=27704",
-      "publishedAt": "2026-03-21T05:51:17.366Z",
+      "title": "LiteLLM이 공급망 공격으로 해킹당했습니다.",
+      "url": "https://news.hada.io/topic?id=27810",
+      "publishedAt": "2026-03-24T12:59:29.499Z",
       "source": "Geeknews"
     },
     {
-      "title": "Tabularis - 개발자용 크로스플랫폼 DB 관리 애플리케이션",
-      "url": "https://news.hada.io/topic?id=27691",
-      "publishedAt": "2026-03-21T00:51:17.366Z",
+      "title": "기여자 서약(Contributor Covenant) 3.0 행동 강령 한국어 번역 PR",
+      "url": "https://news.hada.io/topic?id=27809",
+      "publishedAt": "2026-03-24T12:59:29.500Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code, 클라우드 기반 예약 작업 기능 추가",
-      "url": "https://news.hada.io/topic?id=27690",
-      "publishedAt": "2026-03-20T23:51:17.366Z",
+      "title": "오픈소스 협력 강화｜ArmSoM Sige5, 2026 임베디드 월드에서 Collabora와 함께 선보여",
+      "url": "https://news.hada.io/topic?id=27805",
+      "publishedAt": "2026-03-24T08:59:29.500Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "emulate - 로컬에서 GitHub·Vercel·Google API를 완전 복제해 실행하기",
+      "url": "https://news.hada.io/topic?id=27802",
+      "publishedAt": "2026-03-24T04:59:29.500Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Claude, 컴퓨터의 마우스·키보드·화면 직접 제어 기능 출시",
+      "url": "https://news.hada.io/topic?id=27794",
+      "publishedAt": "2026-03-24T00:59:29.501Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "OpenSquirrel - GPU 기반 AI 코드 에이전트 제어판",
+      "url": "https://news.hada.io/topic?id=27787",
+      "publishedAt": "2026-03-24T00:59:29.501Z",
       "source": "Geeknews"
     }
   ]
