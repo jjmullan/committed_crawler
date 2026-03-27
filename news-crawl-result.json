@@ -1,30 +1,48 @@
 {
-  "crawledAt": "2026-03-26T22:57:46.376Z",
-  "total": 4,
+  "crawledAt": "2026-03-27T23:01:31.125Z",
+  "total": 7,
   "articles": [
     {
-      "title": "Chops - AI 에이전트 스킬을 한 곳에서 관리하는 macOS 앱",
-      "url": "https://news.hada.io/topic?id=27880",
-      "publishedAt": "2026-03-26T06:57:36.762Z",
+      "title": "SaaS 는 죽지 않았다",
+      "url": "https://news.hada.io/topic?id=27918",
+      "publishedAt": "2026-03-27T12:01:17.194Z",
       "source": "Geeknews"
     },
     {
-      "title": "Arm AGI CPU 출시 (2026년 3월 24일 Arm 공식 발표)",
-      "url": "https://news.hada.io/topic?id=27871",
-      "publishedAt": "2026-03-26T02:57:36.763Z",
+      "title": "Anthropic, 차세대 모델 “Claude Mythos” 유출로 존재 확인 — “역대 가장 강력한 모델”",
+      "url": "https://news.hada.io/topic?id=27911",
+      "publishedAt": "2026-03-27T06:01:17.195Z",
       "source": "Geeknews"
     },
     {
-      "title": "Expect - 에이전트가 실제 브라우저에서 코드를 테스트하는 도구",
-      "url": "https://news.hada.io/topic?id=27865",
-      "publishedAt": "2026-03-26T00:57:36.764Z",
+      "title": "깃허브 정책 변화 / 4월 24일 이후 별도의 설정없을 경우 AI 데이터로 학습",
+      "url": "https://news.hada.io/topic?id=27909",
+      "publishedAt": "2026-03-27T04:01:17.196Z",
       "source": "Geeknews"
     },
     {
-      "title": "gitagent - AI 에이전트 정의 및 관리를 위한 Git 기반 표준",
-      "url": "https://news.hada.io/topic?id=27859",
-      "publishedAt": "2026-03-26T00:57:36.764Z",
+      "title": "understudy - 시연으로 배우는 로컬 데스크톱 에이전트",
+      "url": "https://news.hada.io/topic?id=27902",
+      "publishedAt": "2026-03-27T01:01:17.196Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Upright - Playwright와 Prometheus 메트릭을 활용한 합성 모니터링 엔진",
+      "url": "https://news.hada.io/topic?id=27898",
+      "publishedAt": "2026-03-27T01:01:17.197Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "20년 전 게임 ‘건즈 온라인’를 브라우저로 이식한 개발자",
+      "url": "https://yozm.wishket.com/magazine/detail/3680/",
+      "publishedAt": "2026-03-27T09:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "누구도 알려주지 않는 AWS 보안의 첫 번째 원칙",
+      "url": "https://yozm.wishket.com/magazine/detail/3679/",
+      "publishedAt": "2026-03-27T14:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
