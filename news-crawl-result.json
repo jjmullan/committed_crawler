@@ -1,48 +1,30 @@
 {
-  "crawledAt": "2026-03-27T23:01:31.125Z",
-  "total": 7,
+  "crawledAt": "2026-03-28T22:58:03.155Z",
+  "total": 4,
   "articles": [
     {
-      "title": "SaaS 는 죽지 않았다",
-      "url": "https://news.hada.io/topic?id=27918",
-      "publishedAt": "2026-03-27T12:01:17.194Z",
+      "title": "바보야, 문제는 경계야",
+      "url": "https://news.hada.io/topic?id=27952",
+      "publishedAt": "2026-03-28T12:57:53.490Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic, 차세대 모델 “Claude Mythos” 유출로 존재 확인 — “역대 가장 강력한 모델”",
-      "url": "https://news.hada.io/topic?id=27911",
-      "publishedAt": "2026-03-27T06:01:17.195Z",
+      "title": "AI 시대, 지금의 디자인 프로세스는 사라질까",
+      "url": "https://news.hada.io/topic?id=27944",
+      "publishedAt": "2026-03-28T02:57:53.491Z",
       "source": "Geeknews"
     },
     {
-      "title": "깃허브 정책 변화 / 4월 24일 이후 별도의 설정없을 경우 AI 데이터로 학습",
-      "url": "https://news.hada.io/topic?id=27909",
-      "publishedAt": "2026-03-27T04:01:17.196Z",
+      "title": "Z.AI Coding Plan, GLM-5.1 모델 지원 — Claude Code·OpenClaw에서 전환 방법",
+      "url": "https://news.hada.io/topic?id=27943",
+      "publishedAt": "2026-03-28T02:57:53.491Z",
       "source": "Geeknews"
     },
     {
-      "title": "understudy - 시연으로 배우는 로컬 데스크톱 에이전트",
-      "url": "https://news.hada.io/topic?id=27902",
-      "publishedAt": "2026-03-27T01:01:17.196Z",
+      "title": "Vercel의 json-render - Generative UI 프레임워크",
+      "url": "https://news.hada.io/topic?id=27933",
+      "publishedAt": "2026-03-28T00:57:53.492Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "Upright - Playwright와 Prometheus 메트릭을 활용한 합성 모니터링 엔진",
-      "url": "https://news.hada.io/topic?id=27898",
-      "publishedAt": "2026-03-27T01:01:17.197Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "20년 전 게임 ‘건즈 온라인’를 브라우저로 이식한 개발자",
-      "url": "https://yozm.wishket.com/magazine/detail/3680/",
-      "publishedAt": "2026-03-27T09:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "누구도 알려주지 않는 AWS 보안의 첫 번째 원칙",
-      "url": "https://yozm.wishket.com/magazine/detail/3679/",
-      "publishedAt": "2026-03-27T14:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
