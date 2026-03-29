@@ -1,29 +1,47 @@
 {
-  "crawledAt": "2026-03-28T22:58:03.155Z",
-  "total": 4,
+  "crawledAt": "2026-03-29T23:00:34.843Z",
+  "total": 7,
   "articles": [
     {
-      "title": "바보야, 문제는 경계야",
-      "url": "https://news.hada.io/topic?id=27952",
-      "publishedAt": "2026-03-28T12:57:53.490Z",
+      "title": "A2A Protocol이 1.0이 되면서 바뀐 것들, 그리고 0.3 구현체를 옮기려면",
+      "url": "https://news.hada.io/topic?id=27976",
+      "publishedAt": "2026-03-29T13:00:21.348Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대, 지금의 디자인 프로세스는 사라질까",
-      "url": "https://news.hada.io/topic?id=27944",
-      "publishedAt": "2026-03-28T02:57:53.491Z",
+      "title": "CPython 3.15의 JIT, 다시 궤도에 오르다",
+      "url": "https://news.hada.io/topic?id=27971",
+      "publishedAt": "2026-03-29T07:00:21.349Z",
       "source": "Geeknews"
     },
     {
-      "title": "Z.AI Coding Plan, GLM-5.1 모델 지원 — Claude Code·OpenClaw에서 전환 방법",
-      "url": "https://news.hada.io/topic?id=27943",
-      "publishedAt": "2026-03-28T02:57:53.491Z",
+      "title": "2027년 봇이 인터넷 점령한다, 웹의 주도권이 바뀌고 있다",
+      "url": "https://news.hada.io/topic?id=27970",
+      "publishedAt": "2026-03-29T04:00:21.350Z",
       "source": "Geeknews"
     },
     {
-      "title": "Vercel의 json-render - Generative UI 프레임워크",
-      "url": "https://news.hada.io/topic?id=27933",
-      "publishedAt": "2026-03-28T00:57:53.492Z",
+      "title": "Harness — Claude Code 에이전트 팀 & 스킬 아키텍트 플러그인",
+      "url": "https://news.hada.io/topic?id=27969",
+      "publishedAt": "2026-03-29T03:00:21.350Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "한국에서 AI 프로젝트가 망하는 이유",
+      "url": "https://news.hada.io/topic?id=27967",
+      "publishedAt": "2026-03-29T02:00:21.350Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "크롬 v145 부터 버티컬 탭 지원 시작",
+      "url": "https://news.hada.io/topic?id=27963",
+      "publishedAt": "2026-03-29T01:00:21.350Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "OpenUI - 생성형 UI를 위한 오픈 표준 프레임워크",
+      "url": "https://news.hada.io/topic?id=27959",
+      "publishedAt": "2026-03-29T01:00:21.350Z",
       "source": "Geeknews"
     }
   ]
