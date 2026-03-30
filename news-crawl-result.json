@@ -1,47 +1,41 @@
 {
-  "crawledAt": "2026-03-29T23:00:34.843Z",
-  "total": 7,
+  "crawledAt": "2026-03-30T23:04:34.973Z",
+  "total": 6,
   "articles": [
     {
-      "title": "A2A Protocol이 1.0이 되면서 바뀐 것들, 그리고 0.3 구현체를 옮기려면",
-      "url": "https://news.hada.io/topic?id=27976",
-      "publishedAt": "2026-03-29T13:00:21.348Z",
+      "title": "미루기는 시간 관리가 아니라 감정 조절의 문제입니다.",
+      "url": "https://news.hada.io/topic?id=28016",
+      "publishedAt": "2026-03-30T14:04:25.583Z",
       "source": "Geeknews"
     },
     {
-      "title": "CPython 3.15의 JIT, 다시 궤도에 오르다",
-      "url": "https://news.hada.io/topic?id=27971",
-      "publishedAt": "2026-03-29T07:00:21.349Z",
+      "title": "AI 판사 도입시 디지털 변론주의의 확립: 프롬프트 합의 및 메타데이터 중립성 확보 방안",
+      "url": "https://news.hada.io/topic?id=28005",
+      "publishedAt": "2026-03-30T04:04:25.584Z",
       "source": "Geeknews"
     },
     {
-      "title": "2027년 봇이 인터넷 점령한다, 웹의 주도권이 바뀌고 있다",
-      "url": "https://news.hada.io/topic?id=27970",
-      "publishedAt": "2026-03-29T04:00:21.350Z",
+      "title": "Pretext – DOM 없이 텍스트 높이를 측정하는 순수 JS 레이아웃 라이브러리",
+      "url": "https://news.hada.io/topic?id=28001",
+      "publishedAt": "2026-03-30T02:04:25.585Z",
       "source": "Geeknews"
     },
     {
-      "title": "Harness — Claude Code 에이전트 팀 & 스킬 아키텍트 플러그인",
-      "url": "https://news.hada.io/topic?id=27969",
-      "publishedAt": "2026-03-29T03:00:21.350Z",
+      "title": "Keploy - 트래픽 기반 자동 API 테스트 생성기",
+      "url": "https://news.hada.io/topic?id=27998",
+      "publishedAt": "2026-03-30T01:04:25.585Z",
       "source": "Geeknews"
     },
     {
-      "title": "한국에서 AI 프로젝트가 망하는 이유",
-      "url": "https://news.hada.io/topic?id=27967",
-      "publishedAt": "2026-03-29T02:00:21.350Z",
+      "title": "에이전틱 SaaS가 바꾸는 것 — UI 디자인부터 과금 모델까지",
+      "url": "https://news.hada.io/topic?id=27996",
+      "publishedAt": "2026-03-30T01:04:25.585Z",
       "source": "Geeknews"
     },
     {
-      "title": "크롬 v145 부터 버티컬 탭 지원 시작",
-      "url": "https://news.hada.io/topic?id=27963",
-      "publishedAt": "2026-03-29T01:00:21.350Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenUI - 생성형 UI를 위한 오픈 표준 프레임워크",
-      "url": "https://news.hada.io/topic?id=27959",
-      "publishedAt": "2026-03-29T01:00:21.350Z",
+      "title": "Korean Law MCP - 대한민국 법령 검색·조회·분석 도구",
+      "url": "https://news.hada.io/topic?id=27995",
+      "publishedAt": "2026-03-30T01:04:25.585Z",
       "source": "Geeknews"
     }
   ]
