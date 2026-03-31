@@ -1,42 +1,90 @@
 {
-  "crawledAt": "2026-03-30T23:04:34.973Z",
-  "total": 6,
+  "crawledAt": "2026-03-31T22:59:25.220Z",
+  "total": 14,
   "articles": [
     {
-      "title": "미루기는 시간 관리가 아니라 감정 조절의 문제입니다.",
-      "url": "https://news.hada.io/topic?id=28016",
-      "publishedAt": "2026-03-30T14:04:25.583Z",
+      "title": "Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지",
+      "url": "https://news.hada.io/topic?id=28062",
+      "publishedAt": "2026-03-31T16:59:12.161Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 판사 도입시 디지털 변론주의의 확립: 프롬프트 합의 및 메타데이터 중립성 확보 방안",
-      "url": "https://news.hada.io/topic?id=28005",
-      "publishedAt": "2026-03-30T04:04:25.584Z",
+      "title": "Claude Code 유출 소스 기반 Python 클린룸 재작성 프로젝트 - claw-code",
+      "url": "https://news.hada.io/topic?id=28061",
+      "publishedAt": "2026-03-31T15:59:12.162Z",
       "source": "Geeknews"
     },
     {
-      "title": "Pretext – DOM 없이 텍스트 높이를 측정하는 순수 JS 레이아웃 라이브러리",
-      "url": "https://news.hada.io/topic?id=28001",
-      "publishedAt": "2026-03-30T02:04:25.585Z",
+      "title": "Claude Code 소스 코드가 npm 레지스트리 맵 파일을 통해 유출",
+      "url": "https://news.hada.io/topic?id=28059",
+      "publishedAt": "2026-03-31T13:59:12.163Z",
       "source": "Geeknews"
     },
     {
-      "title": "Keploy - 트래픽 기반 자동 API 테스트 생성기",
-      "url": "https://news.hada.io/topic?id=27998",
-      "publishedAt": "2026-03-30T01:04:25.585Z",
+      "title": "AI 에이전트 프레임워크 9종의 런타임 보안 현황 분석",
+      "url": "https://news.hada.io/topic?id=28058",
+      "publishedAt": "2026-03-31T13:59:12.163Z",
       "source": "Geeknews"
     },
     {
-      "title": "에이전틱 SaaS가 바꾸는 것 — UI 디자인부터 과금 모델까지",
-      "url": "https://news.hada.io/topic?id=27996",
-      "publishedAt": "2026-03-30T01:04:25.585Z",
+      "title": "axios@1.14.1, axios@0.30.4 버전이 해킹당했습니다.",
+      "url": "https://news.hada.io/topic?id=28046",
+      "publishedAt": "2026-03-31T07:59:12.163Z",
       "source": "Geeknews"
     },
     {
-      "title": "Korean Law MCP - 대한민국 법령 검색·조회·분석 도구",
-      "url": "https://news.hada.io/topic?id=27995",
-      "publishedAt": "2026-03-30T01:04:25.585Z",
+      "title": "법률적 시각(Legal AI)에서 본 온톨로지(Ontology)의 개념",
+      "url": "https://news.hada.io/topic?id=28044",
+      "publishedAt": "2026-03-31T04:59:12.164Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "클로드 코워크로 테크 트렌드 키워드 수집 에이전트 빌드",
+      "url": "https://news.hada.io/topic?id=28039",
+      "publishedAt": "2026-03-31T02:59:12.164Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "PDF 논문 RAG, 텍스트만으로 충분할까? - Gemini embedding 002 임베딩 검색 실험",
+      "url": "https://news.hada.io/topic?id=28037",
+      "publishedAt": "2026-03-31T02:59:12.164Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Wikipedia, AI 글쓰기 전면 금지, 40대 2 표결의 배경",
+      "url": "https://news.hada.io/topic?id=28033",
+      "publishedAt": "2026-03-31T01:59:12.164Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI가 두려워 직업을 바꾼다, 미국 청년들의 커리어 피벗 현장",
+      "url": "https://news.hada.io/topic?id=28032",
+      "publishedAt": "2026-03-31T01:59:12.165Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "OpenAI의 Claude Code용 Codex 플러그인",
+      "url": "https://news.hada.io/topic?id=28023",
+      "publishedAt": "2026-03-30T23:59:12.165Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Shopify의 데이터 구조화 여정: One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로",
+      "url": "https://news.hada.io/topic?id=28022",
+      "publishedAt": "2026-03-30T23:59:12.165Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI가 UX를 설계하는 방식: 화면보다 흐름이 먼저인 ‘Figr’",
+      "url": "https://yozm.wishket.com/magazine/detail/3685/",
+      "publishedAt": "2026-03-31T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "몰트북(Moltbook)의 성공에서 반드시 읽어야 할 3가지 포인트",
+      "url": "https://yozm.wishket.com/magazine/detail/3684/",
+      "publishedAt": "2026-03-31T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
