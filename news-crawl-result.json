@@ -1,90 +1,60 @@
 {
-  "crawledAt": "2026-03-31T22:59:25.220Z",
-  "total": 14,
+  "crawledAt": "2026-04-01T23:06:05.954Z",
+  "total": 9,
   "articles": [
     {
-      "title": "Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지",
-      "url": "https://news.hada.io/topic?id=28062",
-      "publishedAt": "2026-03-31T16:59:12.161Z",
+      "title": "Claude code 개발자 Boris Cherny, 소스코드 유출 경위 공개",
+      "url": "https://news.hada.io/topic?id=28090",
+      "publishedAt": "2026-04-01T13:05:51.490Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code 유출 소스 기반 Python 클린룸 재작성 프로젝트 - claw-code",
-      "url": "https://news.hada.io/topic?id=28061",
-      "publishedAt": "2026-03-31T15:59:12.162Z",
+      "title": "Function Calling Harness, turning success rate from 6.75% to 100%",
+      "url": "https://news.hada.io/topic?id=28084",
+      "publishedAt": "2026-04-01T05:05:51.491Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code 소스 코드가 npm 레지스트리 맵 파일을 통해 유출",
-      "url": "https://news.hada.io/topic?id=28059",
-      "publishedAt": "2026-03-31T13:59:12.163Z",
+      "title": "Google, Gmail 계정의 사용자명 변경 기능 공식 출시",
+      "url": "https://news.hada.io/topic?id=28083",
+      "publishedAt": "2026-04-01T03:05:51.491Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 에이전트 프레임워크 9종의 런타임 보안 현황 분석",
-      "url": "https://news.hada.io/topic?id=28058",
-      "publishedAt": "2026-03-31T13:59:12.163Z",
+      "title": "Claude Code (유출본) 소스 코드  분석서",
+      "url": "https://news.hada.io/topic?id=28080",
+      "publishedAt": "2026-04-01T02:05:51.492Z",
       "source": "Geeknews"
     },
     {
-      "title": "axios@1.14.1, axios@0.30.4 버전이 해킹당했습니다.",
-      "url": "https://news.hada.io/topic?id=28046",
-      "publishedAt": "2026-03-31T07:59:12.163Z",
+      "title": "edgejs - WebAssembly 기반 안전한 JS 런타임",
+      "url": "https://news.hada.io/topic?id=28071",
+      "publishedAt": "2026-04-01T01:05:51.492Z",
       "source": "Geeknews"
     },
     {
-      "title": "법률적 시각(Legal AI)에서 본 온톨로지(Ontology)의 개념",
-      "url": "https://news.hada.io/topic?id=28044",
-      "publishedAt": "2026-03-31T04:59:12.164Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "클로드 코워크로 테크 트렌드 키워드 수집 에이전트 빌드",
-      "url": "https://news.hada.io/topic?id=28039",
-      "publishedAt": "2026-03-31T02:59:12.164Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "PDF 논문 RAG, 텍스트만으로 충분할까? - Gemini embedding 002 임베딩 검색 실험",
-      "url": "https://news.hada.io/topic?id=28037",
-      "publishedAt": "2026-03-31T02:59:12.164Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Wikipedia, AI 글쓰기 전면 금지, 40대 2 표결의 배경",
-      "url": "https://news.hada.io/topic?id=28033",
-      "publishedAt": "2026-03-31T01:59:12.164Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI가 두려워 직업을 바꾼다, 미국 청년들의 커리어 피벗 현장",
-      "url": "https://news.hada.io/topic?id=28032",
-      "publishedAt": "2026-03-31T01:59:12.165Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenAI의 Claude Code용 Codex 플러그인",
-      "url": "https://news.hada.io/topic?id=28023",
-      "publishedAt": "2026-03-30T23:59:12.165Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Shopify의 데이터 구조화 여정: One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로",
-      "url": "https://news.hada.io/topic?id=28022",
-      "publishedAt": "2026-03-30T23:59:12.165Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI가 UX를 설계하는 방식: 화면보다 흐름이 먼저인 ‘Figr’",
-      "url": "https://yozm.wishket.com/magazine/detail/3685/",
-      "publishedAt": "2026-03-31T14:00:17+09:00",
+      "title": "왜 우리는 아직도 AI에게 일을 제대로 못 시킬까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3687/",
+      "publishedAt": "2026-04-01T14:00:17+09:00",
       "source": "요즘IT"
     },
     {
-      "title": "몰트북(Moltbook)의 성공에서 반드시 읽어야 할 3가지 포인트",
-      "url": "https://yozm.wishket.com/magazine/detail/3684/",
-      "publishedAt": "2026-03-31T09:00:17+09:00",
+      "title": "자바스크립트 AbortController로 비동기 작업 취소하기",
+      "url": "https://yozm.wishket.com/magazine/detail/3686/",
+      "publishedAt": "2026-04-01T09:00:17+09:00",
       "source": "요즘IT"
+    },
+    {
+      "title": "97% Smaller, 2x Faster: How es-toolkit Reached 10 Million Weekly Downloads",
+      "url": "https://toss.tech/article/es-toolkit",
+      "publishedAt": "2026-04-01T10:00:00+09:00",
+      "source": "토스 테크"
+    },
+    {
+      "title": "FE News 2026년 4월호",
+      "url": "https://github.com/naver/fe-news/blob/master/issues/2026-04.md",
+      "publishedAt": "2026-04-01T00:00:00.000Z",
+      "source": "네이버 FE"
     }
   ]
 }
