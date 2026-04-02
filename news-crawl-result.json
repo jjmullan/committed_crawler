@@ -1,60 +1,42 @@
 {
-  "crawledAt": "2026-04-01T23:06:05.954Z",
-  "total": 9,
+  "crawledAt": "2026-04-02T23:00:05.993Z",
+  "total": 6,
   "articles": [
     {
-      "title": "Claude code 개발자 Boris Cherny, 소스코드 유출 경위 공개",
-      "url": "https://news.hada.io/topic?id=28090",
-      "publishedAt": "2026-04-01T13:05:51.490Z",
+      "title": "앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다",
+      "url": "https://news.hada.io/topic?id=28125",
+      "publishedAt": "2026-04-02T12:59:56.393Z",
       "source": "Geeknews"
     },
     {
-      "title": "Function Calling Harness, turning success rate from 6.75% to 100%",
-      "url": "https://news.hada.io/topic?id=28084",
-      "publishedAt": "2026-04-01T05:05:51.491Z",
+      "title": "옛날 스타일 날씨",
+      "url": "https://news.hada.io/topic?id=28120",
+      "publishedAt": "2026-04-02T09:59:56.394Z",
       "source": "Geeknews"
     },
     {
-      "title": "Google, Gmail 계정의 사용자명 변경 기능 공식 출시",
-      "url": "https://news.hada.io/topic?id=28083",
-      "publishedAt": "2026-04-01T03:05:51.491Z",
+      "title": "Claude Code 소스 유출로 탄생한 OpenClaude — GPT-4o, Gemini, Ollama 등 200개 모델을 Claude Code UI로",
+      "url": "https://news.hada.io/topic?id=28115",
+      "publishedAt": "2026-04-02T04:59:56.395Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code (유출본) 소스 코드  분석서",
-      "url": "https://news.hada.io/topic?id=28080",
-      "publishedAt": "2026-04-01T02:05:51.492Z",
+      "title": "Claude Code, 깜빡임 없는 NO_FLICKER 모드 공개",
+      "url": "https://news.hada.io/topic?id=28108",
+      "publishedAt": "2026-04-02T01:59:56.396Z",
       "source": "Geeknews"
     },
     {
-      "title": "edgejs - WebAssembly 기반 안전한 JS 런타임",
-      "url": "https://news.hada.io/topic?id=28071",
-      "publishedAt": "2026-04-01T01:05:51.492Z",
+      "title": "lodash를 아직 쓰고 있다면 - package.json 한 줄로 번들 97% 줄이기 (es-toolkit)",
+      "url": "https://news.hada.io/topic?id=28104",
+      "publishedAt": "2026-04-02T00:59:56.396Z",
       "source": "Geeknews"
     },
     {
-      "title": "왜 우리는 아직도 AI에게 일을 제대로 못 시킬까?",
-      "url": "https://yozm.wishket.com/magazine/detail/3687/",
-      "publishedAt": "2026-04-01T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "자바스크립트 AbortController로 비동기 작업 취소하기",
-      "url": "https://yozm.wishket.com/magazine/detail/3686/",
-      "publishedAt": "2026-04-01T09:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "97% Smaller, 2x Faster: How es-toolkit Reached 10 Million Weekly Downloads",
-      "url": "https://toss.tech/article/es-toolkit",
-      "publishedAt": "2026-04-01T10:00:00+09:00",
-      "source": "토스 테크"
-    },
-    {
-      "title": "FE News 2026년 4월호",
-      "url": "https://github.com/naver/fe-news/blob/master/issues/2026-04.md",
-      "publishedAt": "2026-04-01T00:00:00.000Z",
-      "source": "네이버 FE"
+      "title": "Hermes Agent — 경험으로부터 스킬을 생성·개선하는 자기 학습형 자율 AI 에이전트",
+      "url": "https://news.hada.io/topic?id=28101",
+      "publishedAt": "2026-04-02T00:59:56.396Z",
+      "source": "Geeknews"
     }
   ]
 }
