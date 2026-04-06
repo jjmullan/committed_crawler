@@ -1,35 +1,35 @@
 {
-  "crawledAt": "2026-04-05T23:00:23.660Z",
+  "crawledAt": "2026-04-06T23:04:42.618Z",
   "total": 5,
   "articles": [
     {
-      "title": "로그인 없는 정적 사이트에서 사용자를 구분하는 방법 — AI Agent 식별 고민까지",
-      "url": "https://news.hada.io/topic?id=28226",
-      "publishedAt": "2026-04-05T13:00:09.272Z",
+      "title": "만약 당신이 클로드 블루 때문에 힘들다면",
+      "url": "https://news.hada.io/topic?id=28252",
+      "publishedAt": "2026-04-06T05:04:32.908Z",
       "source": "Geeknews"
     },
     {
-      "title": "GitHub 역사상 가장 빠르게 10만 개의 스타를 기록한 오픈소스 프로젝트(Sigrid Jin&Bellman)",
-      "url": "https://news.hada.io/topic?id=28223",
-      "publishedAt": "2026-04-05T11:00:09.273Z",
+      "title": "원하는 일을 진짜로 해내는 사람들의 한 가지 차이는 자기 관련성 판단 능력임",
+      "url": "https://news.hada.io/topic?id=28248",
+      "publishedAt": "2026-04-06T02:04:32.909Z",
       "source": "Geeknews"
     },
     {
-      "title": "Cursor 3.0: 에이전트 중심 인터페이스로 완전히 재설계된 개발 환경",
-      "url": "https://news.hada.io/topic?id=28222",
-      "publishedAt": "2026-04-05T10:00:09.274Z",
+      "title": "Awesome Design.MD - 유명 웹사이트 디자인 시스템을 내 사이트에 적용하기",
+      "url": "https://news.hada.io/topic?id=28246",
+      "publishedAt": "2026-04-06T01:04:32.910Z",
       "source": "Geeknews"
     },
     {
-      "title": "감정적 표현이 AI 성능을 바꿀까? — 프롬프트 감정 프레이밍의 실제 효과",
-      "url": "https://news.hada.io/topic?id=28217",
-      "publishedAt": "2026-04-05T02:00:09.274Z",
+      "title": "rtk - LLM 토큰 소비를 60~90% 줄여주는 CLI 프록시",
+      "url": "https://news.hada.io/topic?id=28245",
+      "publishedAt": "2026-04-06T01:04:32.910Z",
       "source": "Geeknews"
     },
     {
-      "title": "goose - Block이 만든 오픈소스 로컬 실행 자율 AI 개발 에이전트",
-      "url": "https://news.hada.io/topic?id=28209",
-      "publishedAt": "2026-04-05T01:00:09.274Z",
+      "title": "Google AI Edge Gallery - 완전 오프라인 LLM 갤러리 앱 오픈소스",
+      "url": "https://news.hada.io/topic?id=28242",
+      "publishedAt": "2026-04-06T01:04:32.911Z",
       "source": "Geeknews"
     }
   ]
