@@ -1,35 +1,47 @@
 {
-  "crawledAt": "2026-04-06T23:04:42.618Z",
-  "total": 5,
+  "crawledAt": "2026-04-07T23:15:30.646Z",
+  "total": 7,
   "articles": [
     {
-      "title": "만약 당신이 클로드 블루 때문에 힘들다면",
-      "url": "https://news.hada.io/topic?id=28252",
-      "publishedAt": "2026-04-06T05:04:32.908Z",
+      "title": "AI 챗봇에 가짜 질병을 물어봤더니… \"실제 병입니다\"라고 답했다",
+      "url": "https://news.hada.io/topic?id=28288",
+      "publishedAt": "2026-04-07T15:15:20.976Z",
       "source": "Geeknews"
     },
     {
-      "title": "원하는 일을 진짜로 해내는 사람들의 한 가지 차이는 자기 관련성 판단 능력임",
-      "url": "https://news.hada.io/topic?id=28248",
-      "publishedAt": "2026-04-06T02:04:32.909Z",
+      "title": "멀티 에이전트 오케스트레이션은 왜 잘 안 되는가?",
+      "url": "https://news.hada.io/topic?id=28283",
+      "publishedAt": "2026-04-07T06:15:20.978Z",
       "source": "Geeknews"
     },
     {
-      "title": "Awesome Design.MD - 유명 웹사이트 디자인 시스템을 내 사이트에 적용하기",
-      "url": "https://news.hada.io/topic?id=28246",
-      "publishedAt": "2026-04-06T01:04:32.910Z",
+      "title": "구글에서 공개한 iOS 전용 Gemma4 온디바이스 구동 최적화 앱",
+      "url": "https://news.hada.io/topic?id=28282",
+      "publishedAt": "2026-04-07T06:15:20.978Z",
       "source": "Geeknews"
     },
     {
-      "title": "rtk - LLM 토큰 소비를 60~90% 줄여주는 CLI 프록시",
-      "url": "https://news.hada.io/topic?id=28245",
-      "publishedAt": "2026-04-06T01:04:32.910Z",
+      "title": "크롬 제로데이 취약점 CVE-2026-5281이 활발히 공격받고 있습니다",
+      "url": "https://news.hada.io/topic?id=28280",
+      "publishedAt": "2026-04-07T05:15:20.979Z",
       "source": "Geeknews"
     },
     {
-      "title": "Google AI Edge Gallery - 완전 오프라인 LLM 갤러리 앱 오픈소스",
-      "url": "https://news.hada.io/topic?id=28242",
-      "publishedAt": "2026-04-06T01:04:32.911Z",
+      "title": "2월 이후 Claude Opus 모델의 엔지니어링 능력이 심각하게 퇴화 : 한글정리",
+      "url": "https://news.hada.io/topic?id=28279",
+      "publishedAt": "2026-04-07T04:15:20.979Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Bluesky, Claude 기반 AI 앱 Attie 공개",
+      "url": "https://news.hada.io/topic?id=28278",
+      "publishedAt": "2026-04-07T03:15:20.979Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "InsForge - AI 코딩 에이전트를 위한 에이전틱 백엔드 플랫폼",
+      "url": "https://news.hada.io/topic?id=28269",
+      "publishedAt": "2026-04-07T00:15:20.980Z",
       "source": "Geeknews"
     }
   ]
