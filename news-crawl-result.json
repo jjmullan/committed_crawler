@@ -1,48 +1,54 @@
 {
-  "crawledAt": "2026-04-07T23:15:30.646Z",
-  "total": 7,
+  "crawledAt": "2026-04-08T23:08:47.751Z",
+  "total": 8,
   "articles": [
     {
-      "title": "AI 챗봇에 가짜 질병을 물어봤더니… \"실제 병입니다\"라고 답했다",
-      "url": "https://news.hada.io/topic?id=28288",
-      "publishedAt": "2026-04-07T15:15:20.976Z",
+      "title": "백엔드 코딩 에이전트 개발자가 리뷰한 Claude Code 소스 코드 분석 (AutoBe vs Claude Code)",
+      "url": "https://news.hada.io/topic?id=28315",
+      "publishedAt": "2026-04-08T10:08:33.254Z",
       "source": "Geeknews"
     },
     {
-      "title": "멀티 에이전트 오케스트레이션은 왜 잘 안 되는가?",
-      "url": "https://news.hada.io/topic?id=28283",
-      "publishedAt": "2026-04-07T06:15:20.978Z",
+      "title": "macOS에 숨어있던 49일짜리 시한폭탄 — TCP 네트워킹이 완전히 멈추는 커널 버그 전말",
+      "url": "https://news.hada.io/topic?id=28312",
+      "publishedAt": "2026-04-08T05:08:33.255Z",
       "source": "Geeknews"
     },
     {
-      "title": "구글에서 공개한 iOS 전용 Gemma4 온디바이스 구동 최적화 앱",
-      "url": "https://news.hada.io/topic?id=28282",
-      "publishedAt": "2026-04-07T06:15:20.978Z",
+      "title": "GoClaw: OpenClaw를 Go로 재구성한 멀티 에이전트 게이트웨이 (보안·성능 중심 재설계)",
+      "url": "https://news.hada.io/topic?id=28310",
+      "publishedAt": "2026-04-08T03:08:33.256Z",
       "source": "Geeknews"
     },
     {
-      "title": "크롬 제로데이 취약점 CVE-2026-5281이 활발히 공격받고 있습니다",
-      "url": "https://news.hada.io/topic?id=28280",
-      "publishedAt": "2026-04-07T05:15:20.979Z",
+      "title": "프롬프트에서 하네스까지 - AI 에이전틱 패턴 4년의 기록",
+      "url": "https://news.hada.io/topic?id=28301",
+      "publishedAt": "2026-04-08T01:08:33.256Z",
       "source": "Geeknews"
     },
     {
-      "title": "2월 이후 Claude Opus 모델의 엔지니어링 능력이 심각하게 퇴화 : 한글정리",
-      "url": "https://news.hada.io/topic?id=28279",
-      "publishedAt": "2026-04-07T04:15:20.979Z",
+      "title": "agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음",
+      "url": "https://news.hada.io/topic?id=28294",
+      "publishedAt": "2026-04-08T00:08:33.257Z",
       "source": "Geeknews"
     },
     {
-      "title": "Bluesky, Claude 기반 AI 앱 Attie 공개",
-      "url": "https://news.hada.io/topic?id=28278",
-      "publishedAt": "2026-04-07T03:15:20.979Z",
+      "title": "Anthropic의 최강 보안 AI \"Claude Mythos\", 일반 공개 대신 선택된 파트너에게만 제한 배포",
+      "url": "https://news.hada.io/topic?id=28293",
+      "publishedAt": "2026-04-08T00:08:33.257Z",
       "source": "Geeknews"
     },
     {
-      "title": "InsForge - AI 코딩 에이전트를 위한 에이전틱 백엔드 플랫폼",
-      "url": "https://news.hada.io/topic?id=28269",
-      "publishedAt": "2026-04-07T00:15:20.980Z",
-      "source": "Geeknews"
+      "title": "반복적인 SQL 업무를 자동화하는 AI 에이전트 '곰곰이'",
+      "url": "https://yozm.wishket.com/magazine/detail/3697/",
+      "publishedAt": "2026-04-08T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "Claude Code로 코드 한 줄 없이 마케팅팀을 만드는 법",
+      "url": "https://yozm.wishket.com/magazine/detail/3696/",
+      "publishedAt": "2026-04-08T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
