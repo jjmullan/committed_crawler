@@ -1,54 +1,42 @@
 {
-  "crawledAt": "2026-04-08T23:08:47.751Z",
-  "total": 8,
+  "crawledAt": "2026-04-09T23:09:30.457Z",
+  "total": 6,
   "articles": [
     {
-      "title": "백엔드 코딩 에이전트 개발자가 리뷰한 Claude Code 소스 코드 분석 (AutoBe vs Claude Code)",
-      "url": "https://news.hada.io/topic?id=28315",
-      "publishedAt": "2026-04-08T10:08:33.254Z",
+      "title": "MAU의 시대의 종말, MRR도 이제 못 믿는다?",
+      "url": "https://news.hada.io/topic?id=28350",
+      "publishedAt": "2026-04-09T09:09:20.915Z",
       "source": "Geeknews"
     },
     {
-      "title": "macOS에 숨어있던 49일짜리 시한폭탄 — TCP 네트워킹이 완전히 멈추는 커널 버그 전말",
-      "url": "https://news.hada.io/topic?id=28312",
-      "publishedAt": "2026-04-08T05:08:33.255Z",
+      "title": "Meta, 새 AI 모델 오픈소스 공개 예고",
+      "url": "https://news.hada.io/topic?id=28347",
+      "publishedAt": "2026-04-09T07:09:20.916Z",
       "source": "Geeknews"
     },
     {
-      "title": "GoClaw: OpenClaw를 Go로 재구성한 멀티 에이전트 게이트웨이 (보안·성능 중심 재설계)",
-      "url": "https://news.hada.io/topic?id=28310",
-      "publishedAt": "2026-04-08T03:08:33.256Z",
+      "title": "AX팀을 만드는 순간, 당신의 조직은 AX에 실패한다",
+      "url": "https://news.hada.io/topic?id=28341",
+      "publishedAt": "2026-04-09T05:09:20.916Z",
       "source": "Geeknews"
     },
     {
-      "title": "프롬프트에서 하네스까지 - AI 에이전틱 패턴 4년의 기록",
-      "url": "https://news.hada.io/topic?id=28301",
-      "publishedAt": "2026-04-08T01:08:33.256Z",
+      "title": "Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모",
+      "url": "https://news.hada.io/topic?id=28340",
+      "publishedAt": "2026-04-09T05:09:20.917Z",
       "source": "Geeknews"
     },
     {
-      "title": "agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음",
-      "url": "https://news.hada.io/topic?id=28294",
-      "publishedAt": "2026-04-08T00:08:33.257Z",
+      "title": "webreel - 브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구",
+      "url": "https://news.hada.io/topic?id=28335",
+      "publishedAt": "2026-04-09T02:09:20.917Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic의 최강 보안 AI \"Claude Mythos\", 일반 공개 대신 선택된 파트너에게만 제한 배포",
-      "url": "https://news.hada.io/topic?id=28293",
-      "publishedAt": "2026-04-08T00:08:33.257Z",
+      "title": "GBrain — 오픈소스 개인 지식 베이스",
+      "url": "https://news.hada.io/topic?id=28323",
+      "publishedAt": "2026-04-09T00:09:20.917Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "반복적인 SQL 업무를 자동화하는 AI 에이전트 '곰곰이'",
-      "url": "https://yozm.wishket.com/magazine/detail/3697/",
-      "publishedAt": "2026-04-08T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "Claude Code로 코드 한 줄 없이 마케팅팀을 만드는 법",
-      "url": "https://yozm.wishket.com/magazine/detail/3696/",
-      "publishedAt": "2026-04-08T09:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
