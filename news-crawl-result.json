@@ -1,41 +1,23 @@
 {
-  "crawledAt": "2026-04-09T23:09:30.457Z",
-  "total": 6,
+  "crawledAt": "2026-04-10T23:04:06.838Z",
+  "total": 3,
   "articles": [
     {
-      "title": "MAU의 시대의 종말, MRR도 이제 못 믿는다?",
-      "url": "https://news.hada.io/topic?id=28350",
-      "publishedAt": "2026-04-09T09:09:20.915Z",
+      "title": "SQLite로 실제 쇼핑몰을 운영하며 배운 것들",
+      "url": "https://news.hada.io/topic?id=28377",
+      "publishedAt": "2026-04-10T02:03:57.242Z",
       "source": "Geeknews"
     },
     {
-      "title": "Meta, 새 AI 모델 오픈소스 공개 예고",
-      "url": "https://news.hada.io/topic?id=28347",
-      "publishedAt": "2026-04-09T07:09:20.916Z",
+      "title": "Claude Code, 에이전트가 필요할 때 깨워주는 Monitor Tool 기능 도입",
+      "url": "https://news.hada.io/topic?id=28376",
+      "publishedAt": "2026-04-10T02:03:57.242Z",
       "source": "Geeknews"
     },
     {
-      "title": "AX팀을 만드는 순간, 당신의 조직은 AX에 실패한다",
-      "url": "https://news.hada.io/topic?id=28341",
-      "publishedAt": "2026-04-09T05:09:20.916Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모",
-      "url": "https://news.hada.io/topic?id=28340",
-      "publishedAt": "2026-04-09T05:09:20.917Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "webreel - 브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구",
-      "url": "https://news.hada.io/topic?id=28335",
-      "publishedAt": "2026-04-09T02:09:20.917Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "GBrain — 오픈소스 개인 지식 베이스",
-      "url": "https://news.hada.io/topic?id=28323",
-      "publishedAt": "2026-04-09T00:09:20.917Z",
+      "title": "strix - 앱의 취약점을 찾아 수정하는 오픈소스 AI 해커",
+      "url": "https://news.hada.io/topic?id=28364",
+      "publishedAt": "2026-04-10T00:03:57.243Z",
       "source": "Geeknews"
     }
   ]
