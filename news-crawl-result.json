@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-04-10T23:04:06.838Z",
-  "total": 3,
+  "crawledAt": "2026-04-11T23:01:21.177Z",
+  "total": 2,
   "articles": [
     {
-      "title": "SQLite로 실제 쇼핑몰을 운영하며 배운 것들",
-      "url": "https://news.hada.io/topic?id=28377",
-      "publishedAt": "2026-04-10T02:03:57.242Z",
+      "title": "AI 서비스 PM, 이제 '기획'을 넘어 '평가'를 설계하라",
+      "url": "https://news.hada.io/topic?id=28412",
+      "publishedAt": "2026-04-11T09:01:11.604Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code, 에이전트가 필요할 때 깨워주는 Monitor Tool 기능 도입",
-      "url": "https://news.hada.io/topic?id=28376",
-      "publishedAt": "2026-04-10T02:03:57.242Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "strix - 앱의 취약점을 찾아 수정하는 오픈소스 AI 해커",
-      "url": "https://news.hada.io/topic?id=28364",
-      "publishedAt": "2026-04-10T00:03:57.243Z",
+      "title": "multica - 코딩 에이전트를 실제 팀원으로 운영하는 관리형 에이전트 플랫폼",
+      "url": "https://news.hada.io/topic?id=28399",
+      "publishedAt": "2026-04-11T01:01:11.605Z",
       "source": "Geeknews"
     }
   ]
