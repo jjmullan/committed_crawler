@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-04-11T23:01:21.177Z",
-  "total": 2,
+  "crawledAt": "2026-04-12T23:03:51.304Z",
+  "total": 3,
   "articles": [
     {
-      "title": "AI 서비스 PM, 이제 '기획'을 넘어 '평가'를 설계하라",
-      "url": "https://news.hada.io/topic?id=28412",
-      "publishedAt": "2026-04-11T09:01:11.604Z",
+      "title": "Google, Pixel 10 베이스밴드 펌웨어에 Rust 도입",
+      "url": "https://news.hada.io/topic?id=28454",
+      "publishedAt": "2026-04-12T21:03:41.794Z",
       "source": "Geeknews"
     },
     {
-      "title": "multica - 코딩 에이전트를 실제 팀원으로 운영하는 관리형 에이전트 플랫폼",
-      "url": "https://news.hada.io/topic?id=28399",
-      "publishedAt": "2026-04-11T01:01:11.605Z",
+      "title": "Ask GN: 기억이 안나는 웹사이트를 찾고 있습니다.",
+      "url": "https://news.hada.io/topic?id=28441",
+      "publishedAt": "2026-04-12T14:03:41.795Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Arcmark - macOS용 브라우저 사이드북마크 관리자",
+      "url": "https://news.hada.io/topic?id=28425",
+      "publishedAt": "2026-04-12T00:03:41.795Z",
       "source": "Geeknews"
     }
   ]
