@@ -1,24 +1,60 @@
 {
-  "crawledAt": "2026-04-12T23:03:51.304Z",
-  "total": 3,
+  "crawledAt": "2026-04-13T23:11:28.650Z",
+  "total": 9,
   "articles": [
     {
-      "title": "Google, Pixel 10 베이스밴드 펌웨어에 Rust 도입",
-      "url": "https://news.hada.io/topic?id=28454",
-      "publishedAt": "2026-04-12T21:03:41.794Z",
+      "title": "pip install torch 한 줄로 끝낸다 — Python 패키징의 오랜 숙제, 드디어 풀리나",
+      "url": "https://news.hada.io/topic?id=28490",
+      "publishedAt": "2026-04-13T12:11:13.443Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 기억이 안나는 웹사이트를 찾고 있습니다.",
-      "url": "https://news.hada.io/topic?id=28441",
-      "publishedAt": "2026-04-12T14:03:41.795Z",
+      "title": "GitButler — GitHub 공동창업자가 만든 AI 시대를 위한 Git 재설계, a16z $1,700만 Series A 투자 유치",
+      "url": "https://news.hada.io/topic?id=28488",
+      "publishedAt": "2026-04-13T09:11:13.443Z",
       "source": "Geeknews"
     },
     {
-      "title": "Arcmark - macOS용 브라우저 사이드북마크 관리자",
-      "url": "https://news.hada.io/topic?id=28425",
-      "publishedAt": "2026-04-12T00:03:41.795Z",
+      "title": "취약점 없이도 뚫린다 — 오픈소스 개발자를 노린 '신뢰 기반' 공격의 실체",
+      "url": "https://news.hada.io/topic?id=28484",
+      "publishedAt": "2026-04-13T07:11:13.444Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Vibe coding 이후 오픈소스 커뮤니티에 대한 고민",
+      "url": "https://news.hada.io/topic?id=28482",
+      "publishedAt": "2026-04-13T06:11:13.444Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "rzweb - Rizin을 이용한 브라우저 기반 리버스 엔지니어링 플랫폼",
+      "url": "https://news.hada.io/topic?id=28469",
+      "publishedAt": "2026-04-13T01:11:13.444Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "메모장 만으로 MCP 서버 작성하기",
+      "url": "https://news.hada.io/topic?id=28467",
+      "publishedAt": "2026-04-13T01:11:13.444Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "pgmicro - SQLite 기반으로 만든 인-프로세스 PostgreSQL",
+      "url": "https://news.hada.io/topic?id=28464",
+      "publishedAt": "2026-04-13T01:11:13.445Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "비개발자가 겪은 바이브 코딩의 현실",
+      "url": "https://yozm.wishket.com/magazine/detail/3704/",
+      "publishedAt": "2026-04-13T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "타입스크립트 제네릭, 실무에서 제대로 활용하기",
+      "url": "https://yozm.wishket.com/magazine/detail/3702/",
+      "publishedAt": "2026-04-13T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
