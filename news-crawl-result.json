@@ -1,59 +1,65 @@
 {
-  "crawledAt": "2026-04-13T23:11:28.650Z",
-  "total": 9,
+  "crawledAt": "2026-04-14T23:12:38.878Z",
+  "total": 10,
   "articles": [
     {
-      "title": "pip install torch 한 줄로 끝낸다 — Python 패키징의 오랜 숙제, 드디어 풀리나",
-      "url": "https://news.hada.io/topic?id=28490",
-      "publishedAt": "2026-04-13T12:11:13.443Z",
+      "title": "기존 KV 압축 기법 대비 최대 25% 추가 절감, 성능은 오히려 개선 — CASK",
+      "url": "https://news.hada.io/topic?id=28520",
+      "publishedAt": "2026-04-14T15:12:24.503Z",
       "source": "Geeknews"
     },
     {
-      "title": "GitButler — GitHub 공동창업자가 만든 AI 시대를 위한 Git 재설계, a16z $1,700만 Series A 투자 유치",
-      "url": "https://news.hada.io/topic?id=28488",
-      "publishedAt": "2026-04-13T09:11:13.443Z",
+      "title": "Linux 커널 7.0 공식 릴리스",
+      "url": "https://news.hada.io/topic?id=28518",
+      "publishedAt": "2026-04-14T14:12:24.504Z",
       "source": "Geeknews"
     },
     {
-      "title": "취약점 없이도 뚫린다 — 오픈소스 개발자를 노린 '신뢰 기반' 공격의 실체",
-      "url": "https://news.hada.io/topic?id=28484",
-      "publishedAt": "2026-04-13T07:11:13.444Z",
+      "title": "단 20MB HTTP 패킷으로 Django 서버를 1분간 먹통 만드는 취약점이 공개되었습니다 (CVE-2026-33033)",
+      "url": "https://news.hada.io/topic?id=28512",
+      "publishedAt": "2026-04-14T07:12:24.505Z",
       "source": "Geeknews"
     },
     {
-      "title": "Vibe coding 이후 오픈소스 커뮤니티에 대한 고민",
-      "url": "https://news.hada.io/topic?id=28482",
-      "publishedAt": "2026-04-13T06:11:13.444Z",
+      "title": "damn-my-slow-kt - KT 인터넷 SLA 미달 자동 측정 & 요금 감면 신청 도구",
+      "url": "https://news.hada.io/topic?id=28511",
+      "publishedAt": "2026-04-14T02:12:24.505Z",
       "source": "Geeknews"
     },
     {
-      "title": "rzweb - Rizin을 이용한 브라우저 기반 리버스 엔지니어링 플랫폼",
-      "url": "https://news.hada.io/topic?id=28469",
-      "publishedAt": "2026-04-13T01:11:13.444Z",
+      "title": "Axios 라이브러리의 헤더 주입(CRLF)을 악용한 클라우드 서버 권한 탈취 취약점",
+      "url": "https://news.hada.io/topic?id=28503",
+      "publishedAt": "2026-04-14T01:12:24.505Z",
       "source": "Geeknews"
     },
     {
-      "title": "메모장 만으로 MCP 서버 작성하기",
-      "url": "https://news.hada.io/topic?id=28467",
-      "publishedAt": "2026-04-13T01:11:13.444Z",
+      "title": "Happy - Codex 및 Claude Code용 모바일/웹 클라이언트",
+      "url": "https://news.hada.io/topic?id=28500",
+      "publishedAt": "2026-04-14T01:12:24.505Z",
       "source": "Geeknews"
     },
     {
-      "title": "pgmicro - SQLite 기반으로 만든 인-프로세스 PostgreSQL",
-      "url": "https://news.hada.io/topic?id=28464",
-      "publishedAt": "2026-04-13T01:11:13.445Z",
+      "title": "datahike - 버전 관리, 고성능, 분산형 Datalog 엔진",
+      "url": "https://news.hada.io/topic?id=28496",
+      "publishedAt": "2026-04-14T00:12:24.505Z",
       "source": "Geeknews"
     },
     {
-      "title": "비개발자가 겪은 바이브 코딩의 현실",
-      "url": "https://yozm.wishket.com/magazine/detail/3704/",
-      "publishedAt": "2026-04-13T14:00:17+09:00",
+      "title": "AI, 개발 말고 요구사항부터 써야 하는 이유",
+      "url": "https://yozm.wishket.com/magazine/detail/3707/",
+      "publishedAt": "2026-04-14T14:00:17+09:00",
       "source": "요즘IT"
     },
     {
-      "title": "타입스크립트 제네릭, 실무에서 제대로 활용하기",
-      "url": "https://yozm.wishket.com/magazine/detail/3702/",
-      "publishedAt": "2026-04-13T09:00:17+09:00",
+      "title": "[요즘IT 콘텐츠 AX] 기업 블로그 에이전트의 가능성과 한계 웨비나 오픈!",
+      "url": "https://yozm.wishket.com/magazine/detail/3706/",
+      "publishedAt": "2026-04-14T11:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "AI 에이전트가 슬랙을 떠난 이유: 웹으로 이사한 곰곰이",
+      "url": "https://yozm.wishket.com/magazine/detail/3705/",
+      "publishedAt": "2026-04-14T09:00:17+09:00",
       "source": "요즘IT"
     }
   ]
