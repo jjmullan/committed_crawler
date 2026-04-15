@@ -1,66 +1,60 @@
 {
-  "crawledAt": "2026-04-14T23:12:38.878Z",
-  "total": 10,
+  "crawledAt": "2026-04-15T23:10:56.093Z",
+  "total": 9,
   "articles": [
     {
-      "title": "기존 KV 압축 기법 대비 최대 25% 추가 절감, 성능은 오히려 개선 — CASK",
-      "url": "https://news.hada.io/topic?id=28520",
-      "publishedAt": "2026-04-14T15:12:24.503Z",
+      "title": "Anthropic, Opus 4.7 + AI 디자인 툴 출시 임박… Adobe·Wix 주가 즉각 반응",
+      "url": "https://news.hada.io/topic?id=28556",
+      "publishedAt": "2026-04-15T13:10:46.478Z",
       "source": "Geeknews"
     },
     {
-      "title": "Linux 커널 7.0 공식 릴리스",
-      "url": "https://news.hada.io/topic?id=28518",
-      "publishedAt": "2026-04-14T14:12:24.504Z",
+      "title": "OpenAI, 사이버 방어를 위한 ‘Trusted Access’ 확장 전략과 GPT-5.4 Cyber 공개",
+      "url": "https://news.hada.io/topic?id=28554",
+      "publishedAt": "2026-04-15T12:10:46.479Z",
       "source": "Geeknews"
     },
     {
-      "title": "단 20MB HTTP 패킷으로 Django 서버를 1분간 먹통 만드는 취약점이 공개되었습니다 (CVE-2026-33033)",
-      "url": "https://news.hada.io/topic?id=28512",
-      "publishedAt": "2026-04-14T07:12:24.505Z",
+      "title": "AI가 전문성을 압축해줄 때, 끝내 인간에게 남는 것",
+      "url": "https://news.hada.io/topic?id=28552",
+      "publishedAt": "2026-04-15T11:10:46.479Z",
       "source": "Geeknews"
     },
     {
-      "title": "damn-my-slow-kt - KT 인터넷 SLA 미달 자동 측정 & 요금 감면 신청 도구",
-      "url": "https://news.hada.io/topic?id=28511",
-      "publishedAt": "2026-04-14T02:12:24.505Z",
+      "title": "GitLab/GitHub 이슈를 AI 에이전트가 자동으로 처리해주는 대시보드, Spring IVE",
+      "url": "https://news.hada.io/topic?id=28551",
+      "publishedAt": "2026-04-15T07:10:46.479Z",
       "source": "Geeknews"
     },
     {
-      "title": "Axios 라이브러리의 헤더 주입(CRLF)을 악용한 클라우드 서버 권한 탈취 취약점",
-      "url": "https://news.hada.io/topic?id=28503",
-      "publishedAt": "2026-04-14T01:12:24.505Z",
+      "title": "BOJ 서비스 종료",
+      "url": "https://news.hada.io/topic?id=28550",
+      "publishedAt": "2026-04-15T07:10:46.480Z",
       "source": "Geeknews"
     },
     {
-      "title": "Happy - Codex 및 Claude Code용 모바일/웹 클라이언트",
-      "url": "https://news.hada.io/topic?id=28500",
-      "publishedAt": "2026-04-14T01:12:24.505Z",
+      "title": "Ask GN: Ralph Loop이라는 허상에 대해 어떻게 생각하시나요?",
+      "url": "https://news.hada.io/topic?id=28546",
+      "publishedAt": "2026-04-15T04:10:46.480Z",
       "source": "Geeknews"
     },
     {
-      "title": "datahike - 버전 관리, 고성능, 분산형 Datalog 엔진",
-      "url": "https://news.hada.io/topic?id=28496",
-      "publishedAt": "2026-04-14T00:12:24.505Z",
+      "title": "완전히 재작성된 Claude Code 데스크탑 앱 공개",
+      "url": "https://news.hada.io/topic?id=28536",
+      "publishedAt": "2026-04-15T01:10:46.480Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI, 개발 말고 요구사항부터 써야 하는 이유",
-      "url": "https://yozm.wishket.com/magazine/detail/3707/",
-      "publishedAt": "2026-04-14T14:00:17+09:00",
-      "source": "요즘IT"
+      "title": "OpenHarness - 개인 에이전트 Ohmo를 내장한 오픈 에이전트 하네스",
+      "url": "https://news.hada.io/topic?id=28531",
+      "publishedAt": "2026-04-15T01:10:46.480Z",
+      "source": "Geeknews"
     },
     {
-      "title": "[요즘IT 콘텐츠 AX] 기업 블로그 에이전트의 가능성과 한계 웨비나 오픈!",
-      "url": "https://yozm.wishket.com/magazine/detail/3706/",
-      "publishedAt": "2026-04-14T11:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "AI 에이전트가 슬랙을 떠난 이유: 웹으로 이사한 곰곰이",
-      "url": "https://yozm.wishket.com/magazine/detail/3705/",
-      "publishedAt": "2026-04-14T09:00:17+09:00",
-      "source": "요즘IT"
+      "title": "VoxCPM2 - 실제 음성과 비슷한 음성 복제 가능한 다국어 음성 합성 오픈소스",
+      "url": "https://news.hada.io/topic?id=28527",
+      "publishedAt": "2026-04-15T00:10:46.480Z",
+      "source": "Geeknews"
     }
   ]
 }
