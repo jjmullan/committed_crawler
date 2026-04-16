@@ -1,59 +1,95 @@
 {
-  "crawledAt": "2026-04-15T23:10:56.093Z",
-  "total": 9,
+  "crawledAt": "2026-04-16T23:09:45.616Z",
+  "total": 15,
   "articles": [
     {
-      "title": "Anthropic, Opus 4.7 + AI 디자인 툴 출시 임박… Adobe·Wix 주가 즉각 반응",
-      "url": "https://news.hada.io/topic?id=28556",
-      "publishedAt": "2026-04-15T13:10:46.478Z",
+      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "url": "https://news.hada.io/topic?id=28609",
+      "publishedAt": "2026-04-16T22:59:36.017Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenAI, 사이버 방어를 위한 ‘Trusted Access’ 확장 전략과 GPT-5.4 Cyber 공개",
-      "url": "https://news.hada.io/topic?id=28554",
-      "publishedAt": "2026-04-15T12:10:46.479Z",
+      "title": "claude opus 4.7을 소개합니다",
+      "url": "https://news.hada.io/topic?id=28602",
+      "publishedAt": "2026-04-16T15:09:36.017Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Open Agents - open-source reference app for building and running coding agents",
+      "url": "https://news.hada.io/topic?id=28601",
+      "publishedAt": "2026-04-16T14:09:36.018Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "pi-autoresearch: Karpathy의 \"AI 자율 실험\" 아이디어를 범용화한 오픈소스",
+      "url": "https://news.hada.io/topic?id=28600",
+      "publishedAt": "2026-04-16T14:09:36.018Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Swagger가 있으면 AI가 프론트엔드 전체를 만들어줍니다. Swagger가 최고의 컨텍스트이자 하네스입니다.",
+      "url": "https://news.hada.io/topic?id=28597",
+      "publishedAt": "2026-04-16T13:09:36.018Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "스탠퍼드 AI 인덱스 2026 — AI는 질주 중이고, 우리는 따라가기 버겁다",
+      "url": "https://news.hada.io/topic?id=28593",
+      "publishedAt": "2026-04-16T10:09:36.019Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "SuperGemma4 - 구글 Gemma 4 26B의 비검열/속도개선/양자화 모델",
+      "url": "https://news.hada.io/topic?id=28584",
+      "publishedAt": "2026-04-16T02:09:36.019Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "오픈소스 HWP/HWPX 처리 도구 목록",
+      "url": "https://news.hada.io/topic?id=28582",
+      "publishedAt": "2026-04-16T02:09:36.019Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 에이전트 스킬, 벤치마크 성능의 절반도 현실에서 안 나온다",
+      "url": "https://news.hada.io/topic?id=28581",
+      "publishedAt": "2026-04-16T02:09:36.019Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "macOS용 Gemini 앱 출시",
+      "url": "https://news.hada.io/topic?id=28580",
+      "publishedAt": "2026-04-16T02:09:36.019Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "imweb 장애",
+      "url": "https://news.hada.io/topic?id=28577",
+      "publishedAt": "2026-04-16T01:09:36.019Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "판단 없는 AI 는 왜 실패할까?",
+      "url": "https://news.hada.io/topic?id=28575",
+      "publishedAt": "2026-04-16T01:09:36.020Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "openai-oauth - ChatGPT 계정으로 OpenAI API를 무료로 사용하기",
+      "url": "https://news.hada.io/topic?id=28569",
+      "publishedAt": "2026-04-16T00:09:36.020Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 활용 에러 기록 및 분석 자동화",
+      "url": "https://news.hada.io/topic?id=28567",
+      "publishedAt": "2026-04-16T00:09:36.020Z",
       "source": "Geeknews"
     },
     {
       "title": "AI가 전문성을 압축해줄 때, 끝내 인간에게 남는 것",
       "url": "https://news.hada.io/topic?id=28552",
-      "publishedAt": "2026-04-15T11:10:46.479Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "GitLab/GitHub 이슈를 AI 에이전트가 자동으로 처리해주는 대시보드, Spring IVE",
-      "url": "https://news.hada.io/topic?id=28551",
-      "publishedAt": "2026-04-15T07:10:46.479Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "BOJ 서비스 종료",
-      "url": "https://news.hada.io/topic?id=28550",
-      "publishedAt": "2026-04-15T07:10:46.480Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Ask GN: Ralph Loop이라는 허상에 대해 어떻게 생각하시나요?",
-      "url": "https://news.hada.io/topic?id=28546",
-      "publishedAt": "2026-04-15T04:10:46.480Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "완전히 재작성된 Claude Code 데스크탑 앱 공개",
-      "url": "https://news.hada.io/topic?id=28536",
-      "publishedAt": "2026-04-15T01:10:46.480Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenHarness - 개인 에이전트 Ohmo를 내장한 오픈 에이전트 하네스",
-      "url": "https://news.hada.io/topic?id=28531",
-      "publishedAt": "2026-04-15T01:10:46.480Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "VoxCPM2 - 실제 음성과 비슷한 음성 복제 가능한 다국어 음성 합성 오픈소스",
-      "url": "https://news.hada.io/topic?id=28527",
-      "publishedAt": "2026-04-15T00:10:46.480Z",
+      "publishedAt": "2026-04-15T23:09:36.021Z",
       "source": "Geeknews"
     }
   ]
