@@ -1,41 +1,29 @@
 {
-  "crawledAt": "2026-04-19T23:04:14.162Z",
-  "total": 6,
+  "crawledAt": "2026-04-20T23:09:05.558Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Claude Code 및 Codex 설정 변경으로 토큰을 절약하는 방법",
-      "url": "https://news.hada.io/topic?id=28697",
-      "publishedAt": "2026-04-19T22:28:01.098Z",
+      "title": "AI 리뷰를 신뢰할 수 있을까요?",
+      "url": "https://news.hada.io/topic?id=28727",
+      "publishedAt": "2026-04-20T16:08:55.888Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenMythos: Claude Mythos를 역설계한 오픈소스 구현 등장",
-      "url": "https://news.hada.io/topic?id=28689",
-      "publishedAt": "2026-04-19T16:04:01.099Z",
+      "title": "Why 2026 Seniors are just highly-paid Code Editors, on Addy Osmani",
+      "url": "https://news.hada.io/topic?id=28716",
+      "publishedAt": "2026-04-20T11:08:55.889Z",
       "source": "Geeknews"
     },
     {
-      "title": "Vercel, 2026년 4월 보안 사고 발생 (내부 시스템 무단 접근)",
-      "url": "https://news.hada.io/topic?id=28687",
-      "publishedAt": "2026-04-19T15:04:01.099Z",
+      "title": "ArtifactNet: 코덱 물리학으로 AI 생성 음악을 탐지하는 경량 포렌식 프레임워크",
+      "url": "https://news.hada.io/topic?id=28708",
+      "publishedAt": "2026-04-20T02:08:55.890Z",
       "source": "Geeknews"
     },
     {
-      "title": "\"AI에게 무례할수록 성능이 좋다?\" 최신 연구가 경고하는 PM의 소통 위기",
-      "url": "https://news.hada.io/topic?id=28678",
-      "publishedAt": "2026-04-19T05:04:01.100Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "RepoBar - 메뉴 바와 터미널에서 GitHub 저장소 상태를 한눈에 표시",
-      "url": "https://news.hada.io/topic?id=28670",
-      "publishedAt": "2026-04-19T00:04:01.100Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI 자율 교정의 구조적 모순과 결정론적 아키텍처에 관한 기술 백서",
-      "url": "https://news.hada.io/topic?id=28669",
-      "publishedAt": "2026-04-19T00:04:01.100Z",
+      "title": "iroh - 공개키 기반 초고속 P2P 네트워크 연결 라이브러리 오픈소스",
+      "url": "https://news.hada.io/topic?id=28702",
+      "publishedAt": "2026-04-20T01:08:55.890Z",
       "source": "Geeknews"
     }
   ]
