@@ -1,29 +1,23 @@
 {
-  "crawledAt": "2026-04-20T23:09:05.558Z",
-  "total": 4,
+  "crawledAt": "2026-04-21T23:07:35.069Z",
+  "total": 3,
   "articles": [
     {
-      "title": "AI 리뷰를 신뢰할 수 있을까요?",
-      "url": "https://news.hada.io/topic?id=28727",
-      "publishedAt": "2026-04-20T16:08:55.888Z",
+      "title": "프로덕션 환경에서 바이브 코딩을 책임감 있게 하는 법 -  Vibe coding in prod | Code w/ Claude",
+      "url": "https://news.hada.io/topic?id=28749",
+      "publishedAt": "2026-04-21T07:07:25.297Z",
       "source": "Geeknews"
     },
     {
-      "title": "Why 2026 Seniors are just highly-paid Code Editors, on Addy Osmani",
-      "url": "https://news.hada.io/topic?id=28716",
-      "publishedAt": "2026-04-20T11:08:55.889Z",
+      "title": "'제미나이 인 크롬'으로 더욱 스마트하고 편리해진 크롬이 한국에 출시됩니다",
+      "url": "https://news.hada.io/topic?id=28743",
+      "publishedAt": "2026-04-21T02:07:25.298Z",
       "source": "Geeknews"
     },
     {
-      "title": "ArtifactNet: 코덱 물리학으로 AI 생성 음악을 탐지하는 경량 포렌식 프레임워크",
-      "url": "https://news.hada.io/topic?id=28708",
-      "publishedAt": "2026-04-20T02:08:55.890Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "iroh - 공개키 기반 초고속 P2P 네트워크 연결 라이브러리 오픈소스",
-      "url": "https://news.hada.io/topic?id=28702",
-      "publishedAt": "2026-04-20T01:08:55.890Z",
+      "title": "Cherri - 애플 단축어를 코드로 작성하는 프로그래밍 언어",
+      "url": "https://news.hada.io/topic?id=28732",
+      "publishedAt": "2026-04-21T00:07:25.298Z",
       "source": "Geeknews"
     }
   ]
