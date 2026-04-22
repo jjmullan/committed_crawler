@@ -1,23 +1,35 @@
 {
-  "crawledAt": "2026-04-21T23:07:35.069Z",
-  "total": 3,
+  "crawledAt": "2026-04-22T23:25:42.343Z",
+  "total": 5,
   "articles": [
     {
-      "title": "프로덕션 환경에서 바이브 코딩을 책임감 있게 하는 법 -  Vibe coding in prod | Code w/ Claude",
-      "url": "https://news.hada.io/topic?id=28749",
-      "publishedAt": "2026-04-21T07:07:25.297Z",
+      "title": "Garry Tan의 \"Skillify\" — AI 에이전트의 실패를 영구적 구조 수정으로 바꾸는 방법론",
+      "url": "https://news.hada.io/topic?id=28777",
+      "publishedAt": "2026-04-22T09:25:28.838Z",
       "source": "Geeknews"
     },
     {
-      "title": "'제미나이 인 크롬'으로 더욱 스마트하고 편리해진 크롬이 한국에 출시됩니다",
-      "url": "https://news.hada.io/topic?id=28743",
-      "publishedAt": "2026-04-21T02:07:25.298Z",
+      "title": "GPT 5.5 출시",
+      "url": "https://news.hada.io/topic?id=28774",
+      "publishedAt": "2026-04-22T04:25:28.839Z",
       "source": "Geeknews"
     },
     {
-      "title": "Cherri - 애플 단축어를 코드로 작성하는 프로그래밍 언어",
-      "url": "https://news.hada.io/topic?id=28732",
-      "publishedAt": "2026-04-21T00:07:25.298Z",
+      "title": "SpaceX, AI 코딩 스타트업 Cursor를 600억 달러에 인수할 옵션 확보",
+      "url": "https://news.hada.io/topic?id=28765",
+      "publishedAt": "2026-04-22T02:25:28.839Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Anthropic, 신규 Pro($20/월) 사용자에게 Claude Code 제공 중단?",
+      "url": "https://news.hada.io/topic?id=28762",
+      "publishedAt": "2026-04-22T01:25:28.839Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Google LiteRT-LM - 엣지 디바이스용 고성능 LLM 추론 프레임워크",
+      "url": "https://news.hada.io/topic?id=28758",
+      "publishedAt": "2026-04-22T00:25:28.839Z",
       "source": "Geeknews"
     }
   ]
