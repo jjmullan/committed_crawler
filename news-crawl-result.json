@@ -1,35 +1,71 @@
 {
-  "crawledAt": "2026-04-22T23:25:42.343Z",
-  "total": 5,
+  "crawledAt": "2026-04-23T23:13:23.181Z",
+  "total": 11,
   "articles": [
     {
-      "title": "Garry Tan의 \"Skillify\" — AI 에이전트의 실패를 영구적 구조 수정으로 바꾸는 방법론",
-      "url": "https://news.hada.io/topic?id=28777",
-      "publishedAt": "2026-04-22T09:25:28.838Z",
+      "title": "GStack: Y Combinator CEO가 만든 AI 코딩 에이전트 프레임워크 유투브소개",
+      "url": "https://news.hada.io/topic?id=28830",
+      "publishedAt": "2026-04-23T22:54:13.592Z",
       "source": "Geeknews"
     },
     {
-      "title": "GPT 5.5 출시",
-      "url": "https://news.hada.io/topic?id=28774",
-      "publishedAt": "2026-04-22T04:25:28.839Z",
+      "title": "Anthropic의 Claude Code 장애 포스트모템: 2025년 4월 23일",
+      "url": "https://news.hada.io/topic?id=28828",
+      "publishedAt": "2026-04-23T22:13:13.593Z",
       "source": "Geeknews"
     },
     {
-      "title": "SpaceX, AI 코딩 스타트업 Cursor를 600억 달러에 인수할 옵션 확보",
-      "url": "https://news.hada.io/topic?id=28765",
-      "publishedAt": "2026-04-22T02:25:28.839Z",
+      "title": "OpenAI, GPT-5.5 발표: \"실제 업무를 위한 새로운 차원의 지능\"",
+      "url": "https://news.hada.io/topic?id=28822",
+      "publishedAt": "2026-04-23T18:13:13.594Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic, 신규 Pro($20/월) 사용자에게 Claude Code 제공 중단?",
-      "url": "https://news.hada.io/topic?id=28762",
-      "publishedAt": "2026-04-22T01:25:28.839Z",
+      "title": "Bitwarden CLI npm 패키지 하이재킹 – 개발자 인증정보 대규모 탈취 공격 발견",
+      "url": "https://news.hada.io/topic?id=28819",
+      "publishedAt": "2026-04-23T14:13:13.594Z",
       "source": "Geeknews"
     },
     {
-      "title": "Google LiteRT-LM - 엣지 디바이스용 고성능 LLM 추론 프레임워크",
-      "url": "https://news.hada.io/topic?id=28758",
-      "publishedAt": "2026-04-22T00:25:28.839Z",
+      "title": "Google Agents CLI — 코딩 에이전트를 에이전트 빌더로 만드는 메타 도구",
+      "url": "https://news.hada.io/topic?id=28817",
+      "publishedAt": "2026-04-23T12:13:13.594Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Gemini Deep Research Agent API 공개",
+      "url": "https://news.hada.io/topic?id=28815",
+      "publishedAt": "2026-04-23T09:13:13.594Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Google Cloud의 AI 에이전트 거버넌스 스택, \"에이전트를 엔지니어 조직처럼 관리하라\"",
+      "url": "https://news.hada.io/topic?id=28810",
+      "publishedAt": "2026-04-23T06:13:13.594Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "vLLM Recipes 개편 - 모델+하드웨어 조합별 설정을 딸각 한방으로",
+      "url": "https://news.hada.io/topic?id=28808",
+      "publishedAt": "2026-04-23T04:13:13.595Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Anthropic-AWS, 10년 1000억 달러 규모 컴퓨트 파트너십 확대...최대 5GW 신규 용량 확보",
+      "url": "https://news.hada.io/topic?id=28804",
+      "publishedAt": "2026-04-23T01:13:13.595Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "글로벌 OSS 트래커 oosmetrics, \"WebAssembly 부문 1위 / Code Editor 부문 7위\" — rhwp",
+      "url": "https://news.hada.io/topic?id=28795",
+      "publishedAt": "2026-04-23T01:13:13.595Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "kumo - Go로 작성된 경량 AWS 서비스 에뮬레이터",
+      "url": "https://news.hada.io/topic?id=28793",
+      "publishedAt": "2026-04-23T00:13:13.595Z",
       "source": "Geeknews"
     }
   ]
