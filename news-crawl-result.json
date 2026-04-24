@@ -1,71 +1,41 @@
 {
-  "crawledAt": "2026-04-23T23:13:23.181Z",
-  "total": 11,
+  "crawledAt": "2026-04-24T23:07:46.406Z",
+  "total": 6,
   "articles": [
     {
-      "title": "GStack: Y Combinator CEO가 만든 AI 코딩 에이전트 프레임워크 유투브소개",
-      "url": "https://news.hada.io/topic?id=28830",
-      "publishedAt": "2026-04-23T22:54:13.592Z",
+      "title": "OpenMythos: 공개 연구로 복원한 Claude Mythos 아키텍처 가설인가, 또 다른 AI 하이프인가",
+      "url": "https://news.hada.io/topic?id=28853",
+      "publishedAt": "2026-04-24T17:07:36.943Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic의 Claude Code 장애 포스트모템: 2025년 4월 23일",
-      "url": "https://news.hada.io/topic?id=28828",
-      "publishedAt": "2026-04-23T22:13:13.593Z",
+      "title": "AI 크롤러 시대, 로그 파일 분석으로 검색 가시성의 사각지대를 읽는 법",
+      "url": "https://news.hada.io/topic?id=28847",
+      "publishedAt": "2026-04-24T12:07:36.943Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenAI, GPT-5.5 발표: \"실제 업무를 위한 새로운 차원의 지능\"",
-      "url": "https://news.hada.io/topic?id=28822",
-      "publishedAt": "2026-04-23T18:13:13.594Z",
+      "title": "LLM으로 할 수 있는 비전형적인 일 7가지",
+      "url": "https://news.hada.io/topic?id=28846",
+      "publishedAt": "2026-04-24T06:07:36.944Z",
       "source": "Geeknews"
     },
     {
-      "title": "Bitwarden CLI npm 패키지 하이재킹 – 개발자 인증정보 대규모 탈취 공격 발견",
-      "url": "https://news.hada.io/topic?id=28819",
-      "publishedAt": "2026-04-23T14:13:13.594Z",
+      "title": "DeepSeek v4 출시",
+      "url": "https://news.hada.io/topic?id=28843",
+      "publishedAt": "2026-04-24T03:07:36.944Z",
       "source": "Geeknews"
     },
     {
-      "title": "Google Agents CLI — 코딩 에이전트를 에이전트 빌더로 만드는 메타 도구",
-      "url": "https://news.hada.io/topic?id=28817",
-      "publishedAt": "2026-04-23T12:13:13.594Z",
+      "title": "16진수 편집기는 바이트를 색상으로 구분해 표시해야 한다",
+      "url": "https://news.hada.io/topic?id=28841",
+      "publishedAt": "2026-04-24T02:07:36.944Z",
       "source": "Geeknews"
     },
     {
-      "title": "Gemini Deep Research Agent API 공개",
-      "url": "https://news.hada.io/topic?id=28815",
-      "publishedAt": "2026-04-23T09:13:13.594Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Google Cloud의 AI 에이전트 거버넌스 스택, \"에이전트를 엔지니어 조직처럼 관리하라\"",
-      "url": "https://news.hada.io/topic?id=28810",
-      "publishedAt": "2026-04-23T06:13:13.594Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "vLLM Recipes 개편 - 모델+하드웨어 조합별 설정을 딸각 한방으로",
-      "url": "https://news.hada.io/topic?id=28808",
-      "publishedAt": "2026-04-23T04:13:13.595Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Anthropic-AWS, 10년 1000억 달러 규모 컴퓨트 파트너십 확대...최대 5GW 신규 용량 확보",
-      "url": "https://news.hada.io/topic?id=28804",
-      "publishedAt": "2026-04-23T01:13:13.595Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "글로벌 OSS 트래커 oosmetrics, \"WebAssembly 부문 1위 / Code Editor 부문 7위\" — rhwp",
-      "url": "https://news.hada.io/topic?id=28795",
-      "publishedAt": "2026-04-23T01:13:13.595Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "kumo - Go로 작성된 경량 AWS 서비스 에뮬레이터",
-      "url": "https://news.hada.io/topic?id=28793",
-      "publishedAt": "2026-04-23T00:13:13.595Z",
+      "title": "syntaqlite - SQLite 자체 문법과 토크나이저 기반의 SQL 파서·포매터·검증기·언어 서버",
+      "url": "https://news.hada.io/topic?id=28832",
+      "publishedAt": "2026-04-24T00:07:36.945Z",
       "source": "Geeknews"
     }
   ]
