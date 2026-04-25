@@ -1,41 +1,59 @@
 {
-  "crawledAt": "2026-04-24T23:07:46.406Z",
-  "total": 6,
+  "crawledAt": "2026-04-25T23:06:23.170Z",
+  "total": 9,
   "articles": [
     {
-      "title": "OpenMythos: 공개 연구로 복원한 Claude Mythos 아키텍처 가설인가, 또 다른 AI 하이프인가",
-      "url": "https://news.hada.io/topic?id=28853",
-      "publishedAt": "2026-04-24T17:07:36.943Z",
+      "title": "Gemini Enterprise Agent Platform — 구글 클라우드의 차세대 AI 에이전트 통합 플랫폼",
+      "url": "https://news.hada.io/topic?id=28882",
+      "publishedAt": "2026-04-25T14:06:13.644Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 크롤러 시대, 로그 파일 분석으로 검색 가시성의 사각지대를 읽는 법",
-      "url": "https://news.hada.io/topic?id=28847",
-      "publishedAt": "2026-04-24T12:07:36.943Z",
+      "title": "DeepSeek V4 Pro 모델이 한시적으로 75% 할인됩니다.",
+      "url": "https://news.hada.io/topic?id=28881",
+      "publishedAt": "2026-04-25T13:06:13.645Z",
       "source": "Geeknews"
     },
     {
-      "title": "LLM으로 할 수 있는 비전형적인 일 7가지",
-      "url": "https://news.hada.io/topic?id=28846",
-      "publishedAt": "2026-04-24T06:07:36.944Z",
+      "title": "ClawSweeper: AI 기반 오픈소스 이슈 자동 관리 봇",
+      "url": "https://news.hada.io/topic?id=28880",
+      "publishedAt": "2026-04-25T11:06:13.645Z",
       "source": "Geeknews"
     },
     {
-      "title": "DeepSeek v4 출시",
-      "url": "https://news.hada.io/topic?id=28843",
-      "publishedAt": "2026-04-24T03:07:36.944Z",
+      "title": "TypeScript 7.0 Beta 공개",
+      "url": "https://news.hada.io/topic?id=28873",
+      "publishedAt": "2026-04-25T05:06:13.645Z",
       "source": "Geeknews"
     },
     {
-      "title": "16진수 편집기는 바이트를 색상으로 구분해 표시해야 한다",
-      "url": "https://news.hada.io/topic?id=28841",
-      "publishedAt": "2026-04-24T02:07:36.944Z",
+      "title": "Google Cloud가 제시하는 멀티 에이전트 시스템의 5가지 통합 패턴: A2A와 MCP",
+      "url": "https://news.hada.io/topic?id=28872",
+      "publishedAt": "2026-04-25T04:06:13.645Z",
       "source": "Geeknews"
     },
     {
-      "title": "syntaqlite - SQLite 자체 문법과 토크나이저 기반의 SQL 파서·포매터·검증기·언어 서버",
-      "url": "https://news.hada.io/topic?id=28832",
-      "publishedAt": "2026-04-24T00:07:36.945Z",
+      "title": "클로드 코드로 UX 라이팅 리소스 50% 절감한 후기 (Figma MCP 활용)",
+      "url": "https://news.hada.io/topic?id=28869",
+      "publishedAt": "2026-04-25T03:06:13.645Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Codex, Browser use로 웹사이트 구현 및 검증 지원",
+      "url": "https://news.hada.io/topic?id=28868",
+      "publishedAt": "2026-04-25T03:06:13.646Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "GoScrapy - Go기반 초고속 웹 스크래핑 프레임워크",
+      "url": "https://news.hada.io/topic?id=28862",
+      "publishedAt": "2026-04-25T00:06:13.646Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리)",
+      "url": "https://news.hada.io/topic?id=28861",
+      "publishedAt": "2026-04-25T00:06:13.646Z",
       "source": "Geeknews"
     }
   ]
