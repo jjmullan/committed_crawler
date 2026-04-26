@@ -1,59 +1,11 @@
 {
-  "crawledAt": "2026-04-25T23:06:23.170Z",
-  "total": 9,
+  "crawledAt": "2026-04-26T23:07:33.200Z",
+  "total": 1,
   "articles": [
     {
-      "title": "Gemini Enterprise Agent Platform — 구글 클라우드의 차세대 AI 에이전트 통합 플랫폼",
-      "url": "https://news.hada.io/topic?id=28882",
-      "publishedAt": "2026-04-25T14:06:13.644Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "DeepSeek V4 Pro 모델이 한시적으로 75% 할인됩니다.",
-      "url": "https://news.hada.io/topic?id=28881",
-      "publishedAt": "2026-04-25T13:06:13.645Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "ClawSweeper: AI 기반 오픈소스 이슈 자동 관리 봇",
-      "url": "https://news.hada.io/topic?id=28880",
-      "publishedAt": "2026-04-25T11:06:13.645Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "TypeScript 7.0 Beta 공개",
-      "url": "https://news.hada.io/topic?id=28873",
-      "publishedAt": "2026-04-25T05:06:13.645Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Google Cloud가 제시하는 멀티 에이전트 시스템의 5가지 통합 패턴: A2A와 MCP",
-      "url": "https://news.hada.io/topic?id=28872",
-      "publishedAt": "2026-04-25T04:06:13.645Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "클로드 코드로 UX 라이팅 리소스 50% 절감한 후기 (Figma MCP 활용)",
-      "url": "https://news.hada.io/topic?id=28869",
-      "publishedAt": "2026-04-25T03:06:13.645Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Codex, Browser use로 웹사이트 구현 및 검증 지원",
-      "url": "https://news.hada.io/topic?id=28868",
-      "publishedAt": "2026-04-25T03:06:13.646Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "GoScrapy - Go기반 초고속 웹 스크래핑 프레임워크",
-      "url": "https://news.hada.io/topic?id=28862",
-      "publishedAt": "2026-04-25T00:06:13.646Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리)",
-      "url": "https://news.hada.io/topic?id=28861",
-      "publishedAt": "2026-04-25T00:06:13.646Z",
+      "title": "mini-swe-agent - 100줄짜리 AI 에이전트로 GitHub 이슈 해결 및 커맨드라인 지원",
+      "url": "https://news.hada.io/topic?id=28891",
+      "publishedAt": "2026-04-26T00:07:18.838Z",
       "source": "Geeknews"
     }
   ]
