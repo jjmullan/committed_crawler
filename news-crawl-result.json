@@ -1,53 +1,47 @@
 {
-  "crawledAt": "2026-04-28T23:29:24.981Z",
-  "total": 8,
+  "crawledAt": "2026-04-29T23:28:48.651Z",
+  "total": 7,
   "articles": [
     {
-      "title": "MCP 도구 50개를 짜며 깨달은 것: 함수 호출은 비정상적으로 친밀한 관계였다",
-      "url": "https://news.hada.io/topic?id=28991",
-      "publishedAt": "2026-04-28T23:28:15.686Z",
+      "title": "GitHub 장애 - Incomplete pull request results in repositories Incident Report for GitHub",
+      "url": "https://news.hada.io/topic?id=29013",
+      "publishedAt": "2026-04-29T11:28:36.840Z",
       "source": "Geeknews"
     },
     {
-      "title": "Warp의 오픈소스 전환과 에이전트 중심 개발 모델 발표",
-      "url": "https://news.hada.io/topic?id=28987",
-      "publishedAt": "2026-04-28T22:32:15.687Z",
+      "title": "Claude한테 짜게 시키고 Codex한테 까게 시키기 — 두 에이전트를 한 레포에서 분담시키는 실무 패턴",
+      "url": "https://news.hada.io/topic?id=29011",
+      "publishedAt": "2026-04-29T08:28:36.841Z",
       "source": "Geeknews"
     },
     {
-      "title": "Warp, 터미널 기반 Agentic Development Environment를 오픈소스로 공개",
-      "url": "https://news.hada.io/topic?id=28983",
-      "publishedAt": "2026-04-28T16:29:15.687Z",
+      "title": "YC의 Requests for Startups - 2026년 여름",
+      "url": "https://news.hada.io/topic?id=29009",
+      "publishedAt": "2026-04-29T03:28:36.841Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 오픈클로 웹으로 세팅해서 사용해보려고 하는데",
-      "url": "https://news.hada.io/topic?id=28981",
-      "publishedAt": "2026-04-28T14:29:15.688Z",
+      "title": "MiMo-V2.5 — Xiaomi의 오픈소스 옴니모델 AI 모델",
+      "url": "https://news.hada.io/topic?id=29006",
+      "publishedAt": "2026-04-29T02:28:36.842Z",
       "source": "Geeknews"
     },
     {
-      "title": "VibeVoice - 오픈소스 프론티어 음성 AI 모델",
-      "url": "https://news.hada.io/topic?id=28971",
-      "publishedAt": "2026-04-28T04:29:15.688Z",
+      "title": "PgQue – Bloat 없는 Postgres 큐",
+      "url": "https://news.hada.io/topic?id=28997",
+      "publishedAt": "2026-04-29T00:28:36.842Z",
       "source": "Geeknews"
     },
     {
-      "title": "하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대",
-      "url": "https://news.hada.io/topic?id=28966",
-      "publishedAt": "2026-04-28T02:29:15.688Z",
+      "title": "DeepSeek-V4 논문 읽기 요약 - 노정석",
+      "url": "https://news.hada.io/topic?id=28996",
+      "publishedAt": "2026-04-29T00:28:36.842Z",
       "source": "Geeknews"
     },
     {
-      "title": "HyperFrames - HTML로 비디오를 만드는 AI 에이전트 전용 오픈소스 프레임워크",
-      "url": "https://news.hada.io/topic?id=28961",
-      "publishedAt": "2026-04-28T00:29:15.688Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Remotion - React로 영상을 만드는 오픈소스 프레임워크",
-      "url": "https://news.hada.io/topic?id=28958",
-      "publishedAt": "2026-04-28T00:29:15.689Z",
+      "title": "OpenAI Realtime API 기반 음성 제어 React 컴포넌트",
+      "url": "https://news.hada.io/topic?id=28995",
+      "publishedAt": "2026-04-29T00:28:36.842Z",
       "source": "Geeknews"
     }
   ]
