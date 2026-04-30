@@ -1,48 +1,60 @@
 {
-  "crawledAt": "2026-04-29T23:28:48.651Z",
-  "total": 7,
+  "crawledAt": "2026-04-30T23:28:39.751Z",
+  "total": 9,
   "articles": [
     {
-      "title": "GitHub 장애 - Incomplete pull request results in repositories Incident Report for GitHub",
-      "url": "https://news.hada.io/topic?id=29013",
-      "publishedAt": "2026-04-29T11:28:36.840Z",
+      "title": "Gemini 앱에서 바로 문서·시트·프레젠테이션 생성 지원",
+      "url": "https://news.hada.io/topic?id=29044",
+      "publishedAt": "2026-04-30T08:28:25.304Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude한테 짜게 시키고 Codex한테 까게 시키기 — 두 에이전트를 한 레포에서 분담시키는 실무 패턴",
-      "url": "https://news.hada.io/topic?id=29011",
-      "publishedAt": "2026-04-29T08:28:36.841Z",
+      "title": "spawn-agent: 로컬 코딩 에이전트를 Vercel AI SDK 모델처럼 다루는 어댑터",
+      "url": "https://news.hada.io/topic?id=29043",
+      "publishedAt": "2026-04-30T08:28:25.305Z",
       "source": "Geeknews"
     },
     {
-      "title": "YC의 Requests for Startups - 2026년 여름",
-      "url": "https://news.hada.io/topic?id=29009",
-      "publishedAt": "2026-04-29T03:28:36.841Z",
+      "title": "VSCode에서 Copilot이 기본적으로 Git 공동 작성자로 추가되었습니다.",
+      "url": "https://news.hada.io/topic?id=29041",
+      "publishedAt": "2026-04-30T07:28:25.305Z",
       "source": "Geeknews"
     },
     {
-      "title": "MiMo-V2.5 — Xiaomi의 오픈소스 옴니모델 AI 모델",
-      "url": "https://news.hada.io/topic?id=29006",
-      "publishedAt": "2026-04-29T02:28:36.842Z",
+      "title": "바이브 코딩의 환상과 AI 코드 수준 그리고 미래",
+      "url": "https://news.hada.io/topic?id=29036",
+      "publishedAt": "2026-04-30T02:28:25.305Z",
       "source": "Geeknews"
     },
     {
-      "title": "PgQue – Bloat 없는 Postgres 큐",
-      "url": "https://news.hada.io/topic?id=28997",
-      "publishedAt": "2026-04-29T00:28:36.842Z",
+      "title": "GLM-5 대규모 서비스 중 발견한 레이스 컨디션 버그 수정기 — Coding Agent 추론 인프라의 Scaling Pain",
+      "url": "https://news.hada.io/topic?id=29032",
+      "publishedAt": "2026-04-30T01:28:25.306Z",
       "source": "Geeknews"
     },
     {
-      "title": "DeepSeek-V4 논문 읽기 요약 - 노정석",
-      "url": "https://news.hada.io/topic?id=28996",
-      "publishedAt": "2026-04-29T00:28:36.842Z",
+      "title": "Claude-Ads - Claude Code로 광고 대행사를 대체하기",
+      "url": "https://news.hada.io/topic?id=29022",
+      "publishedAt": "2026-04-30T00:28:25.306Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenAI Realtime API 기반 음성 제어 React 컴포넌트",
-      "url": "https://news.hada.io/topic?id=28995",
-      "publishedAt": "2026-04-29T00:28:36.842Z",
+      "title": "GoModel - Go로 작성된 고성능 AI 게이트웨이",
+      "url": "https://news.hada.io/topic?id=29021",
+      "publishedAt": "2026-04-30T00:28:25.306Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "프로덕트 디자이너 혼자 DAU 28만 서비스를 만든 방법",
+      "url": "https://yozm.wishket.com/magazine/detail/3734/",
+      "publishedAt": "2026-04-30T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "하네스 엔지니어링으로 AI 에이전트를 길들여봤습니다",
+      "url": "https://yozm.wishket.com/magazine/detail/3733/",
+      "publishedAt": "2026-04-30T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
