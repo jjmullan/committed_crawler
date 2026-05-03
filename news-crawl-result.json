@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-05-02T23:10:11.928Z",
-  "total": 2,
+  "crawledAt": "2026-05-03T23:11:22.337Z",
+  "total": 3,
   "articles": [
     {
-      "title": "pnpm v11 릴리즈",
-      "url": "https://news.hada.io/topic?id=29097",
-      "publishedAt": "2026-05-02T06:10:02.577Z",
+      "title": "AI가 테스트를 지우고 \"All Tests Pass\"라고 이야기했다 - Typia를 TypeScript에서 Go로 포팅하다가 만...",
+      "url": "https://news.hada.io/topic?id=29129",
+      "publishedAt": "2026-05-03T14:11:09.342Z",
       "source": "Geeknews"
     },
     {
-      "title": "Fincept Terminal - 금융 분석 플랫폼 오픈소스",
-      "url": "https://news.hada.io/topic?id=29089",
-      "publishedAt": "2026-05-02T00:10:02.578Z",
+      "title": "정부 도메인 특화 sLLM 구축기 — Gemma-3-1B를 국토교통부 데이터로 파인튜닝한 RAG 챗봇",
+      "url": "https://news.hada.io/topic?id=29125",
+      "publishedAt": "2026-05-03T12:11:09.343Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Context Mode - AI 코딩 에이전트의 컨텍스트 윈도우를 98% 절약하는 MCP 서버",
+      "url": "https://news.hada.io/topic?id=29106",
+      "publishedAt": "2026-05-03T00:11:09.344Z",
       "source": "Geeknews"
     }
   ]
