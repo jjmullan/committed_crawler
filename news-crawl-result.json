@@ -1,17 +1,29 @@
 {
-  "crawledAt": "2026-05-04T23:27:55.178Z",
-  "total": 2,
+  "crawledAt": "2026-05-05T23:26:50.333Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Codex CLI 에 /goal 기능 추가",
-      "url": "https://news.hada.io/topic?id=29158",
-      "publishedAt": "2026-05-04T09:27:45.550Z",
+      "title": "코인베이스, 직원 14% 해고",
+      "url": "https://news.hada.io/topic?id=29195",
+      "publishedAt": "2026-05-05T15:26:40.766Z",
       "source": "Geeknews"
     },
     {
-      "title": "Barman - PostgreSQL용 백업 및 복구 관리자",
-      "url": "https://news.hada.io/topic?id=29139",
-      "publishedAt": "2026-05-04T00:27:45.551Z",
+      "title": "AI로 인한 고용 종말이 (아마도) 일어나지 않을 이유",
+      "url": "https://news.hada.io/topic?id=29185",
+      "publishedAt": "2026-05-05T03:26:40.767Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Bun은 Zig에서 Rust로 포팅중입니다",
+      "url": "https://news.hada.io/topic?id=29184",
+      "publishedAt": "2026-05-05T03:26:40.767Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Understand-Anything - 코드/지식베이스를 인터랙티브 지식 그래프로 변환하는 플러그인",
+      "url": "https://news.hada.io/topic?id=29178",
+      "publishedAt": "2026-05-05T00:26:40.767Z",
       "source": "Geeknews"
     }
   ]
