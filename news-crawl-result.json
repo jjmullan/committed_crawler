@@ -1,30 +1,48 @@
 {
-  "crawledAt": "2026-05-05T23:26:50.333Z",
-  "total": 4,
+  "crawledAt": "2026-05-06T23:14:28.277Z",
+  "total": 7,
   "articles": [
     {
-      "title": "코인베이스, 직원 14% 해고",
-      "url": "https://news.hada.io/topic?id=29195",
-      "publishedAt": "2026-05-05T15:26:40.766Z",
+      "title": "Ask GN: Expo + React Native 환경에서 Gemma-4-E2B-it 온디바이스로 사용하는 방법이 궁금합니다",
+      "url": "https://news.hada.io/topic?id=29226",
+      "publishedAt": "2026-05-06T13:14:13.796Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI로 인한 고용 종말이 (아마도) 일어나지 않을 이유",
-      "url": "https://news.hada.io/topic?id=29185",
-      "publishedAt": "2026-05-05T03:26:40.767Z",
+      "title": "제미나이가 추천해준 사이트에서 \"로봇 아님\"을 증명하다가 해킹당함",
+      "url": "https://news.hada.io/topic?id=29222",
+      "publishedAt": "2026-05-06T08:14:13.797Z",
       "source": "Geeknews"
     },
     {
-      "title": "Bun은 Zig에서 Rust로 포팅중입니다",
-      "url": "https://news.hada.io/topic?id=29184",
-      "publishedAt": "2026-05-05T03:26:40.767Z",
+      "title": "AI는 코드를 쓴다. 결정도 한다. 책임만 못 진다.",
+      "url": "https://news.hada.io/topic?id=29220",
+      "publishedAt": "2026-05-06T04:14:13.797Z",
       "source": "Geeknews"
     },
     {
-      "title": "Understand-Anything - 코드/지식베이스를 인터랙티브 지식 그래프로 변환하는 플러그인",
-      "url": "https://news.hada.io/topic?id=29178",
-      "publishedAt": "2026-05-05T00:26:40.767Z",
+      "title": "Gemma 4 MTP 은폐후 커뮤니티가 파헤치고, Google이 뒤늦게 우회 지원",
+      "url": "https://news.hada.io/topic?id=29219",
+      "publishedAt": "2026-05-06T04:14:13.798Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "WAL-G - 클라우드 환경 데이터베이스를 위한 아카이빙 및 복원 도구",
+      "url": "https://news.hada.io/topic?id=29208",
+      "publishedAt": "2026-05-06T00:14:13.798Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI가 코드 짜는 시대, 버전 관리도 바뀐다 (feat. Entire AI)",
+      "url": "https://yozm.wishket.com/magazine/detail/3741/",
+      "publishedAt": "2026-05-06T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "기획부터 실행까지 돕는 크리에이티브 에이전트 ‘Luma AI’",
+      "url": "https://yozm.wishket.com/magazine/detail/3740/",
+      "publishedAt": "2026-05-06T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
