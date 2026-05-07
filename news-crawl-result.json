@@ -1,48 +1,42 @@
 {
-  "crawledAt": "2026-05-06T23:14:28.277Z",
-  "total": 7,
+  "crawledAt": "2026-05-07T23:27:36.275Z",
+  "total": 6,
   "articles": [
     {
-      "title": "Ask GN: Expo + React Native 환경에서 Gemma-4-E2B-it 온디바이스로 사용하는 방법이 궁금합니다",
-      "url": "https://news.hada.io/topic?id=29226",
-      "publishedAt": "2026-05-06T13:14:13.796Z",
+      "title": "화상면접 4번 뚫고 입사한 시니어 개발자, 회사 노트북 받자마자 25분 만에 멀웨어 깔았다",
+      "url": "https://news.hada.io/topic?id=29274",
+      "publishedAt": "2026-05-07T22:58:26.772Z",
       "source": "Geeknews"
     },
     {
-      "title": "제미나이가 추천해준 사이트에서 \"로봇 아님\"을 증명하다가 해킹당함",
-      "url": "https://news.hada.io/topic?id=29222",
-      "publishedAt": "2026-05-06T08:14:13.797Z",
+      "title": "Skills For Real Engineers - Matt Pocock",
+      "url": "https://news.hada.io/topic?id=29259",
+      "publishedAt": "2026-05-07T08:27:26.773Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI는 코드를 쓴다. 결정도 한다. 책임만 못 진다.",
-      "url": "https://news.hada.io/topic?id=29220",
-      "publishedAt": "2026-05-06T04:14:13.797Z",
+      "title": "AI가 끌어올린 바닥, 우리의 천장은 어디인가? 대화 속에서 찾아낸 세 가지 화두",
+      "url": "https://news.hada.io/topic?id=29254",
+      "publishedAt": "2026-05-07T05:27:26.774Z",
       "source": "Geeknews"
     },
     {
-      "title": "Gemma 4 MTP 은폐후 커뮤니티가 파헤치고, Google이 뒤늦게 우회 지원",
-      "url": "https://news.hada.io/topic?id=29219",
-      "publishedAt": "2026-05-06T04:14:13.798Z",
+      "title": "Node.js 26.0.0 공식 출시",
+      "url": "https://news.hada.io/topic?id=29253",
+      "publishedAt": "2026-05-07T04:27:26.774Z",
       "source": "Geeknews"
     },
     {
-      "title": "WAL-G - 클라우드 환경 데이터베이스를 위한 아카이빙 및 복원 도구",
-      "url": "https://news.hada.io/topic?id=29208",
-      "publishedAt": "2026-05-06T00:14:13.798Z",
+      "title": "Toprank - SEO 및 광고 관리용 Claude Code 플러그인",
+      "url": "https://news.hada.io/topic?id=29250",
+      "publishedAt": "2026-05-07T00:27:26.774Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI가 코드 짜는 시대, 버전 관리도 바뀐다 (feat. Entire AI)",
-      "url": "https://yozm.wishket.com/magazine/detail/3741/",
-      "publishedAt": "2026-05-06T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "기획부터 실행까지 돕는 크리에이티브 에이전트 ‘Luma AI’",
-      "url": "https://yozm.wishket.com/magazine/detail/3740/",
-      "publishedAt": "2026-05-06T09:00:17+09:00",
-      "source": "요즘IT"
+      "title": "Open Generative AI - 200개 이상의 AI 모델로 이미지/영상을 생성하는 스튜디오",
+      "url": "https://news.hada.io/topic?id=29246",
+      "publishedAt": "2026-05-07T00:27:26.775Z",
+      "source": "Geeknews"
     }
   ]
 }
