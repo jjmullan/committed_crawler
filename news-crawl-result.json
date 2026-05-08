@@ -1,42 +1,42 @@
 {
-  "crawledAt": "2026-05-07T23:27:36.275Z",
+  "crawledAt": "2026-05-08T23:30:23.052Z",
   "total": 6,
   "articles": [
     {
-      "title": "화상면접 4번 뚫고 입사한 시니어 개발자, 회사 노트북 받자마자 25분 만에 멀웨어 깔았다",
-      "url": "https://news.hada.io/topic?id=29274",
-      "publishedAt": "2026-05-07T22:58:26.772Z",
+      "title": "OpenAI, Codex에 “Pet” 기능 추가",
+      "url": "https://news.hada.io/topic?id=29291",
+      "publishedAt": "2026-05-08T04:30:10.507Z",
       "source": "Geeknews"
     },
     {
-      "title": "Skills For Real Engineers - Matt Pocock",
-      "url": "https://news.hada.io/topic?id=29259",
-      "publishedAt": "2026-05-07T08:27:26.773Z",
+      "title": "Cloudflare의 2026년 전략: “AI 인턴 1,111명 확대”와 “직원 1,100명 감축”",
+      "url": "https://news.hada.io/topic?id=29290",
+      "publishedAt": "2026-05-08T04:30:10.508Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI가 끌어올린 바닥, 우리의 천장은 어디인가? 대화 속에서 찾아낸 세 가지 화두",
-      "url": "https://news.hada.io/topic?id=29254",
-      "publishedAt": "2026-05-07T05:27:26.774Z",
+      "title": "식물 세포 안의 숨겨진 수학: 엽록체 배열의 최적화 원리",
+      "url": "https://news.hada.io/topic?id=29286",
+      "publishedAt": "2026-05-08T01:30:10.509Z",
       "source": "Geeknews"
     },
     {
-      "title": "Node.js 26.0.0 공식 출시",
-      "url": "https://news.hada.io/topic?id=29253",
-      "publishedAt": "2026-05-07T04:27:26.774Z",
+      "title": "Hunk - AI 에이전트 코드 리뷰를 위한 터미널 Diff 뷰어",
+      "url": "https://news.hada.io/topic?id=29279",
+      "publishedAt": "2026-05-08T00:30:10.510Z",
       "source": "Geeknews"
     },
     {
-      "title": "Toprank - SEO 및 광고 관리용 Claude Code 플러그인",
-      "url": "https://news.hada.io/topic?id=29250",
-      "publishedAt": "2026-05-07T00:27:26.774Z",
-      "source": "Geeknews"
+      "title": "바이브 코딩의 진짜 시작은 이제부터다",
+      "url": "https://yozm.wishket.com/magazine/detail/3746/",
+      "publishedAt": "2026-05-08T14:00:17+09:00",
+      "source": "요즘IT"
     },
     {
-      "title": "Open Generative AI - 200개 이상의 AI 모델로 이미지/영상을 생성하는 스튜디오",
-      "url": "https://news.hada.io/topic?id=29246",
-      "publishedAt": "2026-05-07T00:27:26.775Z",
-      "source": "Geeknews"
+      "title": "YC가 이번 여름에 투자하고 싶은 스타트업 아이디어 15가지",
+      "url": "https://yozm.wishket.com/magazine/detail/3745/",
+      "publishedAt": "2026-05-08T10:09:25+09:00",
+      "source": "요즘IT"
     }
   ]
 }
