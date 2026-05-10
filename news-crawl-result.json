@@ -1,35 +1,23 @@
 {
-  "crawledAt": "2026-05-09T23:13:09.787Z",
-  "total": 5,
+  "crawledAt": "2026-05-10T23:26:37.334Z",
+  "total": 3,
   "articles": [
     {
-      "title": "모나리자 크기로 도화지를 자르면 저작권 위반인가? (부제: rHWP용 Metric-compatible fonts를 위한 질문)",
-      "url": "https://news.hada.io/topic?id=29327",
-      "publishedAt": "2026-05-09T16:13:00.493Z",
+      "title": "Martin - PostGIS 기반의 고성능 실시간 벡터 타일 서버",
+      "url": "https://news.hada.io/topic?id=29358",
+      "publishedAt": "2026-05-10T10:26:27.754Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude 연구원은 HTML이 Markdown보다 더 쓰기 좋다고 말했습니다.",
-      "url": "https://news.hada.io/topic?id=29320",
-      "publishedAt": "2026-05-09T10:13:00.493Z",
+      "title": "이름에 대한 프로그래머의 오해들 (2010)",
+      "url": "https://news.hada.io/topic?id=29350",
+      "publishedAt": "2026-05-10T03:26:27.755Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대, 0→1 서비스에서 오픈보다 운영이 더 중요한 이유",
-      "url": "https://news.hada.io/topic?id=29317",
-      "publishedAt": "2026-05-09T05:13:00.494Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Ask GN: 요즘 한국어 TTS 오픈소스 모델 중에 어떤 게 퀄리티가 좋은가요?",
-      "url": "https://news.hada.io/topic?id=29315",
-      "publishedAt": "2026-05-09T02:13:00.494Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Camofox Browser - AI 에이전트를 위한 스텔스 헤드리스 브라우저",
-      "url": "https://news.hada.io/topic?id=29310",
-      "publishedAt": "2026-05-09T00:13:00.494Z",
+      "title": "CodeBurn - AI 코딩 도구 토큰 사용량/비용 추적 TUI 대시보드",
+      "url": "https://news.hada.io/topic?id=29343",
+      "publishedAt": "2026-05-10T00:26:27.755Z",
       "source": "Geeknews"
     }
   ]
