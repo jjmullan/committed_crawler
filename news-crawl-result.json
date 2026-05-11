@@ -1,23 +1,65 @@
 {
-  "crawledAt": "2026-05-10T23:26:37.334Z",
-  "total": 3,
+  "crawledAt": "2026-05-11T23:30:48.583Z",
+  "total": 10,
   "articles": [
     {
-      "title": "Martin - PostGIS 기반의 고성능 실시간 벡터 타일 서버",
-      "url": "https://news.hada.io/topic?id=29358",
-      "publishedAt": "2026-05-10T10:26:27.754Z",
+      "title": "결정론적 아키텍처 : 할루시네이션의 확률적 편차를 통제하여, 무한한 연속성을 보장하는 기호적 통제 ...",
+      "url": "https://news.hada.io/topic?id=29403",
+      "publishedAt": "2026-05-11T20:30:38.954Z",
       "source": "Geeknews"
     },
     {
-      "title": "이름에 대한 프로그래머의 오해들 (2010)",
-      "url": "https://news.hada.io/topic?id=29350",
-      "publishedAt": "2026-05-10T03:26:27.755Z",
+      "title": "LoPE: 무작위 라틴어 텍스트를 앞에 붙이면 LLM 추론이 향상된다! (arXiv 논문)",
+      "url": "https://news.hada.io/topic?id=29400",
+      "publishedAt": "2026-05-11T17:30:38.955Z",
       "source": "Geeknews"
     },
     {
-      "title": "CodeBurn - AI 코딩 도구 토큰 사용량/비용 추적 TUI 대시보드",
-      "url": "https://news.hada.io/topic?id=29343",
-      "publishedAt": "2026-05-10T00:26:27.755Z",
+      "title": "Ask GN: AI끼리 대화하는 환경에서 사람이 개입하는 서비스에 대해서 어떻게 생각하시나요?",
+      "url": "https://news.hada.io/topic?id=29397",
+      "publishedAt": "2026-05-11T16:30:38.956Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Claude Code Vercel 플러그인이 유저를 유니크 ID로 동의 없이 추적하고 있다.",
+      "url": "https://news.hada.io/topic?id=29393",
+      "publishedAt": "2026-05-11T14:30:38.956Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI는 어떻게 미완성 사고를 유창한 확신으로 바꾸는가? - 전문가일수록 더 위험한 이유",
+      "url": "https://news.hada.io/topic?id=29392",
+      "publishedAt": "2026-05-11T14:30:38.956Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Bun v1.3.14 이 마지막 Zig 버전이 될 수 있음",
+      "url": "https://news.hada.io/topic?id=29388",
+      "publishedAt": "2026-05-11T13:30:38.956Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "DORA: AI 보조 소프트웨어 개발의 ROI*",
+      "url": "https://news.hada.io/topic?id=29381",
+      "publishedAt": "2026-05-11T07:30:38.956Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Open Design - Claude Design의 로컬 퍼스트 오픈소스 대체제",
+      "url": "https://news.hada.io/topic?id=29376",
+      "publishedAt": "2026-05-11T02:30:38.957Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Bifrost - 초고속 엔터프라이즈 AI 게이트웨이",
+      "url": "https://news.hada.io/topic?id=29373",
+      "publishedAt": "2026-05-11T01:30:38.957Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Anthropic, 금융 서비스에 특화된 AI 에이전트/스킬/커넥터 오픈소스 공개",
+      "url": "https://news.hada.io/topic?id=29372",
+      "publishedAt": "2026-05-11T01:30:38.957Z",
       "source": "Geeknews"
     }
   ]
