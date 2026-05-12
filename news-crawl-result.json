@@ -1,65 +1,47 @@
 {
-  "crawledAt": "2026-05-11T23:30:48.583Z",
-  "total": 10,
+  "crawledAt": "2026-05-12T23:36:34.220Z",
+  "total": 7,
   "articles": [
     {
-      "title": "결정론적 아키텍처 : 할루시네이션의 확률적 편차를 통제하여, 무한한 연속성을 보장하는 기호적 통제 ...",
-      "url": "https://news.hada.io/topic?id=29403",
-      "publishedAt": "2026-05-11T20:30:38.954Z",
+      "title": "Rust 백엔드 DB 라이브러리 4종 비교",
+      "url": "https://news.hada.io/topic?id=29433",
+      "publishedAt": "2026-05-12T13:36:20.271Z",
       "source": "Geeknews"
     },
     {
-      "title": "LoPE: 무작위 라틴어 텍스트를 앞에 붙이면 LLM 추론이 향상된다! (arXiv 논문)",
-      "url": "https://news.hada.io/topic?id=29400",
-      "publishedAt": "2026-05-11T17:30:38.955Z",
+      "title": "Claude Code, 여러 에이전트를 한 화면에서 관리하는 'Agent View' 공개",
+      "url": "https://news.hada.io/topic?id=29431",
+      "publishedAt": "2026-05-12T12:36:20.271Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: AI끼리 대화하는 환경에서 사람이 개입하는 서비스에 대해서 어떻게 생각하시나요?",
-      "url": "https://news.hada.io/topic?id=29397",
-      "publishedAt": "2026-05-11T16:30:38.956Z",
+      "title": "Claude Code 에도 /goal 기능 추가",
+      "url": "https://news.hada.io/topic?id=29428",
+      "publishedAt": "2026-05-12T08:36:20.272Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code Vercel 플러그인이 유저를 유니크 ID로 동의 없이 추적하고 있다.",
-      "url": "https://news.hada.io/topic?id=29393",
-      "publishedAt": "2026-05-11T14:30:38.956Z",
+      "title": "Mini Shai-Hulud의 귀환: npm 생태계를 강타한 자가 전파형 공급망 공격 (5/11)",
+      "url": "https://news.hada.io/topic?id=29427",
+      "publishedAt": "2026-05-12T07:36:20.272Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI는 어떻게 미완성 사고를 유창한 확신으로 바꾸는가? - 전문가일수록 더 위험한 이유",
-      "url": "https://news.hada.io/topic?id=29392",
-      "publishedAt": "2026-05-11T14:30:38.956Z",
+      "title": "Ask GN: 한국어 다중화자 구분을 잘하는 모델이 있을까요??",
+      "url": "https://news.hada.io/topic?id=29417",
+      "publishedAt": "2026-05-12T01:36:20.272Z",
       "source": "Geeknews"
     },
     {
-      "title": "Bun v1.3.14 이 마지막 Zig 버전이 될 수 있음",
-      "url": "https://news.hada.io/topic?id=29388",
-      "publishedAt": "2026-05-11T13:30:38.956Z",
+      "title": "Rapid-MLX - Apple Silicon 전용 초고속 로컬 AI 엔진",
+      "url": "https://news.hada.io/topic?id=29410",
+      "publishedAt": "2026-05-12T00:36:20.272Z",
       "source": "Geeknews"
     },
     {
-      "title": "DORA: AI 보조 소프트웨어 개발의 ROI*",
-      "url": "https://news.hada.io/topic?id=29381",
-      "publishedAt": "2026-05-11T07:30:38.956Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Open Design - Claude Design의 로컬 퍼스트 오픈소스 대체제",
-      "url": "https://news.hada.io/topic?id=29376",
-      "publishedAt": "2026-05-11T02:30:38.957Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Bifrost - 초고속 엔터프라이즈 AI 게이트웨이",
-      "url": "https://news.hada.io/topic?id=29373",
-      "publishedAt": "2026-05-11T01:30:38.957Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Anthropic, 금융 서비스에 특화된 AI 에이전트/스킬/커넥터 오픈소스 공개",
-      "url": "https://news.hada.io/topic?id=29372",
-      "publishedAt": "2026-05-11T01:30:38.957Z",
+      "title": "zero-native - Zig와 웹 UI로 데스크톱 + 모바일 앱 빌드",
+      "url": "https://news.hada.io/topic?id=29409",
+      "publishedAt": "2026-05-12T00:36:20.273Z",
       "source": "Geeknews"
     }
   ]
