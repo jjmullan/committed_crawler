@@ -1,48 +1,54 @@
 {
-  "crawledAt": "2026-05-12T23:36:34.220Z",
-  "total": 7,
+  "crawledAt": "2026-05-13T23:37:17.995Z",
+  "total": 8,
   "articles": [
     {
-      "title": "Rust 백엔드 DB 라이브러리 4종 비교",
-      "url": "https://news.hada.io/topic?id=29433",
-      "publishedAt": "2026-05-12T13:36:20.271Z",
+      "title": "The AI Agent Complexity Ratchet: Why 90% Test Coverage Is Required",
+      "url": "https://news.hada.io/topic?id=29462",
+      "publishedAt": "2026-05-13T05:37:05.330Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code, 여러 에이전트를 한 화면에서 관리하는 'Agent View' 공개",
-      "url": "https://news.hada.io/topic?id=29431",
-      "publishedAt": "2026-05-12T12:36:20.271Z",
+      "title": "\"클로드 90% 할인\"의 정체, 알고 보니 AI 학습 데이터 탈취 통로였습니다",
+      "url": "https://news.hada.io/topic?id=29461",
+      "publishedAt": "2026-05-13T05:37:05.331Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Code 에도 /goal 기능 추가",
-      "url": "https://news.hada.io/topic?id=29428",
-      "publishedAt": "2026-05-12T08:36:20.272Z",
+      "title": "새로운 Mac 스틸러가 Claude에서 Apple 지원으로 위장하고 있습니다",
+      "url": "https://news.hada.io/topic?id=29456",
+      "publishedAt": "2026-05-13T02:37:05.331Z",
       "source": "Geeknews"
     },
     {
-      "title": "Mini Shai-Hulud의 귀환: npm 생태계를 강타한 자가 전파형 공급망 공격 (5/11)",
-      "url": "https://news.hada.io/topic?id=29427",
-      "publishedAt": "2026-05-12T07:36:20.272Z",
+      "title": "Anthropic, Claude에게 \"왜\"를 가르치다 - 정렬 훈련(Alignment Training) 개선 사례",
+      "url": "https://news.hada.io/topic?id=29455",
+      "publishedAt": "2026-05-13T01:37:05.332Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 한국어 다중화자 구분을 잘하는 모델이 있을까요??",
-      "url": "https://news.hada.io/topic?id=29417",
-      "publishedAt": "2026-05-12T01:36:20.272Z",
+      "title": "DeepSeek-TUI - 터미널에서 실행되는 DeepSeek 모델용 코딩 에이전트",
+      "url": "https://news.hada.io/topic?id=29447",
+      "publishedAt": "2026-05-13T00:37:05.332Z",
       "source": "Geeknews"
     },
     {
-      "title": "Rapid-MLX - Apple Silicon 전용 초고속 로컬 AI 엔진",
-      "url": "https://news.hada.io/topic?id=29410",
-      "publishedAt": "2026-05-12T00:36:20.272Z",
+      "title": "goshs - 개발자를 위한 다기능 단일 바이너리 파일 서버",
+      "url": "https://news.hada.io/topic?id=29445",
+      "publishedAt": "2026-05-13T00:37:05.332Z",
       "source": "Geeknews"
     },
     {
-      "title": "zero-native - Zig와 웹 UI로 데스크톱 + 모바일 앱 빌드",
-      "url": "https://news.hada.io/topic?id=29409",
-      "publishedAt": "2026-05-12T00:36:20.273Z",
-      "source": "Geeknews"
+      "title": "에이전틱 엔지니어링 시대에서 살아남기",
+      "url": "https://yozm.wishket.com/magazine/detail/3752/",
+      "publishedAt": "2026-05-13T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "개발자가 써본 클로드 디자인 실전 후기",
+      "url": "https://yozm.wishket.com/magazine/detail/3751/",
+      "publishedAt": "2026-05-13T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
