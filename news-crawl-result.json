@@ -1,54 +1,30 @@
 {
-  "crawledAt": "2026-05-13T23:37:17.995Z",
-  "total": 8,
+  "crawledAt": "2026-05-14T23:28:36.054Z",
+  "total": 4,
   "articles": [
     {
-      "title": "The AI Agent Complexity Ratchet: Why 90% Test Coverage Is Required",
-      "url": "https://news.hada.io/topic?id=29462",
-      "publishedAt": "2026-05-13T05:37:05.330Z",
+      "title": "이론 형성으로서의 프로그래밍 (1985)",
+      "url": "https://news.hada.io/topic?id=29501",
+      "publishedAt": "2026-05-14T11:28:26.294Z",
       "source": "Geeknews"
     },
     {
-      "title": "\"클로드 90% 할인\"의 정체, 알고 보니 AI 학습 데이터 탈취 통로였습니다",
-      "url": "https://news.hada.io/topic?id=29461",
-      "publishedAt": "2026-05-13T05:37:05.331Z",
+      "title": "Code w/ Claude에서 발표한 모든 것들",
+      "url": "https://news.hada.io/topic?id=29493",
+      "publishedAt": "2026-05-14T02:28:26.294Z",
       "source": "Geeknews"
     },
     {
-      "title": "새로운 Mac 스틸러가 Claude에서 Apple 지원으로 위장하고 있습니다",
-      "url": "https://news.hada.io/topic?id=29456",
-      "publishedAt": "2026-05-13T02:37:05.331Z",
+      "title": "코드 공장의 구성요소",
+      "url": "https://news.hada.io/topic?id=29488",
+      "publishedAt": "2026-05-14T01:28:26.295Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic, Claude에게 \"왜\"를 가르치다 - 정렬 훈련(Alignment Training) 개선 사례",
-      "url": "https://news.hada.io/topic?id=29455",
-      "publishedAt": "2026-05-13T01:37:05.332Z",
+      "title": "Ruflo - 클로드 코드를 위한 멀티 에이전트 AI 오케스트레이션 플랫폼",
+      "url": "https://news.hada.io/topic?id=29480",
+      "publishedAt": "2026-05-14T00:28:26.295Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "DeepSeek-TUI - 터미널에서 실행되는 DeepSeek 모델용 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=29447",
-      "publishedAt": "2026-05-13T00:37:05.332Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "goshs - 개발자를 위한 다기능 단일 바이너리 파일 서버",
-      "url": "https://news.hada.io/topic?id=29445",
-      "publishedAt": "2026-05-13T00:37:05.332Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "에이전틱 엔지니어링 시대에서 살아남기",
-      "url": "https://yozm.wishket.com/magazine/detail/3752/",
-      "publishedAt": "2026-05-13T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "개발자가 써본 클로드 디자인 실전 후기",
-      "url": "https://yozm.wishket.com/magazine/detail/3751/",
-      "publishedAt": "2026-05-13T09:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
