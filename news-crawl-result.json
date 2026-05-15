@@ -1,29 +1,41 @@
 {
-  "crawledAt": "2026-05-14T23:28:36.054Z",
-  "total": 4,
+  "crawledAt": "2026-05-15T23:28:35.101Z",
+  "total": 6,
   "articles": [
     {
-      "title": "이론 형성으로서의 프로그래밍 (1985)",
-      "url": "https://news.hada.io/topic?id=29501",
-      "publishedAt": "2026-05-14T11:28:26.294Z",
+      "title": "무작위 접근(Random access) 워크로드에 적합한 ZFS 튜닝 방법",
+      "url": "https://news.hada.io/topic?id=29540",
+      "publishedAt": "2026-05-15T14:28:25.512Z",
       "source": "Geeknews"
     },
     {
-      "title": "Code w/ Claude에서 발표한 모든 것들",
-      "url": "https://news.hada.io/topic?id=29493",
-      "publishedAt": "2026-05-14T02:28:26.294Z",
+      "title": "Artifact Keeper - Rust로 만든 오픈소스 범용 아티팩트 레지스트리",
+      "url": "https://news.hada.io/topic?id=29536",
+      "publishedAt": "2026-05-15T05:28:25.512Z",
       "source": "Geeknews"
     },
     {
-      "title": "코드 공장의 구성요소",
-      "url": "https://news.hada.io/topic?id=29488",
-      "publishedAt": "2026-05-14T01:28:26.295Z",
+      "title": "RustFS - Rust로 만든 S3 호환 분산 객체 스토리지",
+      "url": "https://news.hada.io/topic?id=29532",
+      "publishedAt": "2026-05-15T01:28:25.513Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ruflo - 클로드 코드를 위한 멀티 에이전트 AI 오케스트레이션 플랫폼",
-      "url": "https://news.hada.io/topic?id=29480",
-      "publishedAt": "2026-05-14T00:28:26.295Z",
+      "title": "Supertonic 3 - 초경량 온디바이스 TTS 출시, 31개 언어 및 감정 태그 지원",
+      "url": "https://news.hada.io/topic?id=29522",
+      "publishedAt": "2026-05-15T01:28:25.513Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "DeerFlow 2.0 — ByteDance의 장기 실행 SuperAgent 하네스",
+      "url": "https://news.hada.io/topic?id=29518",
+      "publishedAt": "2026-05-15T00:28:25.513Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "OpenAI, Codex를 ChatGPT 모바일 앱에 통합 공개",
+      "url": "https://news.hada.io/topic?id=29514",
+      "publishedAt": "2026-05-15T00:28:25.513Z",
       "source": "Geeknews"
     }
   ]
