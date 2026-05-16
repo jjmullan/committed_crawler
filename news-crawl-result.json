@@ -1,41 +1,17 @@
 {
-  "crawledAt": "2026-05-15T23:28:35.101Z",
-  "total": 6,
+  "crawledAt": "2026-05-16T23:27:05.184Z",
+  "total": 2,
   "articles": [
     {
-      "title": "무작위 접근(Random access) 워크로드에 적합한 ZFS 튜닝 방법",
-      "url": "https://news.hada.io/topic?id=29540",
-      "publishedAt": "2026-05-15T14:28:25.512Z",
+      "title": "Github 19만스타에 빛나는 Claude Code 플러그인 Superpowers 사용기",
+      "url": "https://news.hada.io/topic?id=29552",
+      "publishedAt": "2026-05-16T01:26:50.000Z",
       "source": "Geeknews"
     },
     {
-      "title": "Artifact Keeper - Rust로 만든 오픈소스 범용 아티팩트 레지스트리",
-      "url": "https://news.hada.io/topic?id=29536",
-      "publishedAt": "2026-05-15T05:28:25.512Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "RustFS - Rust로 만든 S3 호환 분산 객체 스토리지",
-      "url": "https://news.hada.io/topic?id=29532",
-      "publishedAt": "2026-05-15T01:28:25.513Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Supertonic 3 - 초경량 온디바이스 TTS 출시, 31개 언어 및 감정 태그 지원",
-      "url": "https://news.hada.io/topic?id=29522",
-      "publishedAt": "2026-05-15T01:28:25.513Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "DeerFlow 2.0 — ByteDance의 장기 실행 SuperAgent 하네스",
-      "url": "https://news.hada.io/topic?id=29518",
-      "publishedAt": "2026-05-15T00:28:25.513Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenAI, Codex를 ChatGPT 모바일 앱에 통합 공개",
-      "url": "https://news.hada.io/topic?id=29514",
-      "publishedAt": "2026-05-15T00:28:25.513Z",
+      "title": "git-sync - 로컬 체크아웃 없이 Git 리모트 간 ref를 직접 미러링하는 CLI 도구",
+      "url": "https://news.hada.io/topic?id=29547",
+      "publishedAt": "2026-05-16T00:26:50.001Z",
       "source": "Geeknews"
     }
   ]
