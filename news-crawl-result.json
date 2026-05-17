@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-05-16T23:27:05.184Z",
-  "total": 2,
+  "crawledAt": "2026-05-17T23:30:25.854Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Github 19만스타에 빛나는 Claude Code 플러그인 Superpowers 사용기",
-      "url": "https://news.hada.io/topic?id=29552",
-      "publishedAt": "2026-05-16T01:26:50.000Z",
+      "title": "일론 머스크, Cursor 인수 계약 후 \"Cursor 데이터로 Grok V9 보강 훈련 예정\"",
+      "url": "https://news.hada.io/topic?id=29587",
+      "publishedAt": "2026-05-17T10:30:16.057Z",
       "source": "Geeknews"
     },
     {
-      "title": "git-sync - 로컬 체크아웃 없이 Git 리모트 간 ref를 직접 미러링하는 CLI 도구",
-      "url": "https://news.hada.io/topic?id=29547",
-      "publishedAt": "2026-05-16T00:26:50.001Z",
+      "title": "Google 검색의 생성형 AI 기능을 위한 웹사이트 최적화",
+      "url": "https://news.hada.io/topic?id=29582",
+      "publishedAt": "2026-05-17T06:30:16.058Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Stripe Link CLI - AI 에이전트가 사용자 대신 결제할 수 있게 해주는 CLI",
+      "url": "https://news.hada.io/topic?id=29579",
+      "publishedAt": "2026-05-17T00:30:16.058Z",
       "source": "Geeknews"
     }
   ]
