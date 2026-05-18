@@ -1,24 +1,60 @@
 {
-  "crawledAt": "2026-05-17T23:30:25.854Z",
-  "total": 3,
+  "crawledAt": "2026-05-18T23:37:19.427Z",
+  "total": 9,
   "articles": [
     {
-      "title": "일론 머스크, Cursor 인수 계약 후 \"Cursor 데이터로 Grok V9 보강 훈련 예정\"",
-      "url": "https://news.hada.io/topic?id=29587",
-      "publishedAt": "2026-05-17T10:30:16.057Z",
+      "title": "클로드 파이낸스는 주니어 뱅커를 정말 대체할까?",
+      "url": "https://news.hada.io/topic?id=29633",
+      "publishedAt": "2026-05-18T16:37:06.375Z",
       "source": "Geeknews"
     },
     {
-      "title": "Google 검색의 생성형 AI 기능을 위한 웹사이트 최적화",
-      "url": "https://news.hada.io/topic?id=29582",
-      "publishedAt": "2026-05-17T06:30:16.058Z",
+      "title": "DystopiaBench를 42개 모델과 6가지 디스토피아 유형으로 확장했습니다. 나라면 핵 발사 코드는 여전히 ...",
+      "url": "https://news.hada.io/topic?id=29630",
+      "publishedAt": "2026-05-18T13:37:06.376Z",
       "source": "Geeknews"
     },
     {
-      "title": "Stripe Link CLI - AI 에이전트가 사용자 대신 결제할 수 있게 해주는 CLI",
-      "url": "https://news.hada.io/topic?id=29579",
-      "publishedAt": "2026-05-17T00:30:16.058Z",
+      "title": "시계열 예측 tech blog 소개",
+      "url": "https://news.hada.io/topic?id=29628",
+      "publishedAt": "2026-05-18T12:37:06.376Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: ai 동작을 감시, 로깅하는 도구가 있을까요?",
+      "url": "https://news.hada.io/topic?id=29624",
+      "publishedAt": "2026-05-18T09:37:06.377Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "ArXiv는 연구자들이 직접 읽어보지도 않은 논문을 제출할 경우 1년 동안 자격을 정지시킬 것입니다.",
+      "url": "https://news.hada.io/topic?id=29616",
+      "publishedAt": "2026-05-18T03:37:06.377Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "whichllm - 내 하드웨어에서 실제로 돌아가고 최고 성능을 내는 로컬 LLM 찾기",
+      "url": "https://news.hada.io/topic?id=29613",
+      "publishedAt": "2026-05-18T00:37:06.377Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "dev3000 - AI 디버깅을 위한 웹 앱 개발 타임라인 통합 캡처 도구",
+      "url": "https://news.hada.io/topic?id=29607",
+      "publishedAt": "2026-05-18T00:37:06.377Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "일본 IT 기업의 HR 담당자가 AI로 업무를 혁신한 방법",
+      "url": "https://yozm.wishket.com/magazine/detail/3759/",
+      "publishedAt": "2026-05-18T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "11명의 바이브 코더와 함께 사내 플랫폼 만들어봤습니다",
+      "url": "https://yozm.wishket.com/magazine/detail/3758/",
+      "publishedAt": "2026-05-18T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
