@@ -1,59 +1,53 @@
 {
-  "crawledAt": "2026-05-18T23:37:19.427Z",
-  "total": 9,
+  "crawledAt": "2026-05-19T23:40:50.630Z",
+  "total": 8,
   "articles": [
     {
-      "title": "클로드 파이낸스는 주니어 뱅커를 정말 대체할까?",
-      "url": "https://news.hada.io/topic?id=29633",
-      "publishedAt": "2026-05-18T16:37:06.375Z",
+      "title": "Python 3.15 신규 샘플링 프로파일러 Tachyon 소개",
+      "url": "https://news.hada.io/topic?id=29673",
+      "publishedAt": "2026-05-19T21:40:35.692Z",
       "source": "Geeknews"
     },
     {
-      "title": "DystopiaBench를 42개 모델과 6가지 디스토피아 유형으로 확장했습니다. 나라면 핵 발사 코드는 여전히 ...",
-      "url": "https://news.hada.io/topic?id=29630",
-      "publishedAt": "2026-05-18T13:37:06.376Z",
+      "title": "Grafana GitHub 토큰 유출로 인해 코드베이스 다운로드 및 금전 갈취 시도 발생",
+      "url": "https://news.hada.io/topic?id=29655",
+      "publishedAt": "2026-05-19T06:40:35.693Z",
       "source": "Geeknews"
     },
     {
-      "title": "시계열 예측 tech blog 소개",
-      "url": "https://news.hada.io/topic?id=29628",
-      "publishedAt": "2026-05-18T12:37:06.376Z",
+      "title": "제번스 역설의 어두운 면 (The Dark Side of the Jevons Paradox)",
+      "url": "https://news.hada.io/topic?id=29654",
+      "publishedAt": "2026-05-19T02:40:35.693Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: ai 동작을 감시, 로깅하는 도구가 있을까요?",
-      "url": "https://news.hada.io/topic?id=29624",
-      "publishedAt": "2026-05-18T09:37:06.377Z",
+      "title": "옵시디언 최다 다운로드 Excalidraw 개발자, Obsidian 새 커뮤니티 사이트 스코어에 반발",
+      "url": "https://news.hada.io/topic?id=29653",
+      "publishedAt": "2026-05-19T02:40:35.694Z",
       "source": "Geeknews"
     },
     {
-      "title": "ArXiv는 연구자들이 직접 읽어보지도 않은 논문을 제출할 경우 1년 동안 자격을 정지시킬 것입니다.",
-      "url": "https://news.hada.io/topic?id=29616",
-      "publishedAt": "2026-05-18T03:37:06.377Z",
+      "title": "장기 자율성 평가를 위한 AI 에이전트 시뮬레이션 플랫폼 'Emergence World' 분석",
+      "url": "https://news.hada.io/topic?id=29650",
+      "publishedAt": "2026-05-19T01:40:35.694Z",
       "source": "Geeknews"
     },
     {
-      "title": "whichllm - 내 하드웨어에서 실제로 돌아가고 최고 성능을 내는 로컬 LLM 찾기",
-      "url": "https://news.hada.io/topic?id=29613",
-      "publishedAt": "2026-05-18T00:37:06.377Z",
+      "title": "Datatype - 텍스트를 차트로 변환하는 가변 폰트",
+      "url": "https://news.hada.io/topic?id=29640",
+      "publishedAt": "2026-05-19T00:40:35.694Z",
       "source": "Geeknews"
     },
     {
-      "title": "dev3000 - AI 디버깅을 위한 웹 앱 개발 타임라인 통합 캡처 도구",
-      "url": "https://news.hada.io/topic?id=29607",
-      "publishedAt": "2026-05-18T00:37:06.377Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "일본 IT 기업의 HR 담당자가 AI로 업무를 혁신한 방법",
-      "url": "https://yozm.wishket.com/magazine/detail/3759/",
-      "publishedAt": "2026-05-18T14:00:17+09:00",
+      "title": "AI가 디자이너를 대체하기 전에 풀어야 할 문제",
+      "url": "https://yozm.wishket.com/magazine/detail/3761/",
+      "publishedAt": "2026-05-19T14:00:17+09:00",
       "source": "요즘IT"
     },
     {
-      "title": "11명의 바이브 코더와 함께 사내 플랫폼 만들어봤습니다",
-      "url": "https://yozm.wishket.com/magazine/detail/3758/",
-      "publishedAt": "2026-05-18T09:00:17+09:00",
+      "title": "타입스크립트 타입, 꼭 새로 만들어야 할까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3760/",
+      "publishedAt": "2026-05-19T09:00:17+09:00",
       "source": "요즘IT"
     }
   ]
