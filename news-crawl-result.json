@@ -1,72 +1,48 @@
 {
-  "crawledAt": "2026-05-20T23:49:00.908Z",
-  "total": 11,
+  "crawledAt": "2026-05-21T23:35:15.285Z",
+  "total": 7,
   "articles": [
     {
-      "title": "Gemini 3.5 \"Flash\"는 사실 Pro의 리브랜딩이다",
-      "url": "https://news.hada.io/topic?id=29707",
-      "publishedAt": "2026-05-20T20:48:45.530Z",
+      "title": "Herdr - AI Agent 시대를 위한 tmux 스타일 터미널 워크스페이스",
+      "url": "https://news.hada.io/topic?id=29738",
+      "publishedAt": "2026-05-21T16:35:05.560Z",
       "source": "Geeknews"
     },
     {
-      "title": "피자헛 가맹점주, AI 배달 시스템이 사업을 망쳤다며 1억 달러 소송",
-      "url": "https://news.hada.io/topic?id=29699",
-      "publishedAt": "2026-05-20T02:48:45.531Z",
+      "title": "솔로 메인테이너가 OpenSSF 실버에 도전하는 6주 — Tiered ~133%까지의 중간 보고",
+      "url": "https://news.hada.io/topic?id=29733",
+      "publishedAt": "2026-05-21T10:35:05.561Z",
       "source": "Geeknews"
     },
     {
-      "title": "모든 AI 모델 이름을 외우지 마세요 for AI Builder",
-      "url": "https://news.hada.io/topic?id=29697",
-      "publishedAt": "2026-05-20T02:48:45.532Z",
+      "title": "Google I/O 2026에서 발표한 모든 것",
+      "url": "https://news.hada.io/topic?id=29729",
+      "publishedAt": "2026-05-21T01:35:05.561Z",
       "source": "Geeknews"
     },
     {
-      "title": "What's new in Chrome from Google I/O 2026",
-      "url": "https://news.hada.io/topic?id=29693",
-      "publishedAt": "2026-05-20T01:48:45.532Z",
+      "title": "AI-native 조직 (잭 도시 트위터 창업자)",
+      "url": "https://news.hada.io/topic?id=29724",
+      "publishedAt": "2026-05-21T00:35:05.561Z",
       "source": "Geeknews"
     },
     {
-      "title": "Cursor Composer 2.5, Cursor 내 가장 많이 선택받는 모델로 등극 — 10x 사용량 보너스",
-      "url": "https://news.hada.io/topic?id=29691",
-      "publishedAt": "2026-05-20T01:48:45.532Z",
+      "title": "TabPFN - 테이블 데이터를 위한 파운데이션 모델",
+      "url": "https://news.hada.io/topic?id=29719",
+      "publishedAt": "2026-05-21T00:35:05.561Z",
       "source": "Geeknews"
     },
     {
-      "title": "SideQuick - 사이드 프로젝트를 끝까지 완주하게 돕는 도구",
-      "url": "https://news.hada.io/topic?id=29685",
-      "publishedAt": "2026-05-20T00:48:45.532Z",
+      "title": "What Google I/O '26 means for developing agents on Google Cloud",
+      "url": "https://news.hada.io/topic?id=29718",
+      "publishedAt": "2026-05-21T00:35:05.562Z",
       "source": "Geeknews"
     },
     {
-      "title": "Andrej Karpathy, Anthropic 합류 — Claude pre-training 팀으로",
-      "url": "https://news.hada.io/topic?id=29684",
-      "publishedAt": "2026-05-20T00:48:45.532Z",
+      "title": "OpenShorts - 무료 오픈소스 클립 생성기 & AI UGC 비디오 제작 도구",
+      "url": "https://news.hada.io/topic?id=29715",
+      "publishedAt": "2026-05-21T00:35:05.562Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "Mirage - AI 에이전트를 위한 통합 가상 파일시스템",
-      "url": "https://news.hada.io/topic?id=29681",
-      "publishedAt": "2026-05-20T00:48:45.532Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "FileBrowser Quantum - 무료 오픈소스 셀프호스팅 웹 파일 관리자",
-      "url": "https://news.hada.io/topic?id=29680",
-      "publishedAt": "2026-05-20T00:48:45.533Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "감으로 코딩하던 바이브코더를 위한 무료 분석 도구 5개 추천",
-      "url": "https://yozm.wishket.com/magazine/detail/3763/",
-      "publishedAt": "2026-05-20T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "AI 도입, 섹시한 기술에 숨겨진 ‘섹시하지 않은’ 성공 법칙",
-      "url": "https://yozm.wishket.com/magazine/detail/3762/",
-      "publishedAt": "2026-05-20T09:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
