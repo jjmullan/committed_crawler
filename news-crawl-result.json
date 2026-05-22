@@ -1,47 +1,23 @@
 {
-  "crawledAt": "2026-05-21T23:35:15.285Z",
-  "total": 7,
+  "crawledAt": "2026-05-22T23:39:18.768Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Herdr - AI Agent 시대를 위한 tmux 스타일 터미널 워크스페이스",
-      "url": "https://news.hada.io/topic?id=29738",
-      "publishedAt": "2026-05-21T16:35:05.560Z",
+      "title": "마이크로소프트, Claude Code 라이선스 회수 시작하다",
+      "url": "https://news.hada.io/topic?id=29759",
+      "publishedAt": "2026-05-22T03:39:09.313Z",
       "source": "Geeknews"
     },
     {
-      "title": "솔로 메인테이너가 OpenSSF 실버에 도전하는 6주 — Tiered ~133%까지의 중간 보고",
-      "url": "https://news.hada.io/topic?id=29733",
-      "publishedAt": "2026-05-21T10:35:05.561Z",
+      "title": "agentmemory - AI 코딩 에이전트용 영구 메모리 시스템",
+      "url": "https://news.hada.io/topic?id=29754",
+      "publishedAt": "2026-05-22T00:39:09.313Z",
       "source": "Geeknews"
     },
     {
-      "title": "Google I/O 2026에서 발표한 모든 것",
-      "url": "https://news.hada.io/topic?id=29729",
-      "publishedAt": "2026-05-21T01:35:05.561Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI-native 조직 (잭 도시 트위터 창업자)",
-      "url": "https://news.hada.io/topic?id=29724",
-      "publishedAt": "2026-05-21T00:35:05.561Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "TabPFN - 테이블 데이터를 위한 파운데이션 모델",
-      "url": "https://news.hada.io/topic?id=29719",
-      "publishedAt": "2026-05-21T00:35:05.561Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "What Google I/O '26 means for developing agents on Google Cloud",
-      "url": "https://news.hada.io/topic?id=29718",
-      "publishedAt": "2026-05-21T00:35:05.562Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenShorts - 무료 오픈소스 클립 생성기 & AI UGC 비디오 제작 도구",
-      "url": "https://news.hada.io/topic?id=29715",
-      "publishedAt": "2026-05-21T00:35:05.562Z",
+      "title": "Utilyze - GPU가 실제로 유용한 작업을 얼마나 효율적으로 수행하는지 측정하는 도구",
+      "url": "https://news.hada.io/topic?id=29749",
+      "publishedAt": "2026-05-22T00:39:09.314Z",
       "source": "Geeknews"
     }
   ]
