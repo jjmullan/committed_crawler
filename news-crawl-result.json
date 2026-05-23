@@ -1,23 +1,41 @@
 {
-  "crawledAt": "2026-05-22T23:39:18.768Z",
-  "total": 3,
+  "crawledAt": "2026-05-23T23:30:10.620Z",
+  "total": 6,
   "articles": [
     {
-      "title": "마이크로소프트, Claude Code 라이선스 회수 시작하다",
-      "url": "https://news.hada.io/topic?id=29759",
-      "publishedAt": "2026-05-22T03:39:09.313Z",
+      "title": "GitHub App 설치 토큰: 요청별 재정의 헤더 도입",
+      "url": "https://news.hada.io/topic?id=29805",
+      "publishedAt": "2026-05-23T18:29:55.293Z",
       "source": "Geeknews"
     },
     {
-      "title": "agentmemory - AI 코딩 에이전트용 영구 메모리 시스템",
-      "url": "https://news.hada.io/topic?id=29754",
-      "publishedAt": "2026-05-22T00:39:09.313Z",
+      "title": "100% 자동화는 안 됩니다 — 블로그 7개 자동발행 2달 만에 1개로 줄인 이유",
+      "url": "https://news.hada.io/topic?id=29798",
+      "publishedAt": "2026-05-23T12:29:55.294Z",
       "source": "Geeknews"
     },
     {
-      "title": "Utilyze - GPU가 실제로 유용한 작업을 얼마나 효율적으로 수행하는지 측정하는 도구",
-      "url": "https://news.hada.io/topic?id=29749",
-      "publishedAt": "2026-05-22T00:39:09.314Z",
+      "title": "리걸 프롬프트에서 Boolean이 중요한 이유",
+      "url": "https://news.hada.io/topic?id=29787",
+      "publishedAt": "2026-05-23T02:29:55.294Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI로 시장조사할 때 프롬프트에 넣어야 할 제약 조건 4가지",
+      "url": "https://news.hada.io/topic?id=29785",
+      "publishedAt": "2026-05-23T01:29:55.294Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "macOS의 기능을 100% 활용하는 실시간 다국어 AI Voice Agent — TalkMode",
+      "url": "https://news.hada.io/topic?id=29784",
+      "publishedAt": "2026-05-23T01:29:55.295Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Zero - 에이전트를 위한 프로그래밍 언어",
+      "url": "https://news.hada.io/topic?id=29780",
+      "publishedAt": "2026-05-23T00:29:55.295Z",
       "source": "Geeknews"
     }
   ]
