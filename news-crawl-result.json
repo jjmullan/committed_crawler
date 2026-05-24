@@ -1,41 +1,17 @@
 {
-  "crawledAt": "2026-05-23T23:30:10.620Z",
-  "total": 6,
+  "crawledAt": "2026-05-24T23:33:42.521Z",
+  "total": 2,
   "articles": [
     {
-      "title": "GitHub App 설치 토큰: 요청별 재정의 헤더 도입",
-      "url": "https://news.hada.io/topic?id=29805",
-      "publishedAt": "2026-05-23T18:29:55.293Z",
+      "title": "한컴, LG ‘챗엑사원’에 AI 에이전트 공급",
+      "url": "https://news.hada.io/topic?id=29825",
+      "publishedAt": "2026-05-24T14:33:32.884Z",
       "source": "Geeknews"
     },
     {
-      "title": "100% 자동화는 안 됩니다 — 블로그 7개 자동발행 2달 만에 1개로 줄인 이유",
-      "url": "https://news.hada.io/topic?id=29798",
-      "publishedAt": "2026-05-23T12:29:55.294Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "리걸 프롬프트에서 Boolean이 중요한 이유",
-      "url": "https://news.hada.io/topic?id=29787",
-      "publishedAt": "2026-05-23T02:29:55.294Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI로 시장조사할 때 프롬프트에 넣어야 할 제약 조건 4가지",
-      "url": "https://news.hada.io/topic?id=29785",
-      "publishedAt": "2026-05-23T01:29:55.294Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "macOS의 기능을 100% 활용하는 실시간 다국어 AI Voice Agent — TalkMode",
-      "url": "https://news.hada.io/topic?id=29784",
-      "publishedAt": "2026-05-23T01:29:55.295Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Zero - 에이전트를 위한 프로그래밍 언어",
-      "url": "https://news.hada.io/topic?id=29780",
-      "publishedAt": "2026-05-23T00:29:55.295Z",
+      "title": "microsoft/mimalloc - 고성능 범용 메모리 할당자",
+      "url": "https://news.hada.io/topic?id=29812",
+      "publishedAt": "2026-05-24T00:33:32.885Z",
       "source": "Geeknews"
     }
   ]
