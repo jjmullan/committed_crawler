@@ -1,17 +1,17 @@
 {
-  "crawledAt": "2026-05-24T23:33:42.521Z",
+  "crawledAt": "2026-05-25T23:39:33.226Z",
   "total": 2,
   "articles": [
     {
-      "title": "한컴, LG ‘챗엑사원’에 AI 에이전트 공급",
-      "url": "https://news.hada.io/topic?id=29825",
-      "publishedAt": "2026-05-24T14:33:32.884Z",
+      "title": "AI 에이전트 도입은 소프트웨어 역사상 가장 비싼 실수가 될 것",
+      "url": "https://news.hada.io/topic?id=29852",
+      "publishedAt": "2026-05-25T07:39:23.666Z",
       "source": "Geeknews"
     },
     {
-      "title": "microsoft/mimalloc - 고성능 범용 메모리 할당자",
-      "url": "https://news.hada.io/topic?id=29812",
-      "publishedAt": "2026-05-24T00:33:32.885Z",
+      "title": "Flue - 샌드박스 에이전트 프레임워크",
+      "url": "https://news.hada.io/topic?id=29849",
+      "publishedAt": "2026-05-25T00:39:23.667Z",
       "source": "Geeknews"
     }
   ]
