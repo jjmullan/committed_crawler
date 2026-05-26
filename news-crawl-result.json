@@ -1,18 +1,66 @@
 {
-  "crawledAt": "2026-05-25T23:39:33.226Z",
-  "total": 2,
+  "crawledAt": "2026-05-26T23:40:19.876Z",
+  "total": 10,
   "articles": [
     {
-      "title": "AI 에이전트 도입은 소프트웨어 역사상 가장 비싼 실수가 될 것",
-      "url": "https://news.hada.io/topic?id=29852",
-      "publishedAt": "2026-05-25T07:39:23.666Z",
+      "title": "유휴 Inference GPU Pool을 이용한 GPU Job 스케줄링",
+      "url": "https://news.hada.io/topic?id=29904",
+      "publishedAt": "2026-05-26T23:38:06.141Z",
       "source": "Geeknews"
     },
     {
-      "title": "Flue - 샌드박스 에이전트 프레임워크",
-      "url": "https://news.hada.io/topic?id=29849",
-      "publishedAt": "2026-05-25T00:39:23.667Z",
+      "title": "LLM 평가의 맹점: 우리는 왜 '행동'이 아니라 '지식'만 보는가?",
+      "url": "https://news.hada.io/topic?id=29903",
+      "publishedAt": "2026-05-26T21:40:06.142Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "[데브콘 + 하이파이브 발표자료 합본] AI 시대, 리더가 원하는 개발자란?",
+      "url": "https://news.hada.io/topic?id=29892",
+      "publishedAt": "2026-05-26T11:40:06.142Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 1인 개발자, 평시에 만들어 둔 '관리 도구'가 비상 상황에서 큰 도움이 된 경험 있으신가요?",
+      "url": "https://news.hada.io/topic?id=29884",
+      "publishedAt": "2026-05-26T02:40:06.142Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 최근 상용 AI 모델 중 어떤 모델을 메인으로 사용하시나요 ?",
+      "url": "https://news.hada.io/topic?id=29883",
+      "publishedAt": "2026-05-26T01:40:06.143Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "중국 딥시크, V4-Pro API 75% 영구 가격 인하 단행",
+      "url": "https://news.hada.io/topic?id=29882",
+      "publishedAt": "2026-05-26T01:40:06.143Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "한글 점자 변환 도구 braillify, 2024 개정 한국 점자 규정 100% 준수",
+      "url": "https://news.hada.io/topic?id=29875",
+      "publishedAt": "2026-05-26T01:40:06.143Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "CodeGraph - AI 코딩 에이전트를 위한 코드 지식 그래프",
+      "url": "https://news.hada.io/topic?id=29873",
+      "publishedAt": "2026-05-26T00:40:06.143Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "정말로 지금은 Codex가 Claude Code보다 나을까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3771/",
+      "publishedAt": "2026-05-26T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "돌 넣으면 돌 나오고, 금 넣으면 금 나오는 AI의 함정",
+      "url": "https://yozm.wishket.com/magazine/detail/3770/",
+      "publishedAt": "2026-05-26T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
