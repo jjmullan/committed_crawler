@@ -1,41 +1,41 @@
 {
-  "crawledAt": "2026-05-28T23:50:11.549Z",
+  "crawledAt": "2026-05-29T23:49:19.398Z",
   "total": 6,
   "articles": [
     {
-      "title": "The Orchestration Tax",
-      "url": "https://news.hada.io/topic?id=29971",
-      "publishedAt": "2026-05-28T23:33:57.723Z",
+      "title": "유저 의견을 모아 매일 자동 개발과 배포되는 웹게임 제작기",
+      "url": "https://news.hada.io/topic?id=29985",
+      "publishedAt": "2026-05-29T07:49:05.070Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic, Claude Opus 4.8 출시",
-      "url": "https://news.hada.io/topic?id=29960",
-      "publishedAt": "2026-05-28T17:49:57.724Z",
+      "title": "네이버, AI 브리핑 인용수를 창작자 보상 기준으로 공식화 — 네이버 메이트 발표",
+      "url": "https://news.hada.io/topic?id=29983",
+      "publishedAt": "2026-05-29T04:49:05.071Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 일전에 한국어 다중화자 관련 질문을 올렸는데요! 그 후속 진행사항 업데이트!",
-      "url": "https://news.hada.io/topic?id=29954",
-      "publishedAt": "2026-05-28T11:49:57.724Z",
+      "title": "CodeBoarding - 코드베이스용 인터랙티브 아키텍처 다이어그램",
+      "url": "https://news.hada.io/topic?id=29976",
+      "publishedAt": "2026-05-29T00:49:05.071Z",
       "source": "Geeknews"
     },
     {
-      "title": "Decepticon - 레드팀을 위한 자율 해킹 에이전트",
-      "url": "https://news.hada.io/topic?id=29939",
-      "publishedAt": "2026-05-28T00:49:57.724Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI는 왜 자꾸 틀리는가",
-      "url": "https://yozm.wishket.com/magazine/detail/3775/",
-      "publishedAt": "2026-05-28T14:00:17+09:00",
+      "title": "Opus 4.8 등장: 클로드는 빼앗긴 주도권을 찾아올까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3780/",
+      "publishedAt": "2026-05-29T14:00:17+09:00",
       "source": "요즘IT"
     },
     {
-      "title": "바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기",
-      "url": "https://yozm.wishket.com/magazine/detail/3774/",
-      "publishedAt": "2026-05-28T09:00:17+09:00",
+      "title": "[클코나잇 2] 웨비나 OPEN! 클로드 코드의 한계 확장",
+      "url": "https://yozm.wishket.com/magazine/detail/3778/",
+      "publishedAt": "2026-05-29T16:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "1년 전 클로드 코드가 뜰 거라고 예측했던 Dan Shipper의 새 예측",
+      "url": "https://yozm.wishket.com/magazine/detail/3776/",
+      "publishedAt": "2026-05-29T09:00:17+09:00",
       "source": "요즘IT"
     }
   ]
