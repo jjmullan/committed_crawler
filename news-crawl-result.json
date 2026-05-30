@@ -1,42 +1,30 @@
 {
-  "crawledAt": "2026-05-29T23:49:19.398Z",
-  "total": 6,
+  "crawledAt": "2026-05-30T23:33:42.065Z",
+  "total": 4,
   "articles": [
     {
-      "title": "유저 의견을 모아 매일 자동 개발과 배포되는 웹게임 제작기",
-      "url": "https://news.hada.io/topic?id=29985",
-      "publishedAt": "2026-05-29T07:49:05.070Z",
+      "title": "마이크로소프트, 깃허브 계정 차단 후 윈도우 제로데이 공개 비판",
+      "url": "https://news.hada.io/topic?id=30020",
+      "publishedAt": "2026-05-30T10:33:32.428Z",
       "source": "Geeknews"
     },
     {
-      "title": "네이버, AI 브리핑 인용수를 창작자 보상 기준으로 공식화 — 네이버 메이트 발표",
-      "url": "https://news.hada.io/topic?id=29983",
-      "publishedAt": "2026-05-29T04:49:05.071Z",
+      "title": "“알고리즘이 판단했는데요”: AI 코드 시대, 내가 만든 수익형 앱이 갑자기 정지될 수 있는 이유",
+      "url": "https://news.hada.io/topic?id=30016",
+      "publishedAt": "2026-05-30T05:33:32.429Z",
       "source": "Geeknews"
     },
     {
-      "title": "CodeBoarding - 코드베이스용 인터랙티브 아키텍처 다이어그램",
-      "url": "https://news.hada.io/topic?id=29976",
-      "publishedAt": "2026-05-29T00:49:05.071Z",
+      "title": "AI 에이전트 기반 투자 자동화의 현재와 미래 - AI 에이전트야, 월급 줄게 경제적 자유 다오?",
+      "url": "https://news.hada.io/topic?id=30008",
+      "publishedAt": "2026-05-30T00:33:32.429Z",
       "source": "Geeknews"
     },
     {
-      "title": "Opus 4.8 등장: 클로드는 빼앗긴 주도권을 찾아올까?",
-      "url": "https://yozm.wishket.com/magazine/detail/3780/",
-      "publishedAt": "2026-05-29T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "[클코나잇 2] 웨비나 OPEN! 클로드 코드의 한계 확장",
-      "url": "https://yozm.wishket.com/magazine/detail/3778/",
-      "publishedAt": "2026-05-29T16:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "1년 전 클로드 코드가 뜰 거라고 예측했던 Dan Shipper의 새 예측",
-      "url": "https://yozm.wishket.com/magazine/detail/3776/",
-      "publishedAt": "2026-05-29T09:00:17+09:00",
-      "source": "요즘IT"
+      "title": "AudioMass - 백엔드 없는 브라우저 기반 오픈소스 오디오 편집기",
+      "url": "https://news.hada.io/topic?id=30005",
+      "publishedAt": "2026-05-30T00:33:32.429Z",
+      "source": "Geeknews"
     }
   ]
 }
