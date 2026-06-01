@@ -1,12 +1,30 @@
 {
-  "crawledAt": "2026-05-31T23:38:07.578Z",
-  "total": 1,
+  "crawledAt": "2026-06-01T23:50:53.699Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Claw Patrol - 에이전트를 위한 보안 방화벽",
-      "url": "https://news.hada.io/topic?id=30032",
-      "publishedAt": "2026-05-31T00:37:57.863Z",
+      "title": "AI 시대의 소프트웨어 장인정신",
+      "url": "https://news.hada.io/topic?id=30075",
+      "publishedAt": "2026-06-01T11:50:38.823Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Files SDK - 모든 blob 스토리지를 위한 단일 API",
+      "url": "https://news.hada.io/topic?id=30064",
+      "publishedAt": "2026-06-01T00:50:38.824Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AX의 어려움은 전 직원이 AI를 쓴 이후부터 시작된다",
+      "url": "https://yozm.wishket.com/magazine/detail/3781/",
+      "publishedAt": "2026-06-01T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "데이터가 없으면 디자인을 어떻게 개선하나요?",
+      "url": "https://yozm.wishket.com/magazine/detail/3779/",
+      "publishedAt": "2026-06-01T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
