@@ -1,29 +1,35 @@
 {
-  "crawledAt": "2026-06-01T23:50:53.699Z",
-  "total": 4,
+  "crawledAt": "2026-06-03T00:10:54.449Z",
+  "total": 5,
   "articles": [
     {
-      "title": "AI 시대의 소프트웨어 장인정신",
-      "url": "https://news.hada.io/topic?id=30075",
-      "publishedAt": "2026-06-01T11:50:38.823Z",
+      "title": "MiniMax-M3 데뷔, 주요 벤치마크 성능에서 GPT-5.5와 Gemini 3.1 Pro를 능가하며 비용은 단 5-10% 수준",
+      "url": "https://news.hada.io/topic?id=30114",
+      "publishedAt": "2026-06-02T07:10:39.662Z",
       "source": "Geeknews"
     },
     {
-      "title": "Files SDK - 모든 blob 스토리지를 위한 단일 API",
-      "url": "https://news.hada.io/topic?id=30064",
-      "publishedAt": "2026-06-01T00:50:38.824Z",
+      "title": "Ask GN: GeekNews 의 favorite 보기가 사라진거 같습니다.",
+      "url": "https://news.hada.io/topic?id=30109",
+      "publishedAt": "2026-06-02T05:10:39.663Z",
       "source": "Geeknews"
     },
     {
-      "title": "AX의 어려움은 전 직원이 AI를 쓴 이후부터 시작된다",
-      "url": "https://yozm.wishket.com/magazine/detail/3781/",
-      "publishedAt": "2026-06-01T14:00:17+09:00",
-      "source": "요즘IT"
+      "title": "MorphOS 3.20 공개 — Mirari 지원, SFS2 도입, Radeon/TinyGL 대규모 업데이트",
+      "url": "https://news.hada.io/topic?id=30108",
+      "publishedAt": "2026-06-02T05:10:39.664Z",
+      "source": "Geeknews"
     },
     {
-      "title": "데이터가 없으면 디자인을 어떻게 개선하나요?",
-      "url": "https://yozm.wishket.com/magazine/detail/3779/",
-      "publishedAt": "2026-06-01T09:00:17+09:00",
+      "title": "SRE에서의 AI: Google은 어떻게 신뢰성 있는 운영의 미래를 설계하는가",
+      "url": "https://news.hada.io/topic?id=30103",
+      "publishedAt": "2026-06-02T02:10:39.664Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "MCP·Skills·Hooks·Sub-agents, 4가지 중 뭘 골라야 할까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3777/",
+      "publishedAt": "2026-06-02T14:00:17+09:00",
       "source": "요즘IT"
     }
   ]
