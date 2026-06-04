@@ -1,24 +1,42 @@
 {
-  "crawledAt": "2026-06-04T00:14:05.654Z",
-  "total": 3,
+  "crawledAt": "2026-06-04T23:46:01.887Z",
+  "total": 6,
   "articles": [
     {
-      "title": "네덜란드 경찰 당국이 1,700만대의 봇넷을 해체하였습니다.",
-      "url": "https://news.hada.io/topic?id=30145",
-      "publishedAt": "2026-06-03T09:13:52.829Z",
+      "title": "AI와 함께 일하는 디자이너의 하루는 어떻게 달라졌을까?",
+      "url": "https://news.hada.io/topic?id=30179",
+      "publishedAt": "2026-06-04T13:45:46.714Z",
       "source": "Geeknews"
     },
     {
-      "title": "A harness for every task: dynamic workflows in Claude Code",
-      "url": "https://news.hada.io/topic?id=30144",
-      "publishedAt": "2026-06-03T07:13:52.830Z",
+      "title": "반도체 기업의 성과급 논쟁을 바라보며, 뉴욕 피어57과 구글의 사례",
+      "url": "https://news.hada.io/topic?id=30177",
+      "publishedAt": "2026-06-04T11:45:46.715Z",
       "source": "Geeknews"
     },
     {
-      "title": "github.dev / VSCode Web에서 링크 클릭만으로 GitHub 토큰이 탈취될 수 있는 취약점",
-      "url": "https://news.hada.io/topic?id=30139",
-      "publishedAt": "2026-06-03T03:13:52.830Z",
+      "title": "대성당, 바자르, 그리고 윈체스터 미스터리 하우스 — AI 시대, 소프트웨어 개발의 세 번째 모델",
+      "url": "https://news.hada.io/topic?id=30166",
+      "publishedAt": "2026-06-04T01:45:46.715Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Agent Executor - Google의 분산 에이전트 런타임 오픈소스",
+      "url": "https://news.hada.io/topic?id=30158",
+      "publishedAt": "2026-06-04T00:45:46.715Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "PM은 LLM을 어디까지 이해해야 할까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3784/",
+      "publishedAt": "2026-06-04T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "이제 AI에게 매번 설명하지 않아도 됩니다: Kanwas",
+      "url": "https://yozm.wishket.com/magazine/detail/3783/",
+      "publishedAt": "2026-06-04T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
