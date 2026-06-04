@@ -1,36 +1,24 @@
 {
-  "crawledAt": "2026-06-03T00:10:54.449Z",
-  "total": 5,
+  "crawledAt": "2026-06-04T00:14:05.654Z",
+  "total": 3,
   "articles": [
     {
-      "title": "MiniMax-M3 데뷔, 주요 벤치마크 성능에서 GPT-5.5와 Gemini 3.1 Pro를 능가하며 비용은 단 5-10% 수준",
-      "url": "https://news.hada.io/topic?id=30114",
-      "publishedAt": "2026-06-02T07:10:39.662Z",
+      "title": "네덜란드 경찰 당국이 1,700만대의 봇넷을 해체하였습니다.",
+      "url": "https://news.hada.io/topic?id=30145",
+      "publishedAt": "2026-06-03T09:13:52.829Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: GeekNews 의 favorite 보기가 사라진거 같습니다.",
-      "url": "https://news.hada.io/topic?id=30109",
-      "publishedAt": "2026-06-02T05:10:39.663Z",
+      "title": "A harness for every task: dynamic workflows in Claude Code",
+      "url": "https://news.hada.io/topic?id=30144",
+      "publishedAt": "2026-06-03T07:13:52.830Z",
       "source": "Geeknews"
     },
     {
-      "title": "MorphOS 3.20 공개 — Mirari 지원, SFS2 도입, Radeon/TinyGL 대규모 업데이트",
-      "url": "https://news.hada.io/topic?id=30108",
-      "publishedAt": "2026-06-02T05:10:39.664Z",
+      "title": "github.dev / VSCode Web에서 링크 클릭만으로 GitHub 토큰이 탈취될 수 있는 취약점",
+      "url": "https://news.hada.io/topic?id=30139",
+      "publishedAt": "2026-06-03T03:13:52.830Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "SRE에서의 AI: Google은 어떻게 신뢰성 있는 운영의 미래를 설계하는가",
-      "url": "https://news.hada.io/topic?id=30103",
-      "publishedAt": "2026-06-02T02:10:39.664Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "MCP·Skills·Hooks·Sub-agents, 4가지 중 뭘 골라야 할까?",
-      "url": "https://yozm.wishket.com/magazine/detail/3777/",
-      "publishedAt": "2026-06-02T14:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
