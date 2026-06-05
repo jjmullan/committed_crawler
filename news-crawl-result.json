@@ -1,42 +1,18 @@
 {
-  "crawledAt": "2026-06-04T23:46:01.887Z",
-  "total": 6,
+  "crawledAt": "2026-06-05T23:46:24.417Z",
+  "total": 2,
   "articles": [
     {
-      "title": "AI와 함께 일하는 디자이너의 하루는 어떻게 달라졌을까?",
-      "url": "https://news.hada.io/topic?id=30179",
-      "publishedAt": "2026-06-04T13:45:46.714Z",
+      "title": "케임브릿지 대학교의 연구진들은 네트워크 전반에 걸쳐 적응하는 AI 웜을 구축하였습니다.",
+      "url": "https://news.hada.io/topic?id=30204",
+      "publishedAt": "2026-06-05T11:46:14.783Z",
       "source": "Geeknews"
     },
     {
-      "title": "반도체 기업의 성과급 논쟁을 바라보며, 뉴욕 피어57과 구글의 사례",
-      "url": "https://news.hada.io/topic?id=30177",
-      "publishedAt": "2026-06-04T11:45:46.715Z",
+      "title": "Trees - 파일 트리 렌더링 라이브러리 오픈소스",
+      "url": "https://news.hada.io/topic?id=30191",
+      "publishedAt": "2026-06-05T00:46:14.784Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "대성당, 바자르, 그리고 윈체스터 미스터리 하우스 — AI 시대, 소프트웨어 개발의 세 번째 모델",
-      "url": "https://news.hada.io/topic?id=30166",
-      "publishedAt": "2026-06-04T01:45:46.715Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Agent Executor - Google의 분산 에이전트 런타임 오픈소스",
-      "url": "https://news.hada.io/topic?id=30158",
-      "publishedAt": "2026-06-04T00:45:46.715Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "PM은 LLM을 어디까지 이해해야 할까?",
-      "url": "https://yozm.wishket.com/magazine/detail/3784/",
-      "publishedAt": "2026-06-04T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "이제 AI에게 매번 설명하지 않아도 됩니다: Kanwas",
-      "url": "https://yozm.wishket.com/magazine/detail/3783/",
-      "publishedAt": "2026-06-04T09:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
