@@ -1,11 +1,11 @@
 {
-  "crawledAt": "2026-06-06T23:36:18.478Z",
+  "crawledAt": "2026-06-07T23:36:50.594Z",
   "total": 1,
   "articles": [
     {
-      "title": "Odysseus - 셀프 호스팅 AI 워크스페이스",
-      "url": "https://news.hada.io/topic?id=30217",
-      "publishedAt": "2026-06-06T00:36:08.764Z",
+      "title": "OpenLogi - Rust로 작성된 Logitech Options+ 대체 오픈소스",
+      "url": "https://news.hada.io/topic?id=30242",
+      "publishedAt": "2026-06-07T00:36:40.812Z",
       "source": "Geeknews"
     }
   ]
