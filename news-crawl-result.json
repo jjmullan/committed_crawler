@@ -1,11 +1,17 @@
 {
-  "crawledAt": "2026-06-07T23:36:50.594Z",
-  "total": 1,
+  "crawledAt": "2026-06-08T23:46:41.950Z",
+  "total": 2,
   "articles": [
     {
-      "title": "OpenLogi - Rust로 작성된 Logitech Options+ 대체 오픈소스",
-      "url": "https://news.hada.io/topic?id=30242",
-      "publishedAt": "2026-06-07T00:36:40.812Z",
+      "title": "TypeScript를 LLVM 기계어로 직접 컴파일, \"Perry\" 네이티브 컴파일러",
+      "url": "https://news.hada.io/topic?id=30287",
+      "publishedAt": "2026-06-08T13:46:32.277Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Shortcat - 마우스없이 키보드로 맥 전체 제어하기",
+      "url": "https://news.hada.io/topic?id=30268",
+      "publishedAt": "2026-06-08T00:46:32.278Z",
       "source": "Geeknews"
     }
   ]
