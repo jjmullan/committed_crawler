@@ -1,17 +1,29 @@
 {
-  "crawledAt": "2026-06-08T23:46:41.950Z",
-  "total": 2,
+  "crawledAt": "2026-06-09T23:52:08.355Z",
+  "total": 4,
   "articles": [
     {
-      "title": "TypeScript를 LLVM 기계어로 직접 컴파일, \"Perry\" 네이티브 컴파일러",
-      "url": "https://news.hada.io/topic?id=30287",
-      "publishedAt": "2026-06-08T13:46:32.277Z",
+      "title": "Firefox 루트 인증서 저장소에 다시 한 번 등록 시도중인 대한민국 정부 (GPKI)",
+      "url": "https://news.hada.io/topic?id=30329",
+      "publishedAt": "2026-06-09T18:51:59.065Z",
       "source": "Geeknews"
     },
     {
-      "title": "Shortcat - 마우스없이 키보드로 맥 전체 제어하기",
-      "url": "https://news.hada.io/topic?id=30268",
-      "publishedAt": "2026-06-08T00:46:32.278Z",
+      "title": "Claude Fable 5/Mythos 5 공개, Anthropic의 5세대 프런티어 모델",
+      "url": "https://news.hada.io/topic?id=30328",
+      "publishedAt": "2026-06-09T17:51:59.066Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "mq - jq 스타일 Markdown 쿼리 언어",
+      "url": "https://news.hada.io/topic?id=30302",
+      "publishedAt": "2026-06-09T00:51:59.066Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Loop Engineering - Addy Osmani",
+      "url": "https://news.hada.io/topic?id=30301",
+      "publishedAt": "2026-06-09T00:51:59.067Z",
       "source": "Geeknews"
     }
   ]
