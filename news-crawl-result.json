@@ -1,29 +1,29 @@
 {
-  "crawledAt": "2026-06-09T23:52:08.355Z",
+  "crawledAt": "2026-06-10T23:56:31.117Z",
   "total": 4,
   "articles": [
     {
-      "title": "Firefox 루트 인증서 저장소에 다시 한 번 등록 시도중인 대한민국 정부 (GPKI)",
-      "url": "https://news.hada.io/topic?id=30329",
-      "publishedAt": "2026-06-09T18:51:59.065Z",
+      "title": "토스증권 OpenAPI가 드디어 오픈했어요",
+      "url": "https://news.hada.io/topic?id=30359",
+      "publishedAt": "2026-06-10T12:56:21.433Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Fable 5/Mythos 5 공개, Anthropic의 5세대 프런티어 모델",
-      "url": "https://news.hada.io/topic?id=30328",
-      "publishedAt": "2026-06-09T17:51:59.066Z",
+      "title": "구글, AI 플러스 가격을 4.99달러로 인하",
+      "url": "https://news.hada.io/topic?id=30357",
+      "publishedAt": "2026-06-10T07:56:21.434Z",
       "source": "Geeknews"
     },
     {
-      "title": "mq - jq 스타일 Markdown 쿼리 언어",
-      "url": "https://news.hada.io/topic?id=30302",
-      "publishedAt": "2026-06-09T00:51:59.066Z",
+      "title": "apple/container, Container Machine 기능 추가",
+      "url": "https://news.hada.io/topic?id=30346",
+      "publishedAt": "2026-06-10T01:56:21.434Z",
       "source": "Geeknews"
     },
     {
-      "title": "Loop Engineering - Addy Osmani",
-      "url": "https://news.hada.io/topic?id=30301",
-      "publishedAt": "2026-06-09T00:51:59.067Z",
+      "title": "Slumber - 터미널 기반 HTTP/REST 클라이언트",
+      "url": "https://news.hada.io/topic?id=30337",
+      "publishedAt": "2026-06-10T00:56:21.435Z",
       "source": "Geeknews"
     }
   ]
