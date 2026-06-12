@@ -1,29 +1,11 @@
 {
-  "crawledAt": "2026-06-10T23:56:31.117Z",
-  "total": 4,
+  "crawledAt": "2026-06-12T00:01:39.899Z",
+  "total": 1,
   "articles": [
     {
-      "title": "토스증권 OpenAPI가 드디어 오픈했어요",
-      "url": "https://news.hada.io/topic?id=30359",
-      "publishedAt": "2026-06-10T12:56:21.433Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "구글, AI 플러스 가격을 4.99달러로 인하",
-      "url": "https://news.hada.io/topic?id=30357",
-      "publishedAt": "2026-06-10T07:56:21.434Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "apple/container, Container Machine 기능 추가",
-      "url": "https://news.hada.io/topic?id=30346",
-      "publishedAt": "2026-06-10T01:56:21.434Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Slumber - 터미널 기반 HTTP/REST 클라이언트",
-      "url": "https://news.hada.io/topic?id=30337",
-      "publishedAt": "2026-06-10T00:56:21.435Z",
+      "title": "Claude Fable 5의 고신호 활용 사례 저장소에 오신 것을 환영합니다.",
+      "url": "https://news.hada.io/topic?id=30395",
+      "publishedAt": "2026-06-11T09:01:30.281Z",
       "source": "Geeknews"
     }
   ]
