@@ -1,11 +1,17 @@
 {
-  "crawledAt": "2026-06-12T00:01:39.899Z",
-  "total": 1,
+  "crawledAt": "2026-06-13T00:00:05.285Z",
+  "total": 2,
   "articles": [
     {
-      "title": "Claude Fable 5의 고신호 활용 사례 저장소에 오신 것을 환영합니다.",
-      "url": "https://news.hada.io/topic?id=30395",
-      "publishedAt": "2026-06-11T09:01:30.281Z",
+      "title": "AI의 또 다른 잘못된 조언들",
+      "url": "https://news.hada.io/topic?id=30416",
+      "publishedAt": "2026-06-12T00:59:55.814Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "revo - 프로그래밍의 즐거움을 위한 동적 언어",
+      "url": "https://news.hada.io/topic?id=30410",
+      "publishedAt": "2026-06-12T00:59:55.815Z",
       "source": "Geeknews"
     }
   ]
