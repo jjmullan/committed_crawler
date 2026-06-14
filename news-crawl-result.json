@@ -1,47 +1,17 @@
 {
-  "crawledAt": "2026-06-13T23:40:40.443Z",
-  "total": 7,
+  "crawledAt": "2026-06-14T23:47:06.107Z",
+  "total": 2,
   "articles": [
     {
-      "title": "오라클, Ampere A1 인스턴스 무료 사용 한도 축소",
-      "url": "https://news.hada.io/topic?id=30458",
-      "publishedAt": "2026-06-13T11:40:30.906Z",
+      "title": "단 한 번의 통화도 없이 팀을 관리합니다",
+      "url": "https://news.hada.io/topic?id=30479",
+      "publishedAt": "2026-06-14T05:46:53.213Z",
       "source": "Geeknews"
     },
     {
-      "title": "iFixit의 분해 결과, 트럼프가 사용했던 휴대전화는 '금색으로 칠한 HTC U24 Pro'로 밝혀졌으며, '미국...",
-      "url": "https://news.hada.io/topic?id=30455",
-      "publishedAt": "2026-06-13T09:40:30.907Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Moonshot AI가 Kimi K2.7-Code를 출시했습니다.",
-      "url": "https://news.hada.io/topic?id=30454",
-      "publishedAt": "2026-06-13T08:40:30.908Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Anthropic, 미국 정부 지시로 Fable 5·Mythos 5 모델 전면 차단",
-      "url": "https://news.hada.io/topic?id=30446",
-      "publishedAt": "2026-06-13T01:40:30.908Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenAI, Codex에 원할때 토큰 리밋 리셋이 가능한 기능 도입",
-      "url": "https://news.hada.io/topic?id=30444",
-      "publishedAt": "2026-06-13T01:40:30.908Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "기획서 작성에 하루 쓰는 PM, AI로 10분 수준으로 단축해본 이야기",
-      "url": "https://news.hada.io/topic?id=30443",
-      "publishedAt": "2026-06-13T00:40:30.908Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Cate - 무한 줌이 가능한 코딩용 캔버스 IDE",
-      "url": "https://news.hada.io/topic?id=30438",
-      "publishedAt": "2026-06-13T00:40:30.908Z",
+      "title": "murrdb/murr - ML/AI 워크로드용 서브 밀리초 캐시",
+      "url": "https://news.hada.io/topic?id=30469",
+      "publishedAt": "2026-06-14T00:46:53.214Z",
       "source": "Geeknews"
     }
   ]
