@@ -1,12 +1,30 @@
 {
-  "crawledAt": "2026-06-16T00:11:13.328Z",
-  "total": 1,
+  "crawledAt": "2026-06-16T23:56:08.537Z",
+  "total": 4,
   "articles": [
     {
-      "title": "re_gent - AI 코딩 에이전트를 위한 버전 관리",
-      "url": "https://news.hada.io/topic?id=30496",
-      "publishedAt": "2026-06-15T01:11:03.758Z",
+      "title": "[2026/06/08 ~ 14] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+      "url": "https://news.hada.io/topic?id=30531",
+      "publishedAt": "2026-06-16T01:55:55.117Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Coreutils for Windows",
+      "url": "https://news.hada.io/topic?id=30522",
+      "publishedAt": "2026-06-16T00:55:55.119Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "gws CLI와 클로드 코드를 같이 쓰면 어떨까?",
+      "url": "https://yozm.wishket.com/magazine/detail/3804/",
+      "publishedAt": "2026-06-16T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "바이브 코딩을 만난 1년, 40대 비개발자에게 일어난 일들",
+      "url": "https://yozm.wishket.com/magazine/detail/3803/",
+      "publishedAt": "2026-06-16T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
