@@ -1,17 +1,11 @@
 {
-  "crawledAt": "2026-06-14T23:47:06.107Z",
-  "total": 2,
+  "crawledAt": "2026-06-16T00:11:13.328Z",
+  "total": 1,
   "articles": [
     {
-      "title": "단 한 번의 통화도 없이 팀을 관리합니다",
-      "url": "https://news.hada.io/topic?id=30479",
-      "publishedAt": "2026-06-14T05:46:53.213Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "murrdb/murr - ML/AI 워크로드용 서브 밀리초 캐시",
-      "url": "https://news.hada.io/topic?id=30469",
-      "publishedAt": "2026-06-14T00:46:53.214Z",
+      "title": "re_gent - AI 코딩 에이전트를 위한 버전 관리",
+      "url": "https://news.hada.io/topic?id=30496",
+      "publishedAt": "2026-06-15T01:11:03.758Z",
       "source": "Geeknews"
     }
   ]
