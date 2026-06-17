@@ -1,29 +1,53 @@
 {
-  "crawledAt": "2026-06-16T23:56:08.537Z",
-  "total": 4,
+  "crawledAt": "2026-06-17T23:57:14.803Z",
+  "total": 8,
   "articles": [
     {
-      "title": "[2026/06/08 ~ 14] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-      "url": "https://news.hada.io/topic?id=30531",
-      "publishedAt": "2026-06-16T01:55:55.117Z",
+      "title": "AI가 마취시키는 건 한 사람이 아니라 조직 전체다: 항공·의료가 먼저 겪은 자동화의 아이러니",
+      "url": "https://news.hada.io/topic?id=30583",
+      "publishedAt": "2026-06-17T17:57:00.417Z",
       "source": "Geeknews"
     },
     {
-      "title": "Coreutils for Windows",
-      "url": "https://news.hada.io/topic?id=30522",
-      "publishedAt": "2026-06-16T00:55:55.119Z",
+      "title": "Codex 모바일, 입코딩으로 개발 루프를 끝까지 돌려 iOS/Android 앱 출시하기",
+      "url": "https://news.hada.io/topic?id=30582",
+      "publishedAt": "2026-06-17T16:57:00.418Z",
       "source": "Geeknews"
     },
     {
-      "title": "gws CLI와 클로드 코드를 같이 쓰면 어떨까?",
-      "url": "https://yozm.wishket.com/magazine/detail/3804/",
-      "publishedAt": "2026-06-16T14:00:17+09:00",
+      "title": "Allwinner A733 심층 분석: ArmSoM이 Sige6에 이 칩을 선택한 이유",
+      "url": "https://news.hada.io/topic?id=30576",
+      "publishedAt": "2026-06-17T08:57:00.419Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI가 만든 UI가 어딘가 어색한 이유 — 정합성(coherence)",
+      "url": "https://news.hada.io/topic?id=30567",
+      "publishedAt": "2026-06-17T01:57:00.419Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "일론 머스크의 스페이스X, IPO 직후 AI 코딩 스타트업 커서(Cursor) 600억 달러에 인수",
+      "url": "https://news.hada.io/topic?id=30561",
+      "publishedAt": "2026-06-17T00:57:00.419Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "sandboxd - AI 앱-빌더 제품을 위한 오픈소스 샌드박스 엔진",
+      "url": "https://news.hada.io/topic?id=30560",
+      "publishedAt": "2026-06-17T00:57:00.420Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "타입 계층과 호환성, extends가 진짜 의미하는 것",
+      "url": "https://yozm.wishket.com/magazine/detail/3807/",
+      "publishedAt": "2026-06-17T09:00:17+09:00",
       "source": "요즘IT"
     },
     {
-      "title": "바이브 코딩을 만난 1년, 40대 비개발자에게 일어난 일들",
-      "url": "https://yozm.wishket.com/magazine/detail/3803/",
-      "publishedAt": "2026-06-16T09:00:17+09:00",
+      "title": "GEO를 둘러싼 3가지 오해와 팩트체크",
+      "url": "https://yozm.wishket.com/magazine/detail/3806/",
+      "publishedAt": "2026-06-17T14:00:17+09:00",
       "source": "요즘IT"
     }
   ]
