@@ -1,23 +1,35 @@
 {
-  "crawledAt": "2026-06-19T00:09:31.516Z",
-  "total": 3,
+  "crawledAt": "2026-06-19T23:36:05.433Z",
+  "total": 5,
   "articles": [
     {
-      "title": "GitHub에서 대규모 악성코드 유포 캠페인을 발견했습니다",
-      "url": "https://news.hada.io/topic?id=30610",
-      "publishedAt": "2026-06-18T16:09:21.954Z",
+      "title": "OpenAI Codex Record & Replay: 작업을 한 번 보여주면 재사용 가능한 Skill로 변환",
+      "url": "https://news.hada.io/topic?id=30642",
+      "publishedAt": "2026-06-19T09:35:55.776Z",
       "source": "Geeknews"
     },
     {
-      "title": "Anthropic, 서울 사무소 공식 개소…네이버·넥슨·삼성SDS·LG CNS 등과 전방위 파트너십",
-      "url": "https://news.hada.io/topic?id=30600",
-      "publishedAt": "2026-06-18T02:09:21.955Z",
+      "title": "Ask GN: 다들 토이 프로젝트나 MVP 만드실 때, 여러 오픈소스의 \"결합 정보\"는 어떻게 찾으시나요?",
+      "url": "https://news.hada.io/topic?id=30639",
+      "publishedAt": "2026-06-19T08:35:55.777Z",
       "source": "Geeknews"
     },
     {
-      "title": "Cursor에서 Git 서비스 Origin 올 가을 출시 예정",
-      "url": "https://news.hada.io/topic?id=30599",
-      "publishedAt": "2026-06-18T02:09:21.955Z",
+      "title": "모두의 창업 합격자 5000명 정보 유출",
+      "url": "https://news.hada.io/topic?id=30637",
+      "publishedAt": "2026-06-19T07:35:55.778Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "sogen - 고성능 Windows & Linux 유저스페이스 에뮬레이터",
+      "url": "https://news.hada.io/topic?id=30623",
+      "publishedAt": "2026-06-19T00:35:55.778Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "SQLite의 창시자, 리처드 힙과 함께하는 Turso, AI, 그리고 26년간의 코드 이야기 [유튜브]",
+      "url": "https://news.hada.io/topic?id=30621",
+      "publishedAt": "2026-06-19T00:35:55.778Z",
       "source": "Geeknews"
     }
   ]
