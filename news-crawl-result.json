@@ -1,35 +1,17 @@
 {
-  "crawledAt": "2026-06-19T23:36:05.433Z",
-  "total": 5,
+  "crawledAt": "2026-06-20T23:45:38.447Z",
+  "total": 2,
   "articles": [
     {
-      "title": "OpenAI Codex Record & Replay: 작업을 한 번 보여주면 재사용 가능한 Skill로 변환",
-      "url": "https://news.hada.io/topic?id=30642",
-      "publishedAt": "2026-06-19T09:35:55.776Z",
+      "title": "AI 시대에 K-공문서(HWP)를 못 여는 진짜 이유, 그리고 해법을 논의합니다",
+      "url": "https://news.hada.io/topic?id=30663",
+      "publishedAt": "2026-06-20T11:45:25.073Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 다들 토이 프로젝트나 MVP 만드실 때, 여러 오픈소스의 \"결합 정보\"는 어떻게 찾으시나요?",
-      "url": "https://news.hada.io/topic?id=30639",
-      "publishedAt": "2026-06-19T08:35:55.777Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "모두의 창업 합격자 5000명 정보 유출",
-      "url": "https://news.hada.io/topic?id=30637",
-      "publishedAt": "2026-06-19T07:35:55.778Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "sogen - 고성능 Windows & Linux 유저스페이스 에뮬레이터",
-      "url": "https://news.hada.io/topic?id=30623",
-      "publishedAt": "2026-06-19T00:35:55.778Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "SQLite의 창시자, 리처드 힙과 함께하는 Turso, AI, 그리고 26년간의 코드 이야기 [유튜브]",
-      "url": "https://news.hada.io/topic?id=30621",
-      "publishedAt": "2026-06-19T00:35:55.778Z",
+      "title": "glojure - Go 위에 호스팅된 Clojure 인터프리터",
+      "url": "https://news.hada.io/topic?id=30651",
+      "publishedAt": "2026-06-20T00:45:25.074Z",
       "source": "Geeknews"
     }
   ]
