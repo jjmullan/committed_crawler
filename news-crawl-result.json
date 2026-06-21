@@ -1,17 +1,11 @@
 {
-  "crawledAt": "2026-06-20T23:45:38.447Z",
-  "total": 2,
+  "crawledAt": "2026-06-21T23:51:13.796Z",
+  "total": 1,
   "articles": [
     {
-      "title": "AI 시대에 K-공문서(HWP)를 못 여는 진짜 이유, 그리고 해법을 논의합니다",
-      "url": "https://news.hada.io/topic?id=30663",
-      "publishedAt": "2026-06-20T11:45:25.073Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "glojure - Go 위에 호스팅된 Clojure 인터프리터",
-      "url": "https://news.hada.io/topic?id=30651",
-      "publishedAt": "2026-06-20T00:45:25.074Z",
+      "title": "open-code-review — Alibaba의 AI 코드 리뷰 도구",
+      "url": "https://news.hada.io/topic?id=30677",
+      "publishedAt": "2026-06-21T00:50:58.649Z",
       "source": "Geeknews"
     }
   ]
