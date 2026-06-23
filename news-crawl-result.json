@@ -1,42 +1,24 @@
 {
-  "crawledAt": "2026-06-22T23:50:27.416Z",
-  "total": 6,
+  "crawledAt": "2026-06-23T23:35:51.742Z",
+  "total": 3,
   "articles": [
     {
-      "title": "한도를 높이면 부도가 늘어날까? 공개 데이터 3종으로 검증한 기록",
-      "url": "https://news.hada.io/topic?id=30732",
-      "publishedAt": "2026-06-22T14:50:13.054Z",
+      "title": "AI가 교수도 평생 한 번 봤다는 진단(OIH)을 찾아냈습니다 — 환자 의무기록 수만 장을 구조화한 결과",
+      "url": "https://news.hada.io/topic?id=30764",
+      "publishedAt": "2026-06-23T15:35:42.319Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대의 프로그래머: 코드 생성에서 비결정성 통제로의 역할 전환",
-      "url": "https://news.hada.io/topic?id=30711",
-      "publishedAt": "2026-06-22T01:50:13.054Z",
+      "title": "금융 데이터 사이언스 Part.0 금융 데이터 사이언스가 일반 ML과 다른 7가지",
+      "url": "https://news.hada.io/topic?id=30762",
+      "publishedAt": "2026-06-23T13:35:42.320Z",
       "source": "Geeknews"
     },
     {
-      "title": "ponytail - AI 에이전트를 가장 게으른 시니어 개발자처럼 생각하게 만들기",
-      "url": "https://news.hada.io/topic?id=30701",
-      "publishedAt": "2026-06-22T00:50:13.055Z",
+      "title": "bigset - 세상의 모든 데이터를 가지고 있다면?",
+      "url": "https://news.hada.io/topic?id=30747",
+      "publishedAt": "2026-06-23T00:35:42.321Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "런던에서 만난 AI 시대 디자이너의 5가지 생존 전략",
-      "url": "https://yozm.wishket.com/magazine/detail/3814/",
-      "publishedAt": "2026-06-22T14:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "개발자는 여전히 수학을 잘해야 할까요?",
-      "url": "https://yozm.wishket.com/magazine/detail/3813/",
-      "publishedAt": "2026-06-22T09:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "es-toolkit, 사내 작은 라이브러리가 전세계적인 라이브러리가 되기까지",
-      "url": "https://toss.tech/article/50761",
-      "publishedAt": "2026-06-22T21:52:00+09:00",
-      "source": "토스 테크"
     }
   ]
 }
