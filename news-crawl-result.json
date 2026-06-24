@@ -1,24 +1,30 @@
 {
-  "crawledAt": "2026-06-23T23:35:51.742Z",
-  "total": 3,
+  "crawledAt": "2026-06-24T23:43:04.158Z",
+  "total": 4,
   "articles": [
     {
-      "title": "AI가 교수도 평생 한 번 봤다는 진단(OIH)을 찾아냈습니다 — 환자 의무기록 수만 장을 구조화한 결과",
-      "url": "https://news.hada.io/topic?id=30764",
-      "publishedAt": "2026-06-23T15:35:42.319Z",
+      "title": "Typescript 7.0 RC버전이 배포되었습니다.",
+      "url": "https://news.hada.io/topic?id=30788",
+      "publishedAt": "2026-06-24T03:42:54.980Z",
       "source": "Geeknews"
     },
     {
-      "title": "금융 데이터 사이언스 Part.0 금융 데이터 사이언스가 일반 ML과 다른 7가지",
-      "url": "https://news.hada.io/topic?id=30762",
-      "publishedAt": "2026-06-23T13:35:42.320Z",
+      "title": "LLM Wiki와 본유적 부하",
+      "url": "https://news.hada.io/topic?id=30786",
+      "publishedAt": "2026-06-24T01:42:54.981Z",
       "source": "Geeknews"
     },
     {
-      "title": "bigset - 세상의 모든 데이터를 가지고 있다면?",
-      "url": "https://news.hada.io/topic?id=30747",
-      "publishedAt": "2026-06-23T00:35:42.321Z",
+      "title": "boring - 단순하고 가벼운 커맨드라인 SSH 터널 매니저",
+      "url": "https://news.hada.io/topic?id=30776",
+      "publishedAt": "2026-06-24T00:42:54.982Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "es-toolkit: How a Small Internal Library Became a Global Project",
+      "url": "https://toss.tech/article/50693",
+      "publishedAt": "2026-06-24T12:36:00+09:00",
+      "source": "토스 테크"
     }
   ]
 }
