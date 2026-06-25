@@ -1,30 +1,36 @@
 {
-  "crawledAt": "2026-06-24T23:43:04.158Z",
-  "total": 4,
+  "crawledAt": "2026-06-25T23:52:51.317Z",
+  "total": 5,
   "articles": [
     {
-      "title": "Typescript 7.0 RC버전이 배포되었습니다.",
-      "url": "https://news.hada.io/topic?id=30788",
-      "publishedAt": "2026-06-24T03:42:54.980Z",
+      "title": "Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이",
+      "url": "https://news.hada.io/topic?id=30815",
+      "publishedAt": "2026-06-25T02:52:41.919Z",
       "source": "Geeknews"
     },
     {
-      "title": "LLM Wiki와 본유적 부하",
-      "url": "https://news.hada.io/topic?id=30786",
-      "publishedAt": "2026-06-24T01:42:54.981Z",
+      "title": "AI시대, 나의 전문성을 재설계하는 법 [구글 슬라이드, 165P]",
+      "url": "https://news.hada.io/topic?id=30814",
+      "publishedAt": "2026-06-25T02:52:41.920Z",
       "source": "Geeknews"
     },
     {
-      "title": "boring - 단순하고 가벼운 커맨드라인 SSH 터널 매니저",
-      "url": "https://news.hada.io/topic?id=30776",
-      "publishedAt": "2026-06-24T00:42:54.982Z",
+      "title": "Cafe24, LLM Router 공개",
+      "url": "https://news.hada.io/topic?id=30813",
+      "publishedAt": "2026-06-25T01:52:41.921Z",
       "source": "Geeknews"
     },
     {
-      "title": "es-toolkit: How a Small Internal Library Became a Global Project",
-      "url": "https://toss.tech/article/50693",
-      "publishedAt": "2026-06-24T12:36:00+09:00",
-      "source": "토스 테크"
+      "title": "내 신생 서비스가 ChatGPT·Claude·Perplexity 추천에 0번 떴다 — AI 검색 노출(GEO/AEO) 직접 측정해본 ...",
+      "url": "https://news.hada.io/topic?id=30812",
+      "publishedAt": "2026-06-25T01:52:41.921Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "bumblebee - 공급망 침해 노출 점검용 스캐너",
+      "url": "https://news.hada.io/topic?id=30805",
+      "publishedAt": "2026-06-25T00:52:41.921Z",
+      "source": "Geeknews"
     }
   ]
 }
