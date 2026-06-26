@@ -1,35 +1,35 @@
 {
-  "crawledAt": "2026-06-25T23:52:51.317Z",
+  "crawledAt": "2026-06-26T23:43:29.215Z",
   "total": 5,
   "articles": [
     {
-      "title": "Code as Agent Harness — 코드를 에이전트의 실행 기반으로 보는 102페이지 서베이",
-      "url": "https://news.hada.io/topic?id=30815",
-      "publishedAt": "2026-06-25T02:52:41.919Z",
+      "title": "Egregore v5.0: PyTorch 기반의 고차원 위상 기하학적 자율 항상성 인지 엔진",
+      "url": "https://news.hada.io/topic?id=30857",
+      "publishedAt": "2026-06-26T14:43:20.084Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI시대, 나의 전문성을 재설계하는 법 [구글 슬라이드, 165P]",
-      "url": "https://news.hada.io/topic?id=30814",
-      "publishedAt": "2026-06-25T02:52:41.920Z",
+      "title": "AI에게 주도권을 빼앗기지 마세요 — 두 번의 자동화 실패에서 배운 것",
+      "url": "https://news.hada.io/topic?id=30855",
+      "publishedAt": "2026-06-26T11:43:20.085Z",
       "source": "Geeknews"
     },
     {
-      "title": "Cafe24, LLM Router 공개",
-      "url": "https://news.hada.io/topic?id=30813",
-      "publishedAt": "2026-06-25T01:52:41.921Z",
+      "title": "블로거가 AI 체커를 활용해 콘텐츠 품질을 보호하는 방법",
+      "url": "https://news.hada.io/topic?id=30851",
+      "publishedAt": "2026-06-26T03:43:20.086Z",
       "source": "Geeknews"
     },
     {
-      "title": "내 신생 서비스가 ChatGPT·Claude·Perplexity 추천에 0번 떴다 — AI 검색 노출(GEO/AEO) 직접 측정해본 ...",
-      "url": "https://news.hada.io/topic?id=30812",
-      "publishedAt": "2026-06-25T01:52:41.921Z",
+      "title": "새로운 HTTP QUERY 메소드",
+      "url": "https://news.hada.io/topic?id=30846",
+      "publishedAt": "2026-06-26T01:43:20.086Z",
       "source": "Geeknews"
     },
     {
-      "title": "bumblebee - 공급망 침해 노출 점검용 스캐너",
-      "url": "https://news.hada.io/topic?id=30805",
-      "publishedAt": "2026-06-25T00:52:41.921Z",
+      "title": "auth.md — 에이전트가 사용자를 대신해 가입시키기 위한 오픈 프로토콜",
+      "url": "https://news.hada.io/topic?id=30837",
+      "publishedAt": "2026-06-26T00:43:20.086Z",
       "source": "Geeknews"
     }
   ]
