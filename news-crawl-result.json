@@ -1,35 +1,23 @@
 {
-  "crawledAt": "2026-06-26T23:43:29.215Z",
-  "total": 5,
+  "crawledAt": "2026-06-27T23:34:39.864Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Egregore v5.0: PyTorch 기반의 고차원 위상 기하학적 자율 항상성 인지 엔진",
-      "url": "https://news.hada.io/topic?id=30857",
-      "publishedAt": "2026-06-26T14:43:20.084Z",
+      "title": "[삼성전자] 가전제품 MCU 펌웨어, AI가 100% 개발하는 시나리오 가능한가",
+      "url": "https://news.hada.io/topic?id=30875",
+      "publishedAt": "2026-06-27T03:34:30.550Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI에게 주도권을 빼앗기지 마세요 — 두 번의 자동화 실패에서 배운 것",
-      "url": "https://news.hada.io/topic?id=30855",
-      "publishedAt": "2026-06-26T11:43:20.085Z",
+      "title": "'기획 하네스(planning harness)'로 완성하는 상세기획 워크플로우 자동화",
+      "url": "https://news.hada.io/topic?id=30870",
+      "publishedAt": "2026-06-27T00:34:30.551Z",
       "source": "Geeknews"
     },
     {
-      "title": "블로거가 AI 체커를 활용해 콘텐츠 품질을 보호하는 방법",
-      "url": "https://news.hada.io/topic?id=30851",
-      "publishedAt": "2026-06-26T03:43:20.086Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "새로운 HTTP QUERY 메소드",
-      "url": "https://news.hada.io/topic?id=30846",
-      "publishedAt": "2026-06-26T01:43:20.086Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "auth.md — 에이전트가 사용자를 대신해 가입시키기 위한 오픈 프로토콜",
-      "url": "https://news.hada.io/topic?id=30837",
-      "publishedAt": "2026-06-26T00:43:20.086Z",
+      "title": "gofumpt- gofmt보다 더 엄격한 Go 코드 포매터",
+      "url": "https://news.hada.io/topic?id=30864",
+      "publishedAt": "2026-06-27T00:34:30.551Z",
       "source": "Geeknews"
     }
   ]
