@@ -1,23 +1,11 @@
 {
-  "crawledAt": "2026-06-27T23:34:39.864Z",
-  "total": 3,
+  "crawledAt": "2026-06-28T23:37:58.511Z",
+  "total": 1,
   "articles": [
     {
-      "title": "[삼성전자] 가전제품 MCU 펌웨어, AI가 100% 개발하는 시나리오 가능한가",
-      "url": "https://news.hada.io/topic?id=30875",
-      "publishedAt": "2026-06-27T03:34:30.550Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "'기획 하네스(planning harness)'로 완성하는 상세기획 워크플로우 자동화",
-      "url": "https://news.hada.io/topic?id=30870",
-      "publishedAt": "2026-06-27T00:34:30.551Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "gofumpt- gofmt보다 더 엄격한 Go 코드 포매터",
-      "url": "https://news.hada.io/topic?id=30864",
-      "publishedAt": "2026-06-27T00:34:30.551Z",
+      "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
+      "url": "https://news.hada.io/topic?id=30901",
+      "publishedAt": "2026-06-28T00:37:48.957Z",
       "source": "Geeknews"
     }
   ]
