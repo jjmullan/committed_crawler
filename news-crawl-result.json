@@ -1,11 +1,17 @@
 {
-  "crawledAt": "2026-06-28T23:37:58.511Z",
-  "total": 1,
+  "crawledAt": "2026-06-29T23:35:22.693Z",
+  "total": 2,
   "articles": [
     {
-      "title": "Paca - 인간과 AI 에이전트 협업을 위한 오픈소스 프로젝트 관리 도구",
-      "url": "https://news.hada.io/topic?id=30901",
-      "publishedAt": "2026-06-28T00:37:48.957Z",
+      "title": "Nintendo Switch 2 가격 인상",
+      "url": "https://news.hada.io/topic?id=30933",
+      "publishedAt": "2026-06-29T02:35:13.535Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Foldkit - 정확성을 위한 프론트엔드 프레임워크",
+      "url": "https://news.hada.io/topic?id=30922",
+      "publishedAt": "2026-06-29T00:35:13.536Z",
       "source": "Geeknews"
     }
   ]
