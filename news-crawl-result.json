@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-06-29T23:35:22.693Z",
-  "total": 2,
+  "crawledAt": "2026-06-30T23:44:50.285Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Nintendo Switch 2 가격 인상",
-      "url": "https://news.hada.io/topic?id=30933",
-      "publishedAt": "2026-06-29T02:35:13.535Z",
+      "title": "ArmSoM Sige7로 구축한 저전력 고성능 홈 NVR 시스템",
+      "url": "https://news.hada.io/topic?id=30967",
+      "publishedAt": "2026-06-30T02:44:40.785Z",
       "source": "Geeknews"
     },
     {
-      "title": "Foldkit - 정확성을 위한 프론트엔드 프레임워크",
-      "url": "https://news.hada.io/topic?id=30922",
-      "publishedAt": "2026-06-29T00:35:13.536Z",
+      "title": "클로드 코드 창시자가 말하는 AI 시대의 다섯 가지 일하는 사람의 원형(archetype)",
+      "url": "https://news.hada.io/topic?id=30965",
+      "publishedAt": "2026-06-30T02:44:40.786Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Go Micro - Go를 위한 에이전트 하네스",
+      "url": "https://news.hada.io/topic?id=30958",
+      "publishedAt": "2026-06-30T00:44:40.786Z",
       "source": "Geeknews"
     }
   ]
