@@ -1,24 +1,48 @@
 {
-  "crawledAt": "2026-06-30T23:44:50.285Z",
-  "total": 3,
+  "crawledAt": "2026-07-01T23:52:10.078Z",
+  "total": 7,
   "articles": [
     {
-      "title": "ArmSoM Sige7로 구축한 저전력 고성능 홈 NVR 시스템",
-      "url": "https://news.hada.io/topic?id=30967",
-      "publishedAt": "2026-06-30T02:44:40.785Z",
+      "title": "Anthropic, 3주 만에 Claude Fable 5 전 세계 재배포, 美 수출통제 해제",
+      "url": "https://news.hada.io/topic?id=31021",
+      "publishedAt": "2026-07-01T23:36:54.131Z",
       "source": "Geeknews"
     },
     {
-      "title": "클로드 코드 창시자가 말하는 AI 시대의 다섯 가지 일하는 사람의 원형(archetype)",
-      "url": "https://news.hada.io/topic?id=30965",
-      "publishedAt": "2026-06-30T02:44:40.786Z",
+      "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
+      "url": "https://news.hada.io/topic?id=31006",
+      "publishedAt": "2026-07-01T10:51:54.132Z",
       "source": "Geeknews"
     },
     {
-      "title": "Go Micro - Go를 위한 에이전트 하네스",
-      "url": "https://news.hada.io/topic?id=30958",
-      "publishedAt": "2026-06-30T00:44:40.786Z",
+      "title": "생성형 AI 검색 최적화(GEO), 대조군 두고 측정해봤다 — 정비한 치과만 2주새 11%→27%",
+      "url": "https://news.hada.io/topic?id=31001",
+      "publishedAt": "2026-07-01T05:51:54.132Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "pi-subagents - Pi를 위한 서브에이전트",
+      "url": "https://news.hada.io/topic?id=30989",
+      "publishedAt": "2026-07-01T00:51:54.132Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "페이블 5 복귀와 소넷 5 등장, 앤트로픽의 대반격",
+      "url": "https://yozm.wishket.com/magazine/detail/3830/",
+      "publishedAt": "2026-07-01T12:01:21+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "좋은 AI 툴을 써도 우리 팀만 느린 이유",
+      "url": "https://yozm.wishket.com/magazine/detail/3829/",
+      "publishedAt": "2026-07-01T09:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "코딩 말고 일: Repo를 세컨 브레인으로 1년 굴린 이야기",
+      "url": "https://yozm.wishket.com/magazine/detail/3828/",
+      "publishedAt": "2026-07-01T14:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
