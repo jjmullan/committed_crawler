@@ -1,48 +1,54 @@
 {
-  "crawledAt": "2026-07-01T23:52:10.078Z",
-  "total": 7,
+  "crawledAt": "2026-07-02T23:37:19.135Z",
+  "total": 8,
   "articles": [
     {
-      "title": "Anthropic, 3주 만에 Claude Fable 5 전 세계 재배포, 美 수출통제 해제",
-      "url": "https://news.hada.io/topic?id=31021",
-      "publishedAt": "2026-07-01T23:36:54.131Z",
+      "title": "Ask GN: 커널 수준에서 AI 가이드라인을 지원한다면 어떨까요?",
+      "url": "https://news.hada.io/topic?id=31057",
+      "publishedAt": "2026-07-02T23:13:09.831Z",
       "source": "Geeknews"
     },
     {
-      "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
-      "url": "https://news.hada.io/topic?id=31006",
-      "publishedAt": "2026-07-01T10:51:54.132Z",
+      "title": "AI가 일자리보다 먼저 가져가는 것",
+      "url": "https://news.hada.io/topic?id=31051",
+      "publishedAt": "2026-07-02T16:37:09.832Z",
       "source": "Geeknews"
     },
     {
-      "title": "생성형 AI 검색 최적화(GEO), 대조군 두고 측정해봤다 — 정비한 치과만 2주새 11%→27%",
-      "url": "https://news.hada.io/topic?id=31001",
-      "publishedAt": "2026-07-01T05:51:54.132Z",
+      "title": "OpenAI, Codex 전용 미니 키보드 ‘Codex Micro’ 티저 공개",
+      "url": "https://news.hada.io/topic?id=31049",
+      "publishedAt": "2026-07-02T15:37:09.832Z",
       "source": "Geeknews"
     },
     {
-      "title": "pi-subagents - Pi를 위한 서브에이전트",
-      "url": "https://news.hada.io/topic?id=30989",
-      "publishedAt": "2026-07-01T00:51:54.132Z",
+      "title": "\"프론티어 AI가 의료 전문 툴 이겼다\"는 논문 재검증해보니 — 채점자간 일치도 0.10, 채점자가 곧 참가자",
+      "url": "https://news.hada.io/topic?id=31041",
+      "publishedAt": "2026-07-02T05:37:09.833Z",
       "source": "Geeknews"
     },
     {
-      "title": "페이블 5 복귀와 소넷 5 등장, 앤트로픽의 대반격",
-      "url": "https://yozm.wishket.com/magazine/detail/3830/",
-      "publishedAt": "2026-07-01T12:01:21+09:00",
-      "source": "요즘IT"
+      "title": "무료 서핑 예보 API 비교 — Windy 무료 티어는 일부러 변형된 데이터를 준다",
+      "url": "https://news.hada.io/topic?id=31040",
+      "publishedAt": "2026-07-02T04:37:09.833Z",
+      "source": "Geeknews"
     },
     {
-      "title": "좋은 AI 툴을 써도 우리 팀만 느린 이유",
-      "url": "https://yozm.wishket.com/magazine/detail/3829/",
-      "publishedAt": "2026-07-01T09:00:17+09:00",
-      "source": "요즘IT"
+      "title": "우리는 완벽한 세계를 설계할 수 있을까? MIT에서 스티븐 핑커와 타일러 밴더윌이 인간의 번영에 대해 ...",
+      "url": "https://news.hada.io/topic?id=31027",
+      "publishedAt": "2026-07-02T00:37:09.833Z",
+      "source": "Geeknews"
     },
     {
-      "title": "코딩 말고 일: Repo를 세컨 브레인으로 1년 굴린 이야기",
-      "url": "https://yozm.wishket.com/magazine/detail/3828/",
-      "publishedAt": "2026-07-01T14:00:17+09:00",
-      "source": "요즘IT"
+      "title": "헤이버니 서비스 7/31로 서비스 종료",
+      "url": "https://news.hada.io/topic?id=31026",
+      "publishedAt": "2026-07-02T00:37:09.833Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "supertree - 디시젼 트리 인터랙티브 시각화 도구",
+      "url": "https://news.hada.io/topic?id=31025",
+      "publishedAt": "2026-07-02T00:37:09.833Z",
+      "source": "Geeknews"
     }
   ]
 }
