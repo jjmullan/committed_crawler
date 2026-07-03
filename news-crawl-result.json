@@ -1,53 +1,29 @@
 {
-  "crawledAt": "2026-07-02T23:37:19.135Z",
-  "total": 8,
+  "crawledAt": "2026-07-03T23:35:14.399Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Ask GN: 커널 수준에서 AI 가이드라인을 지원한다면 어떨까요?",
-      "url": "https://news.hada.io/topic?id=31057",
-      "publishedAt": "2026-07-02T23:13:09.831Z",
+      "title": "inshellisense - IDE 스타일의 셸 명령어 자동완성 도구",
+      "url": "https://news.hada.io/topic?id=31082",
+      "publishedAt": "2026-07-03T06:35:05.036Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI가 일자리보다 먼저 가져가는 것",
-      "url": "https://news.hada.io/topic?id=31051",
-      "publishedAt": "2026-07-02T16:37:09.832Z",
+      "title": "탈(脫)fedify – 떠나보니 알게 된 fedify의 좋은 점들",
+      "url": "https://news.hada.io/topic?id=31081",
+      "publishedAt": "2026-07-03T06:35:05.037Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenAI, Codex 전용 미니 키보드 ‘Codex Micro’ 티저 공개",
-      "url": "https://news.hada.io/topic?id=31049",
-      "publishedAt": "2026-07-02T15:37:09.832Z",
+      "title": "2026 상반기 말아먹었을 때 쓰는 글",
+      "url": "https://news.hada.io/topic?id=31076",
+      "publishedAt": "2026-07-03T01:35:05.037Z",
       "source": "Geeknews"
     },
     {
-      "title": "\"프론티어 AI가 의료 전문 툴 이겼다\"는 논문 재검증해보니 — 채점자간 일치도 0.10, 채점자가 곧 참가자",
-      "url": "https://news.hada.io/topic?id=31041",
-      "publishedAt": "2026-07-02T05:37:09.833Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "무료 서핑 예보 API 비교 — Windy 무료 티어는 일부러 변형된 데이터를 준다",
-      "url": "https://news.hada.io/topic?id=31040",
-      "publishedAt": "2026-07-02T04:37:09.833Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "우리는 완벽한 세계를 설계할 수 있을까? MIT에서 스티븐 핑커와 타일러 밴더윌이 인간의 번영에 대해 ...",
-      "url": "https://news.hada.io/topic?id=31027",
-      "publishedAt": "2026-07-02T00:37:09.833Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "헤이버니 서비스 7/31로 서비스 종료",
-      "url": "https://news.hada.io/topic?id=31026",
-      "publishedAt": "2026-07-02T00:37:09.833Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "supertree - 디시젼 트리 인터랙티브 시각화 도구",
-      "url": "https://news.hada.io/topic?id=31025",
-      "publishedAt": "2026-07-02T00:37:09.833Z",
+      "title": "databow - ADBC로 데이터베이스를 조회하는 CLI 도구",
+      "url": "https://news.hada.io/topic?id=31069",
+      "publishedAt": "2026-07-03T00:35:05.038Z",
       "source": "Geeknews"
     }
   ]
