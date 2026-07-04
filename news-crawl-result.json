@@ -1,29 +1,23 @@
 {
-  "crawledAt": "2026-07-03T23:35:14.399Z",
-  "total": 4,
+  "crawledAt": "2026-07-04T23:31:22.514Z",
+  "total": 3,
   "articles": [
     {
-      "title": "inshellisense - IDE 스타일의 셸 명령어 자동완성 도구",
-      "url": "https://news.hada.io/topic?id=31082",
-      "publishedAt": "2026-07-03T06:35:05.036Z",
+      "title": "PM의 채용 공고가 바뀌었다 (이력서 대신 60초 데모를 내는 시대)",
+      "url": "https://news.hada.io/topic?id=31119",
+      "publishedAt": "2026-07-04T07:31:13.029Z",
       "source": "Geeknews"
     },
     {
-      "title": "탈(脫)fedify – 떠나보니 알게 된 fedify의 좋은 점들",
-      "url": "https://news.hada.io/topic?id=31081",
-      "publishedAt": "2026-07-03T06:35:05.037Z",
+      "title": "모니터링 직접 만들지 말고 무료 SaaS에 맡겨라 — Sentry + PostHog로 0원 관측",
+      "url": "https://news.hada.io/topic?id=31110",
+      "publishedAt": "2026-07-04T01:31:13.030Z",
       "source": "Geeknews"
     },
     {
-      "title": "2026 상반기 말아먹었을 때 쓰는 글",
-      "url": "https://news.hada.io/topic?id=31076",
-      "publishedAt": "2026-07-03T01:35:05.037Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "databow - ADBC로 데이터베이스를 조회하는 CLI 도구",
-      "url": "https://news.hada.io/topic?id=31069",
-      "publishedAt": "2026-07-03T00:35:05.038Z",
+      "title": "epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커",
+      "url": "https://news.hada.io/topic?id=31104",
+      "publishedAt": "2026-07-04T00:31:13.031Z",
       "source": "Geeknews"
     }
   ]
