@@ -1,23 +1,11 @@
 {
-  "crawledAt": "2026-07-04T23:31:22.514Z",
-  "total": 3,
+  "crawledAt": "2026-07-05T23:34:34.465Z",
+  "total": 1,
   "articles": [
     {
-      "title": "PM의 채용 공고가 바뀌었다 (이력서 대신 60초 데모를 내는 시대)",
-      "url": "https://news.hada.io/topic?id=31119",
-      "publishedAt": "2026-07-04T07:31:13.029Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "모니터링 직접 만들지 말고 무료 SaaS에 맡겨라 — Sentry + PostHog로 0원 관측",
-      "url": "https://news.hada.io/topic?id=31110",
-      "publishedAt": "2026-07-04T01:31:13.030Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커",
-      "url": "https://news.hada.io/topic?id=31104",
-      "publishedAt": "2026-07-04T00:31:13.031Z",
+      "title": "MemNixFS - 리눅스 메모리 덤프를 파일시스템으로 변환해 조사하는 도구",
+      "url": "https://news.hada.io/topic?id=31134",
+      "publishedAt": "2026-07-05T00:34:24.778Z",
       "source": "Geeknews"
     }
   ]
