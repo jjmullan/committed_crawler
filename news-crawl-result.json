@@ -1,12 +1,48 @@
 {
-  "crawledAt": "2026-07-05T23:34:34.465Z",
-  "total": 1,
+  "crawledAt": "2026-07-06T23:38:09.198Z",
+  "total": 7,
   "articles": [
     {
-      "title": "MemNixFS - 리눅스 메모리 덤프를 파일시스템으로 변환해 조사하는 도구",
-      "url": "https://news.hada.io/topic?id=31134",
-      "publishedAt": "2026-07-05T00:34:24.778Z",
+      "title": "의미가 보이는 프로젝트를 작성하기",
+      "url": "https://news.hada.io/topic?id=31176",
+      "publishedAt": "2026-07-06T11:37:53.448Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "메모리 아끼면서 Cross Entropy Loss 계산하기",
+      "url": "https://news.hada.io/topic?id=31168",
+      "publishedAt": "2026-07-06T01:37:53.449Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 코딩 시대의 개발자 역할 변화: 코딩 실행자에서 맥락·검증·제품화 설계자로",
+      "url": "https://news.hada.io/topic?id=31165",
+      "publishedAt": "2026-07-06T01:37:53.449Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "dbtrail - 모든 행 변경을 기억하고 되돌리기 가능한 MySQL용 타임머신",
+      "url": "https://news.hada.io/topic?id=31159",
+      "publishedAt": "2026-07-06T00:37:53.449Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "OpenTag - Slack용 Claude Tag의 오픈소스 대안",
+      "url": "https://news.hada.io/topic?id=31158",
+      "publishedAt": "2026-07-06T00:37:53.449Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "실전 이커머스: 재고 관리 단위 설계로 품절률 10% 낮추기",
+      "url": "https://yozm.wishket.com/magazine/detail/3836/",
+      "publishedAt": "2026-07-06T09:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "로컬 LLM, 나를 위한 작은 AI 작업대 만들기",
+      "url": "https://yozm.wishket.com/magazine/detail/3835/",
+      "publishedAt": "2026-07-06T14:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
