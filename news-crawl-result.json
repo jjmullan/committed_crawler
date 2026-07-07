@@ -1,48 +1,36 @@
 {
-  "crawledAt": "2026-07-06T23:38:09.198Z",
-  "total": 7,
+  "crawledAt": "2026-07-07T23:30:05.660Z",
+  "total": 5,
   "articles": [
     {
-      "title": "의미가 보이는 프로젝트를 작성하기",
-      "url": "https://news.hada.io/topic?id=31176",
-      "publishedAt": "2026-07-06T11:37:53.448Z",
+      "title": "Ask GN: 실서비스에서 AI 에이전트 실수를 어떻게 추적하시나요?",
+      "url": "https://news.hada.io/topic?id=31212",
+      "publishedAt": "2026-07-07T10:29:56.105Z",
       "source": "Geeknews"
     },
     {
-      "title": "메모리 아끼면서 Cross Entropy Loss 계산하기",
-      "url": "https://news.hada.io/topic?id=31168",
-      "publishedAt": "2026-07-06T01:37:53.449Z",
+      "title": "AI 시대에 취미가 곧 비즈니스 기회가 되는 이유",
+      "url": "https://news.hada.io/topic?id=31207",
+      "publishedAt": "2026-07-07T04:29:56.106Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 코딩 시대의 개발자 역할 변화: 코딩 실행자에서 맥락·검증·제품화 설계자로",
-      "url": "https://news.hada.io/topic?id=31165",
-      "publishedAt": "2026-07-06T01:37:53.449Z",
+      "title": "오픈소스 애플리케이션의 구조와 설계 지식 공유",
+      "url": "https://news.hada.io/topic?id=31194",
+      "publishedAt": "2026-07-07T00:29:56.106Z",
       "source": "Geeknews"
     },
     {
-      "title": "dbtrail - 모든 행 변경을 기억하고 되돌리기 가능한 MySQL용 타임머신",
-      "url": "https://news.hada.io/topic?id=31159",
-      "publishedAt": "2026-07-06T00:37:53.449Z",
+      "title": "Rocky - 파이프라인 전체를 타입 검사해 실행 전에 깨지는 변경을 잡아내는 SQL 변환 엔진",
+      "url": "https://news.hada.io/topic?id=31191",
+      "publishedAt": "2026-07-07T00:29:56.106Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenTag - Slack용 Claude Tag의 오픈소스 대안",
-      "url": "https://news.hada.io/topic?id=31158",
-      "publishedAt": "2026-07-06T00:37:53.449Z",
+      "title": "Astryx - Meta가 공개한 오픈소스 디자인 시스템",
+      "url": "https://news.hada.io/topic?id=31190",
+      "publishedAt": "2026-07-07T00:29:56.106Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "실전 이커머스: 재고 관리 단위 설계로 품절률 10% 낮추기",
-      "url": "https://yozm.wishket.com/magazine/detail/3836/",
-      "publishedAt": "2026-07-06T09:00:17+09:00",
-      "source": "요즘IT"
-    },
-    {
-      "title": "로컬 LLM, 나를 위한 작은 AI 작업대 만들기",
-      "url": "https://yozm.wishket.com/magazine/detail/3835/",
-      "publishedAt": "2026-07-06T14:00:17+09:00",
-      "source": "요즘IT"
     }
   ]
 }
