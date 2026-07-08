@@ -1,35 +1,29 @@
 {
-  "crawledAt": "2026-07-07T23:30:05.660Z",
-  "total": 5,
+  "crawledAt": "2026-07-08T23:36:14.820Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Ask GN: 실서비스에서 AI 에이전트 실수를 어떻게 추적하시나요?",
-      "url": "https://news.hada.io/topic?id=31212",
-      "publishedAt": "2026-07-07T10:29:56.105Z",
+      "title": "TypeScript v7 Released",
+      "url": "https://news.hada.io/topic?id=31242",
+      "publishedAt": "2026-07-08T17:36:05.222Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대에 취미가 곧 비즈니스 기회가 되는 이유",
-      "url": "https://news.hada.io/topic?id=31207",
-      "publishedAt": "2026-07-07T04:29:56.106Z",
+      "title": "Oracle Always Free 백엔드 구축 기록: 용량 부족, PAYG 전환, 과금 차단",
+      "url": "https://news.hada.io/topic?id=31237",
+      "publishedAt": "2026-07-08T06:36:05.223Z",
       "source": "Geeknews"
     },
     {
-      "title": "오픈소스 애플리케이션의 구조와 설계 지식 공유",
-      "url": "https://news.hada.io/topic?id=31194",
-      "publishedAt": "2026-07-07T00:29:56.106Z",
+      "title": "30 Papers - 일리야 서츠케버 추천 AI 핵심 논문 목록 요약",
+      "url": "https://news.hada.io/topic?id=31224",
+      "publishedAt": "2026-07-08T00:36:05.223Z",
       "source": "Geeknews"
     },
     {
-      "title": "Rocky - 파이프라인 전체를 타입 검사해 실행 전에 깨지는 변경을 잡아내는 SQL 변환 엔진",
-      "url": "https://news.hada.io/topic?id=31191",
-      "publishedAt": "2026-07-07T00:29:56.106Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Astryx - Meta가 공개한 오픈소스 디자인 시스템",
-      "url": "https://news.hada.io/topic?id=31190",
-      "publishedAt": "2026-07-07T00:29:56.106Z",
+      "title": "no-mistakes - git push 할 때 실수를 방지하기",
+      "url": "https://news.hada.io/topic?id=31223",
+      "publishedAt": "2026-07-08T00:36:05.224Z",
       "source": "Geeknews"
     }
   ]
