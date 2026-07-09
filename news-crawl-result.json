@@ -1,30 +1,48 @@
 {
-  "crawledAt": "2026-07-08T23:36:14.820Z",
-  "total": 4,
+  "crawledAt": "2026-07-09T23:46:44.540Z",
+  "total": 7,
   "articles": [
     {
-      "title": "TypeScript v7 Released",
-      "url": "https://news.hada.io/topic?id=31242",
-      "publishedAt": "2026-07-08T17:36:05.222Z",
+      "title": "OpenAI GPT 5.6 출시",
+      "url": "https://news.hada.io/topic?id=31275",
+      "publishedAt": "2026-07-09T19:46:28.523Z",
       "source": "Geeknews"
     },
     {
-      "title": "Oracle Always Free 백엔드 구축 기록: 용량 부족, PAYG 전환, 과금 차단",
-      "url": "https://news.hada.io/topic?id=31237",
-      "publishedAt": "2026-07-08T06:36:05.223Z",
+      "title": "시계열 예측 AI Chronos-Bolt와 TightLoop Sentinel: 예측을 운영 액션으로 바꾸는 Forecast-to-Action ...",
+      "url": "https://news.hada.io/topic?id=31269",
+      "publishedAt": "2026-07-09T13:46:28.524Z",
       "source": "Geeknews"
     },
     {
-      "title": "30 Papers - 일리야 서츠케버 추천 AI 핵심 논문 목록 요약",
-      "url": "https://news.hada.io/topic?id=31224",
-      "publishedAt": "2026-07-08T00:36:05.223Z",
+      "title": "디지털 시대의 돈 — 화폐 진화와 디지털 화폐의 제도적 선택",
+      "url": "https://news.hada.io/topic?id=31262",
+      "publishedAt": "2026-07-09T03:46:28.524Z",
       "source": "Geeknews"
     },
     {
-      "title": "no-mistakes - git push 할 때 실수를 방지하기",
-      "url": "https://news.hada.io/topic?id=31223",
-      "publishedAt": "2026-07-08T00:36:05.224Z",
+      "title": "Firebase Dynamic Links 종료 대응기 — 유니버설 링크·AASA·카톡 공유를 자체 인프라로 재구축",
+      "url": "https://news.hada.io/topic?id=31258",
+      "publishedAt": "2026-07-09T01:46:28.524Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "Weave Router - 프롬프트마다 최적의 모델로 라우팅하는 에이전트용 모델 라우터",
+      "url": "https://news.hada.io/topic?id=31251",
+      "publishedAt": "2026-07-09T00:46:28.525Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "담당자 퇴사하면 업무 못 하는 회사를 위한 AX는?",
+      "url": "https://yozm.wishket.com/magazine/detail/3842/",
+      "publishedAt": "2026-07-09T14:00:17+09:00",
+      "source": "요즘IT"
+    },
+    {
+      "title": "사람마다 다른 썸네일이 나온다? GenUI의 빛과 어둠",
+      "url": "https://yozm.wishket.com/magazine/detail/3841/",
+      "publishedAt": "2026-07-09T09:00:17+09:00",
+      "source": "요즘IT"
     }
   ]
 }
