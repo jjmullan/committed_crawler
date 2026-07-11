@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-07-10T23:28:10.021Z",
-  "total": 3,
+  "crawledAt": "2026-07-11T23:27:13.067Z",
+  "total": 2,
   "articles": [
     {
-      "title": "모델 3/Y를 위한 테슬라 FSD v14 Lite, 한국에 배포 시작",
-      "url": "https://news.hada.io/topic?id=31292",
-      "publishedAt": "2026-07-10T01:27:59.648Z",
+      "title": "양극성 LISP 프로그래머",
+      "url": "https://news.hada.io/topic?id=31319",
+      "publishedAt": "2026-07-11T02:26:57.493Z",
       "source": "Geeknews"
     },
     {
-      "title": "TightLoop Sentinel: 여러 설비에서 검증한 예지보전 조기경보 기술",
-      "url": "https://news.hada.io/topic?id=31288",
-      "publishedAt": "2026-07-10T00:27:59.649Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "tts-bench - 로컬에서 TTS 모델 비교를 위한 벤치마크",
-      "url": "https://news.hada.io/topic?id=31283",
-      "publishedAt": "2026-07-10T00:27:59.650Z",
+      "title": "fenic - 사람과 에이전트를 위한 시맨틱 데이터프레임(Semantic DataFrames)",
+      "url": "https://news.hada.io/topic?id=31315",
+      "publishedAt": "2026-07-11T00:26:57.494Z",
       "source": "Geeknews"
     }
   ]
