@@ -1,17 +1,11 @@
 {
-  "crawledAt": "2026-07-11T23:27:13.067Z",
-  "total": 2,
+  "crawledAt": "2026-07-12T23:26:23.447Z",
+  "total": 1,
   "articles": [
     {
-      "title": "양극성 LISP 프로그래머",
-      "url": "https://news.hada.io/topic?id=31319",
-      "publishedAt": "2026-07-11T02:26:57.493Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "fenic - 사람과 에이전트를 위한 시맨틱 데이터프레임(Semantic DataFrames)",
-      "url": "https://news.hada.io/topic?id=31315",
-      "publishedAt": "2026-07-11T00:26:57.494Z",
+      "title": "sem - Git 위에 함수/클래스 단위 변경 추적을 추가하는 시맨틱 버전 관리 도구",
+      "url": "https://news.hada.io/topic?id=31339",
+      "publishedAt": "2026-07-12T00:26:09.213Z",
       "source": "Geeknews"
     }
   ]
