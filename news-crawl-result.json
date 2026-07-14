@@ -1,29 +1,41 @@
 {
-  "crawledAt": "2026-07-13T23:26:33.413Z",
-  "total": 4,
+  "crawledAt": "2026-07-14T23:25:21.233Z",
+  "total": 6,
   "articles": [
     {
-      "title": "AI 에이전트 180개로 하루 만에 iOS 앱 버그 55개를 잡은 검증 파이프라인",
-      "url": "https://news.hada.io/topic?id=31393",
-      "publishedAt": "2026-07-13T07:26:23.936Z",
+      "title": "FOSS for All, 국내 오픈소스 소액 지원 사업 시작",
+      "url": "https://news.hada.io/topic?id=31436",
+      "publishedAt": "2026-07-14T13:25:11.987Z",
       "source": "Geeknews"
     },
     {
-      "title": "gpt-5.6-sol이 PowerShell의 $HOME 변수 충돌로 사용자 홈 디렉터리를 날려버릴 뻔한 건에 대하여",
-      "url": "https://news.hada.io/topic?id=31390",
-      "publishedAt": "2026-07-13T04:26:23.936Z",
+      "title": "GeekNews로 어쩌다가 취업하기",
+      "url": "https://news.hada.io/topic?id=31434",
+      "publishedAt": "2026-07-14T09:25:11.988Z",
       "source": "Geeknews"
     },
     {
-      "title": "앤트로픽, 한국 무료 사용자에 1,660만 달러 '유령 청구서' 발송",
-      "url": "https://news.hada.io/topic?id=31388",
-      "publishedAt": "2026-07-13T02:26:23.937Z",
+      "title": "순서대로, 한 번만, 빠르게",
+      "url": "https://news.hada.io/topic?id=31433",
+      "publishedAt": "2026-07-14T08:25:11.989Z",
       "source": "Geeknews"
     },
     {
-      "title": "AgentsView - 여러 AI 코딩 에이전트의 세션 검색/분석/비용 추적 도구",
-      "url": "https://news.hada.io/topic?id=31370",
-      "publishedAt": "2026-07-13T00:26:23.937Z",
+      "title": "Papermake - Typst 기반의 셀프 호스팅 가능한 PDF 문서 생성 서버",
+      "url": "https://news.hada.io/topic?id=31432",
+      "publishedAt": "2026-07-14T07:25:11.989Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AR 글래스의 미래와 Even G2 AR 글래스 리뷰",
+      "url": "https://news.hada.io/topic?id=31419",
+      "publishedAt": "2026-07-14T00:25:11.989Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "GitFut - GitHub 통계를 월드컵 스타일 선수 카드로 변환",
+      "url": "https://news.hada.io/topic?id=31418",
+      "publishedAt": "2026-07-14T00:25:11.989Z",
       "source": "Geeknews"
     }
   ]
