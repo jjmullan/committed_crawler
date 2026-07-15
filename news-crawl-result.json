@@ -1,41 +1,17 @@
 {
-  "crawledAt": "2026-07-14T23:25:21.233Z",
-  "total": 6,
+  "crawledAt": "2026-07-15T23:28:17.437Z",
+  "total": 2,
   "articles": [
     {
-      "title": "FOSS for All, 국내 오픈소스 소액 지원 사업 시작",
-      "url": "https://news.hada.io/topic?id=31436",
-      "publishedAt": "2026-07-14T13:25:11.987Z",
+      "title": "Hexana - JetBrains의 WebAssembly 및 바이너리 분석 도구",
+      "url": "https://news.hada.io/topic?id=31445",
+      "publishedAt": "2026-07-15T00:28:07.806Z",
       "source": "Geeknews"
     },
     {
-      "title": "GeekNews로 어쩌다가 취업하기",
-      "url": "https://news.hada.io/topic?id=31434",
-      "publishedAt": "2026-07-14T09:25:11.988Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "순서대로, 한 번만, 빠르게",
-      "url": "https://news.hada.io/topic?id=31433",
-      "publishedAt": "2026-07-14T08:25:11.989Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Papermake - Typst 기반의 셀프 호스팅 가능한 PDF 문서 생성 서버",
-      "url": "https://news.hada.io/topic?id=31432",
-      "publishedAt": "2026-07-14T07:25:11.989Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AR 글래스의 미래와 Even G2 AR 글래스 리뷰",
-      "url": "https://news.hada.io/topic?id=31419",
-      "publishedAt": "2026-07-14T00:25:11.989Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "GitFut - GitHub 통계를 월드컵 스타일 선수 카드로 변환",
-      "url": "https://news.hada.io/topic?id=31418",
-      "publishedAt": "2026-07-14T00:25:11.989Z",
+      "title": "MS 깃허브 개인 액세스 토큰(PAT) 대량 유출…경찰 수사 착수",
+      "url": "https://news.hada.io/topic?id=31444",
+      "publishedAt": "2026-07-15T00:28:07.807Z",
       "source": "Geeknews"
     }
   ]
