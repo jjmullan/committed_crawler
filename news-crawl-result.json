@@ -1,17 +1,41 @@
 {
-  "crawledAt": "2026-07-15T23:28:17.437Z",
-  "total": 2,
+  "crawledAt": "2026-07-16T23:25:21.014Z",
+  "total": 6,
   "articles": [
     {
-      "title": "Hexana - JetBrains의 WebAssembly 및 바이너리 분석 도구",
-      "url": "https://news.hada.io/topic?id=31445",
-      "publishedAt": "2026-07-15T00:28:07.806Z",
+      "title": "+50% 다음 −50%는 본전이 아니다, 자산의 1/4이 사라진다",
+      "url": "https://news.hada.io/topic?id=31500",
+      "publishedAt": "2026-07-16T20:25:11.764Z",
       "source": "Geeknews"
     },
     {
-      "title": "MS 깃허브 개인 액세스 토큰(PAT) 대량 유출…경찰 수사 착수",
-      "url": "https://news.hada.io/topic?id=31444",
-      "publishedAt": "2026-07-15T00:28:07.807Z",
+      "title": "Hackney 라이딩 서비스 비교 앱",
+      "url": "https://news.hada.io/topic?id=31491",
+      "publishedAt": "2026-07-16T04:25:11.765Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "앤트로픽·블랙스톤, 15억 달러 규모 'AI 구현' 합작사 Ode 출범",
+      "url": "https://news.hada.io/topic?id=31490",
+      "publishedAt": "2026-07-16T04:25:11.765Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Databricks가 자체 코딩 AI 벤치마크를 만든 방법과 결과",
+      "url": "https://news.hada.io/topic?id=31489",
+      "publishedAt": "2026-07-16T03:25:11.766Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "「Machine Learning Study 혼자 해보기」",
+      "url": "https://news.hada.io/topic?id=31479",
+      "publishedAt": "2026-07-16T00:25:11.766Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "noisia - PostgreSQL용 유해한 워크로드 생성기",
+      "url": "https://news.hada.io/topic?id=31475",
+      "publishedAt": "2026-07-16T00:25:11.766Z",
       "source": "Geeknews"
     }
   ]
