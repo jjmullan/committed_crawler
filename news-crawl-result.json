@@ -1,41 +1,29 @@
 {
-  "crawledAt": "2026-07-16T23:25:21.014Z",
-  "total": 6,
+  "crawledAt": "2026-07-17T23:24:04.292Z",
+  "total": 4,
   "articles": [
     {
-      "title": "+50% 다음 −50%는 본전이 아니다, 자산의 1/4이 사라진다",
-      "url": "https://news.hada.io/topic?id=31500",
-      "publishedAt": "2026-07-16T20:25:11.764Z",
+      "title": "Ask GN: 혼자 만드는 개발 학습 서비스, 검증 중입니다 — 회의적인 의견일수록 환영",
+      "url": "https://news.hada.io/topic?id=31520",
+      "publishedAt": "2026-07-17T06:23:54.936Z",
       "source": "Geeknews"
     },
     {
-      "title": "Hackney 라이딩 서비스 비교 앱",
-      "url": "https://news.hada.io/topic?id=31491",
-      "publishedAt": "2026-07-16T04:25:11.765Z",
+      "title": "GPT-5.6 모델 선택 기준: 가격은 5배 차이, 코딩 성능은 4.1%p 차이",
+      "url": "https://news.hada.io/topic?id=31519",
+      "publishedAt": "2026-07-17T04:23:54.937Z",
       "source": "Geeknews"
     },
     {
-      "title": "앤트로픽·블랙스톤, 15억 달러 규모 'AI 구현' 합작사 Ode 출범",
-      "url": "https://news.hada.io/topic?id=31490",
-      "publishedAt": "2026-07-16T04:25:11.765Z",
+      "title": "Uber, 독일 딜리버리 히어로(배달의 민족 모회사) 약 22조원에 인수",
+      "url": "https://news.hada.io/topic?id=31517",
+      "publishedAt": "2026-07-17T02:23:54.938Z",
       "source": "Geeknews"
     },
     {
-      "title": "Databricks가 자체 코딩 AI 벤치마크를 만든 방법과 결과",
-      "url": "https://news.hada.io/topic?id=31489",
-      "publishedAt": "2026-07-16T03:25:11.766Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "「Machine Learning Study 혼자 해보기」",
-      "url": "https://news.hada.io/topic?id=31479",
-      "publishedAt": "2026-07-16T00:25:11.766Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "noisia - PostgreSQL용 유해한 워크로드 생성기",
-      "url": "https://news.hada.io/topic?id=31475",
-      "publishedAt": "2026-07-16T00:25:11.766Z",
+      "title": "LeafWiki – 서버와 DB없이 단일 바이너리로 실행하는 셀프 호스팅 위키",
+      "url": "https://news.hada.io/topic?id=31510",
+      "publishedAt": "2026-07-17T00:23:54.938Z",
       "source": "Geeknews"
     }
   ]
