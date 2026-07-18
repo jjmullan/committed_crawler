@@ -1,29 +1,29 @@
 {
-  "crawledAt": "2026-07-17T23:24:04.292Z",
+  "crawledAt": "2026-07-18T23:26:02.675Z",
   "total": 4,
   "articles": [
     {
-      "title": "Ask GN: 혼자 만드는 개발 학습 서비스, 검증 중입니다 — 회의적인 의견일수록 환영",
-      "url": "https://news.hada.io/topic?id=31520",
-      "publishedAt": "2026-07-17T06:23:54.936Z",
+      "title": "AI에게 투자 결정을 맡기면 안 되는 이유",
+      "url": "https://news.hada.io/topic?id=31562",
+      "publishedAt": "2026-07-18T21:25:52.903Z",
       "source": "Geeknews"
     },
     {
-      "title": "GPT-5.6 모델 선택 기준: 가격은 5배 차이, 코딩 성능은 4.1%p 차이",
-      "url": "https://news.hada.io/topic?id=31519",
-      "publishedAt": "2026-07-17T04:23:54.937Z",
+      "title": "개인의 AI, 개발자의 AI",
+      "url": "https://news.hada.io/topic?id=31553",
+      "publishedAt": "2026-07-18T14:25:52.904Z",
       "source": "Geeknews"
     },
     {
-      "title": "Uber, 독일 딜리버리 히어로(배달의 민족 모회사) 약 22조원에 인수",
-      "url": "https://news.hada.io/topic?id=31517",
-      "publishedAt": "2026-07-17T02:23:54.938Z",
+      "title": "Claude Fable 5, 7월 20일부터 Max/Team Premium 요금제에 기본 포함",
+      "url": "https://news.hada.io/topic?id=31545",
+      "publishedAt": "2026-07-18T06:25:52.905Z",
       "source": "Geeknews"
     },
     {
-      "title": "LeafWiki – 서버와 DB없이 단일 바이너리로 실행하는 셀프 호스팅 위키",
-      "url": "https://news.hada.io/topic?id=31510",
-      "publishedAt": "2026-07-17T00:23:54.938Z",
+      "title": "StackRender - 데이터베이스 스키마 설계 및 생성 도구",
+      "url": "https://news.hada.io/topic?id=31534",
+      "publishedAt": "2026-07-18T00:25:52.905Z",
       "source": "Geeknews"
     }
   ]
