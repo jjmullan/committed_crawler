@@ -1,41 +1,47 @@
 {
-  "crawledAt": "2026-07-20T02:57:40.083Z",
-  "total": 6,
+  "crawledAt": "2026-07-20T23:30:55.473Z",
+  "total": 7,
   "articles": [
+    {
+      "title": "왜 LangGraph 도입 후 코드가 더 복잡해졌나 — 실패에서 배운 기록",
+      "url": "https://news.hada.io/topic?id=31628",
+      "publishedAt": "2026-07-20T21:30:46.119Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 초기 서비스를 만든 분들은 실제 사용자들을 만나 어떻게 피드백을 받으시나요?",
+      "url": "https://news.hada.io/topic?id=31627",
+      "publishedAt": "2026-07-20T20:30:46.121Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Codex CLI의 Subagent 세션 로그가 수백 GB까지 증가해 디스크를 소진하는 문제",
+      "url": "https://news.hada.io/topic?id=31618",
+      "publishedAt": "2026-07-20T12:30:46.121Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "파일 공유로 인터넷을 재발명하기",
+      "url": "https://news.hada.io/topic?id=31615",
+      "publishedAt": "2026-07-20T07:30:46.122Z",
+      "source": "Geeknews"
+    },
     {
       "title": "말기 4기 췌장암의 마지막 두 달: 증상 변화와 가족 돌봄의 핵심",
       "url": "https://news.hada.io/topic?id=31595",
-      "publishedAt": "2026-07-20T00:57:30.772Z",
+      "publishedAt": "2026-07-20T00:30:46.122Z",
       "source": "Geeknews"
     },
     {
       "title": "OpenWiki - 코드베이스를 위한 에이전트용 문서를 작성하고 관리하는 CLI",
       "url": "https://news.hada.io/topic?id=31594",
-      "publishedAt": "2026-07-20T00:57:30.773Z",
+      "publishedAt": "2026-07-20T00:30:46.123Z",
       "source": "Geeknews"
     },
     {
       "title": "오픈소스 LLM vs 빅테크 LLM API: AI 사업의 비용과 리스크 정리",
       "url": "https://news.hada.io/topic?id=31593",
-      "publishedAt": "2026-07-19T23:57:30.774Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "당신이 안 보는 사이 프론트엔드에 무슨 일이 있었나",
-      "url": "https://news.hada.io/topic?id=31587",
-      "publishedAt": "2026-07-19T16:57:30.774Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "[팟캐스트] State of AI 2026 설문 결과 리뷰",
-      "url": "https://news.hada.io/topic?id=31585",
-      "publishedAt": "2026-07-19T13:57:30.774Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI 에이전트 여러 개를 한 레포에 풀어놨더니 생긴 일",
-      "url": "https://news.hada.io/topic?id=31579",
-      "publishedAt": "2026-07-19T06:57:30.774Z",
+      "publishedAt": "2026-07-20T00:30:46.123Z",
       "source": "Geeknews"
     }
   ]
