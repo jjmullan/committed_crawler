@@ -1,29 +1,41 @@
 {
-  "crawledAt": "2026-07-18T23:26:02.675Z",
-  "total": 4,
+  "crawledAt": "2026-07-20T02:57:40.083Z",
+  "total": 6,
   "articles": [
     {
-      "title": "AI에게 투자 결정을 맡기면 안 되는 이유",
-      "url": "https://news.hada.io/topic?id=31562",
-      "publishedAt": "2026-07-18T21:25:52.903Z",
+      "title": "말기 4기 췌장암의 마지막 두 달: 증상 변화와 가족 돌봄의 핵심",
+      "url": "https://news.hada.io/topic?id=31595",
+      "publishedAt": "2026-07-20T00:57:30.772Z",
       "source": "Geeknews"
     },
     {
-      "title": "개인의 AI, 개발자의 AI",
-      "url": "https://news.hada.io/topic?id=31553",
-      "publishedAt": "2026-07-18T14:25:52.904Z",
+      "title": "OpenWiki - 코드베이스를 위한 에이전트용 문서를 작성하고 관리하는 CLI",
+      "url": "https://news.hada.io/topic?id=31594",
+      "publishedAt": "2026-07-20T00:57:30.773Z",
       "source": "Geeknews"
     },
     {
-      "title": "Claude Fable 5, 7월 20일부터 Max/Team Premium 요금제에 기본 포함",
-      "url": "https://news.hada.io/topic?id=31545",
-      "publishedAt": "2026-07-18T06:25:52.905Z",
+      "title": "오픈소스 LLM vs 빅테크 LLM API: AI 사업의 비용과 리스크 정리",
+      "url": "https://news.hada.io/topic?id=31593",
+      "publishedAt": "2026-07-19T23:57:30.774Z",
       "source": "Geeknews"
     },
     {
-      "title": "StackRender - 데이터베이스 스키마 설계 및 생성 도구",
-      "url": "https://news.hada.io/topic?id=31534",
-      "publishedAt": "2026-07-18T00:25:52.905Z",
+      "title": "당신이 안 보는 사이 프론트엔드에 무슨 일이 있었나",
+      "url": "https://news.hada.io/topic?id=31587",
+      "publishedAt": "2026-07-19T16:57:30.774Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "[팟캐스트] State of AI 2026 설문 결과 리뷰",
+      "url": "https://news.hada.io/topic?id=31585",
+      "publishedAt": "2026-07-19T13:57:30.774Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 에이전트 여러 개를 한 레포에 풀어놨더니 생긴 일",
+      "url": "https://news.hada.io/topic?id=31579",
+      "publishedAt": "2026-07-19T06:57:30.774Z",
       "source": "Geeknews"
     }
   ]
