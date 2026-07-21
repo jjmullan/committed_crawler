@@ -1,47 +1,35 @@
 {
-  "crawledAt": "2026-07-20T23:30:55.473Z",
-  "total": 7,
+  "crawledAt": "2026-07-21T23:28:44.657Z",
+  "total": 5,
   "articles": [
     {
-      "title": "왜 LangGraph 도입 후 코드가 더 복잡해졌나 — 실패에서 배운 기록",
-      "url": "https://news.hada.io/topic?id=31628",
-      "publishedAt": "2026-07-20T21:30:46.119Z",
+      "title": "설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on",
+      "url": "https://news.hada.io/topic?id=31673",
+      "publishedAt": "2026-07-21T23:01:35.216Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 초기 서비스를 만든 분들은 실제 사용자들을 만나 어떻게 피드백을 받으시나요?",
-      "url": "https://news.hada.io/topic?id=31627",
-      "publishedAt": "2026-07-20T20:30:46.121Z",
+      "title": "구글 제미나이 새 모델(3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber) 출시",
+      "url": "https://news.hada.io/topic?id=31662",
+      "publishedAt": "2026-07-21T17:28:35.217Z",
       "source": "Geeknews"
     },
     {
-      "title": "Codex CLI의 Subagent 세션 로그가 수백 GB까지 증가해 디스크를 소진하는 문제",
-      "url": "https://news.hada.io/topic?id=31618",
-      "publishedAt": "2026-07-20T12:30:46.121Z",
+      "title": "美 연방법원, 앤트로픽 15억 달러 저작권 합의 최종 승인",
+      "url": "https://news.hada.io/topic?id=31651",
+      "publishedAt": "2026-07-21T04:28:35.218Z",
       "source": "Geeknews"
     },
     {
-      "title": "파일 공유로 인터넷을 재발명하기",
-      "url": "https://news.hada.io/topic?id=31615",
-      "publishedAt": "2026-07-20T07:30:46.122Z",
+      "title": "Apple Maps 군시설 노출과 정보보안",
+      "url": "https://news.hada.io/topic?id=31649",
+      "publishedAt": "2026-07-21T03:28:35.218Z",
       "source": "Geeknews"
     },
     {
-      "title": "말기 4기 췌장암의 마지막 두 달: 증상 변화와 가족 돌봄의 핵심",
-      "url": "https://news.hada.io/topic?id=31595",
-      "publishedAt": "2026-07-20T00:30:46.122Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenWiki - 코드베이스를 위한 에이전트용 문서를 작성하고 관리하는 CLI",
-      "url": "https://news.hada.io/topic?id=31594",
-      "publishedAt": "2026-07-20T00:30:46.123Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "오픈소스 LLM vs 빅테크 LLM API: AI 사업의 비용과 리스크 정리",
-      "url": "https://news.hada.io/topic?id=31593",
-      "publishedAt": "2026-07-20T00:30:46.123Z",
+      "title": "monitor-input-rs - DDC/CI로 모니터 입력 소스를 바꾸는 커맨드라인 도구",
+      "url": "https://news.hada.io/topic?id=31632",
+      "publishedAt": "2026-07-21T00:28:35.218Z",
       "source": "Geeknews"
     }
   ]
