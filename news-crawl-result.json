@@ -1,35 +1,23 @@
 {
-  "crawledAt": "2026-07-22T23:30:05.672Z",
-  "total": 5,
+  "crawledAt": "2026-07-23T23:27:59.635Z",
+  "total": 3,
   "articles": [
     {
-      "title": "재배포했더니 이미 보낸 푸시가 또 갔다 — FCM 알림 중복 발송 잡기",
-      "url": "https://news.hada.io/topic?id=31694",
-      "publishedAt": "2026-07-22T08:29:56.010Z",
+      "title": "Ask GN: 구글 크롬 확장 프로그램 개인적으로 만들어서 쓰고 계신것 있으신가요?",
+      "url": "https://news.hada.io/topic?id=31727",
+      "publishedAt": "2026-07-23T07:27:49.952Z",
       "source": "Geeknews"
     },
     {
-      "title": "Knowledge Factory - 하니스 엔지니어링을 지식 생산에 적용하기",
-      "url": "https://news.hada.io/topic?id=31691",
-      "publishedAt": "2026-07-22T07:29:56.011Z",
+      "title": "45권의 기술 서적에서 얻은 핵심 인사이트",
+      "url": "https://news.hada.io/topic?id=31718",
+      "publishedAt": "2026-07-23T01:27:49.953Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenMMO - AI Agent와 인간 플레이어가 동등하게 대우받는 MMORPG",
-      "url": "https://news.hada.io/topic?id=31687",
-      "publishedAt": "2026-07-22T05:29:56.011Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI 코딩 세션의 휘발성 맥락을 프로젝트 기억으로 남기기 — rhwp 적용 사례",
-      "url": "https://news.hada.io/topic?id=31684",
-      "publishedAt": "2026-07-22T01:29:56.011Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Malloy - 데이터 관계/변환/모델링을 위한 모던 오픈소스 언어",
-      "url": "https://news.hada.io/topic?id=31679",
-      "publishedAt": "2026-07-22T00:29:56.011Z",
+      "title": "OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이",
+      "url": "https://news.hada.io/topic?id=31710",
+      "publishedAt": "2026-07-23T00:27:49.954Z",
       "source": "Geeknews"
     }
   ]
