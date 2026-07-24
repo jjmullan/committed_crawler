@@ -1,23 +1,35 @@
 {
-  "crawledAt": "2026-07-23T23:27:59.635Z",
-  "total": 3,
+  "crawledAt": "2026-07-24T23:32:23.466Z",
+  "total": 5,
   "articles": [
     {
-      "title": "Ask GN: 구글 크롬 확장 프로그램 개인적으로 만들어서 쓰고 계신것 있으신가요?",
-      "url": "https://news.hada.io/topic?id=31727",
-      "publishedAt": "2026-07-23T07:27:49.952Z",
+      "title": "Anthropic Opus 5 출시",
+      "url": "https://news.hada.io/topic?id=31783",
+      "publishedAt": "2026-07-24T22:49:14.088Z",
       "source": "Geeknews"
     },
     {
-      "title": "45권의 기술 서적에서 얻은 핵심 인사이트",
-      "url": "https://news.hada.io/topic?id=31718",
-      "publishedAt": "2026-07-23T01:27:49.953Z",
+      "title": "창업가가 반드시 집중해야 하는 4가지 역량",
+      "url": "https://news.hada.io/topic?id=31762",
+      "publishedAt": "2026-07-24T04:32:14.089Z",
       "source": "Geeknews"
     },
     {
-      "title": "OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이",
-      "url": "https://news.hada.io/topic?id=31710",
-      "publishedAt": "2026-07-23T00:27:49.954Z",
+      "title": "ChatGPT Voice 가 데스크톱 앱에도 도입됨",
+      "url": "https://news.hada.io/topic?id=31761",
+      "publishedAt": "2026-07-24T04:32:14.089Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "omp - Pi를 IDE 수준으로 확장한 터미널 AI 코딩 에이전트",
+      "url": "https://news.hada.io/topic?id=31744",
+      "publishedAt": "2026-07-24T00:32:14.090Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "graphify - 코드베이스를 질의 가능한 지식 그래프로 바꾸는 도구",
+      "url": "https://news.hada.io/topic?id=31743",
+      "publishedAt": "2026-07-24T00:32:14.090Z",
       "source": "Geeknews"
     }
   ]
