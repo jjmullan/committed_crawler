@@ -1,35 +1,11 @@
 {
-  "crawledAt": "2026-07-24T23:32:23.466Z",
-  "total": 5,
+  "crawledAt": "2026-07-25T23:30:29.726Z",
+  "total": 1,
   "articles": [
     {
-      "title": "Anthropic Opus 5 출시",
-      "url": "https://news.hada.io/topic?id=31783",
-      "publishedAt": "2026-07-24T22:49:14.088Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "창업가가 반드시 집중해야 하는 4가지 역량",
-      "url": "https://news.hada.io/topic?id=31762",
-      "publishedAt": "2026-07-24T04:32:14.089Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "ChatGPT Voice 가 데스크톱 앱에도 도입됨",
-      "url": "https://news.hada.io/topic?id=31761",
-      "publishedAt": "2026-07-24T04:32:14.089Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "omp - Pi를 IDE 수준으로 확장한 터미널 AI 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=31744",
-      "publishedAt": "2026-07-24T00:32:14.090Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "graphify - 코드베이스를 질의 가능한 지식 그래프로 바꾸는 도구",
-      "url": "https://news.hada.io/topic?id=31743",
-      "publishedAt": "2026-07-24T00:32:14.090Z",
+      "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
+      "url": "https://news.hada.io/topic?id=31799",
+      "publishedAt": "2026-07-25T00:30:20.380Z",
       "source": "Geeknews"
     }
   ]
