@@ -1,11 +1,23 @@
 {
-  "crawledAt": "2026-07-25T23:30:29.726Z",
-  "total": 1,
+  "crawledAt": "2026-07-26T23:28:49.918Z",
+  "total": 3,
   "articles": [
     {
-      "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
-      "url": "https://news.hada.io/topic?id=31799",
-      "publishedAt": "2026-07-25T00:30:20.380Z",
+      "title": "재능이라는 허상",
+      "url": "https://news.hada.io/topic?id=31828",
+      "publishedAt": "2026-07-26T12:28:40.265Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "젠슨황의 Open Weights and American AI Leadership에 담긴 의미",
+      "url": "https://news.hada.io/topic?id=31824",
+      "publishedAt": "2026-07-26T07:28:40.266Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "neko-master - 네트워크 트래픽 시각화 및 분석용 대시보드",
+      "url": "https://news.hada.io/topic?id=31816",
+      "publishedAt": "2026-07-26T00:28:40.267Z",
       "source": "Geeknews"
     }
   ]
