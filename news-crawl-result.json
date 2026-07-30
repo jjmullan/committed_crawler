@@ -1,35 +1,29 @@
 {
-  "crawledAt": "2026-07-29T23:30:25.879Z",
-  "total": 5,
+  "crawledAt": "2026-07-30T23:33:32.217Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Ask GN: MCP 도구를 여러 개 붙여 에이전트를 운영하시는 분들 중 중복 실행 겪어보신분 계실까요?",
-      "url": "https://news.hada.io/topic?id=31946",
-      "publishedAt": "2026-07-29T07:30:16.377Z",
+      "title": "GitHub의 PR 개수 제한, 실제 큐에서는 2~13%만 막는다",
+      "url": "https://news.hada.io/topic?id=31986",
+      "publishedAt": "2026-07-30T11:33:22.782Z",
       "source": "Geeknews"
     },
     {
-      "title": "웹서비스 개발 시 고려해야 법률 및 아키텍처 가이드",
-      "url": "https://news.hada.io/topic?id=31945",
-      "publishedAt": "2026-07-29T07:30:16.378Z",
+      "title": "OpenAI 자율주행 AI 모델, 내부 보안 평가 중 Hugging Face 등 5개 플랫폼 침해",
+      "url": "https://news.hada.io/topic?id=31982",
+      "publishedAt": "2026-07-30T06:33:22.783Z",
       "source": "Geeknews"
     },
     {
-      "title": "송재경, AI와 게임",
-      "url": "https://news.hada.io/topic?id=31940",
-      "publishedAt": "2026-07-29T04:30:16.378Z",
+      "title": "매출 18%, 이익 57%… 아마존의 본체는 AWS다",
+      "url": "https://news.hada.io/topic?id=31976",
+      "publishedAt": "2026-07-30T04:33:22.783Z",
       "source": "Geeknews"
     },
     {
-      "title": "오픈 소스 c++라이브러리 목록",
-      "url": "https://news.hada.io/topic?id=31933",
-      "publishedAt": "2026-07-29T00:30:16.378Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Openship - 내장 CI/CD를 갖춘 셀프 호스팅 배포 플랫폼",
-      "url": "https://news.hada.io/topic?id=31930",
-      "publishedAt": "2026-07-29T00:30:16.379Z",
+      "title": "satteri - JavaScript 생태계를 위한 고성능 Markdown 및 MDX 처리기",
+      "url": "https://news.hada.io/topic?id=31967",
+      "publishedAt": "2026-07-30T00:33:22.783Z",
       "source": "Geeknews"
     }
   ]
