@@ -1,29 +1,29 @@
 {
-  "crawledAt": "2026-07-30T23:33:32.217Z",
+  "crawledAt": "2026-07-31T23:29:59.440Z",
   "total": 4,
   "articles": [
     {
-      "title": "GitHub의 PR 개수 제한, 실제 큐에서는 2~13%만 막는다",
-      "url": "https://news.hada.io/topic?id=31986",
-      "publishedAt": "2026-07-30T11:33:22.782Z",
+      "title": "미첼 하시모토 Superlogical 설립",
+      "url": "https://news.hada.io/topic?id=32011",
+      "publishedAt": "2026-07-31T04:29:49.825Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenAI 자율주행 AI 모델, 내부 보안 평가 중 Hugging Face 등 5개 플랫폼 침해",
-      "url": "https://news.hada.io/topic?id=31982",
-      "publishedAt": "2026-07-30T06:33:22.783Z",
+      "title": "GenRec: Netflix에서의 LLM-native 추천을 향하여",
+      "url": "https://news.hada.io/topic?id=32010",
+      "publishedAt": "2026-07-31T03:29:49.826Z",
       "source": "Geeknews"
     },
     {
-      "title": "매출 18%, 이익 57%… 아마존의 본체는 AWS다",
-      "url": "https://news.hada.io/topic?id=31976",
-      "publishedAt": "2026-07-30T04:33:22.783Z",
+      "title": "90일 동안 2만명 이상의 구독자 증가를 만든 방법",
+      "url": "https://news.hada.io/topic?id=32009",
+      "publishedAt": "2026-07-31T02:29:49.826Z",
       "source": "Geeknews"
     },
     {
-      "title": "satteri - JavaScript 생태계를 위한 고성능 Markdown 및 MDX 처리기",
-      "url": "https://news.hada.io/topic?id=31967",
-      "publishedAt": "2026-07-30T00:33:22.783Z",
+      "title": "termcn - Ink와 OpenTUI 기반의 아름다운 터미널 UI 컴포넌트",
+      "url": "https://news.hada.io/topic?id=32005",
+      "publishedAt": "2026-07-31T00:29:49.827Z",
       "source": "Geeknews"
     }
   ]
