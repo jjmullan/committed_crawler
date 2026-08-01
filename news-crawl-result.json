@@ -1,29 +1,17 @@
 {
-  "crawledAt": "2026-07-31T23:29:59.440Z",
-  "total": 4,
+  "crawledAt": "2026-08-01T23:28:50.298Z",
+  "total": 2,
   "articles": [
     {
-      "title": "미첼 하시모토 Superlogical 설립",
-      "url": "https://news.hada.io/topic?id=32011",
-      "publishedAt": "2026-07-31T04:29:49.825Z",
+      "title": "서버실의 불이 꺼지는 순간",
+      "url": "https://news.hada.io/topic?id=32037",
+      "publishedAt": "2026-08-01T15:28:40.842Z",
       "source": "Geeknews"
     },
     {
-      "title": "GenRec: Netflix에서의 LLM-native 추천을 향하여",
-      "url": "https://news.hada.io/topic?id=32010",
-      "publishedAt": "2026-07-31T03:29:49.826Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "90일 동안 2만명 이상의 구독자 증가를 만든 방법",
-      "url": "https://news.hada.io/topic?id=32009",
-      "publishedAt": "2026-07-31T02:29:49.826Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "termcn - Ink와 OpenTUI 기반의 아름다운 터미널 UI 컴포넌트",
-      "url": "https://news.hada.io/topic?id=32005",
-      "publishedAt": "2026-07-31T00:29:49.827Z",
+      "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
+      "url": "https://news.hada.io/topic?id=32028",
+      "publishedAt": "2026-08-01T00:28:40.843Z",
       "source": "Geeknews"
     }
   ]
