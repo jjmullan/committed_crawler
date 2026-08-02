@@ -1,17 +1,29 @@
 {
-  "crawledAt": "2026-08-01T23:28:50.298Z",
-  "total": 2,
+  "crawledAt": "2026-08-02T23:29:27.389Z",
+  "total": 4,
   "articles": [
     {
-      "title": "서버실의 불이 꺼지는 순간",
-      "url": "https://news.hada.io/topic?id=32037",
-      "publishedAt": "2026-08-01T15:28:40.842Z",
+      "title": "Mac GPU(MPS) 한 줄로 3.5배, Local LLM 파이프라인을 8분에서 4분으로",
+      "url": "https://news.hada.io/topic?id=32071",
+      "publishedAt": "2026-08-02T22:58:17.771Z",
       "source": "Geeknews"
     },
     {
-      "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
-      "url": "https://news.hada.io/topic?id=32028",
-      "publishedAt": "2026-08-01T00:28:40.843Z",
+      "title": "RSS보다 Atom이 실질적으로 더 나은 이유",
+      "url": "https://news.hada.io/topic?id=32057",
+      "publishedAt": "2026-08-02T08:29:17.772Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "바이브코딩 국민스택 Next.js + Supabase에 대한 오해",
+      "url": "https://news.hada.io/topic?id=32053",
+      "publishedAt": "2026-08-02T05:29:17.772Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Lexxy - Rails를 위한 현대적인 리치 텍스트 에디터",
+      "url": "https://news.hada.io/topic?id=32047",
+      "publishedAt": "2026-08-02T00:29:17.772Z",
       "source": "Geeknews"
     }
   ]
