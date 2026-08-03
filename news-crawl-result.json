@@ -1,29 +1,23 @@
 {
-  "crawledAt": "2026-08-02T23:29:27.389Z",
-  "total": 4,
+  "crawledAt": "2026-08-03T23:35:57.417Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Mac GPU(MPS) 한 줄로 3.5배, Local LLM 파이프라인을 8분에서 4분으로",
-      "url": "https://news.hada.io/topic?id=32071",
-      "publishedAt": "2026-08-02T22:58:17.771Z",
+      "title": "Claude Code에 연결할 만한 MCP 서버 추천 정리 (한국어)",
+      "url": "https://news.hada.io/topic?id=32102",
+      "publishedAt": "2026-08-03T11:35:47.841Z",
       "source": "Geeknews"
     },
     {
-      "title": "RSS보다 Atom이 실질적으로 더 나은 이유",
-      "url": "https://news.hada.io/topic?id=32057",
-      "publishedAt": "2026-08-02T08:29:17.772Z",
+      "title": "웹앱과 AI",
+      "url": "https://news.hada.io/topic?id=32084",
+      "publishedAt": "2026-08-03T02:35:47.843Z",
       "source": "Geeknews"
     },
     {
-      "title": "바이브코딩 국민스택 Next.js + Supabase에 대한 오해",
-      "url": "https://news.hada.io/topic?id=32053",
-      "publishedAt": "2026-08-02T05:29:17.772Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Lexxy - Rails를 위한 현대적인 리치 텍스트 에디터",
-      "url": "https://news.hada.io/topic?id=32047",
-      "publishedAt": "2026-08-02T00:29:17.772Z",
+      "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
+      "url": "https://news.hada.io/topic?id=32078",
+      "publishedAt": "2026-08-03T00:35:47.843Z",
       "source": "Geeknews"
     }
   ]
