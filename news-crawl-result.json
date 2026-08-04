@@ -1,23 +1,29 @@
 {
-  "crawledAt": "2026-08-03T23:35:57.417Z",
-  "total": 3,
+  "crawledAt": "2026-08-04T23:33:29.067Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Claude Code에 연결할 만한 MCP 서버 추천 정리 (한국어)",
-      "url": "https://news.hada.io/topic?id=32102",
-      "publishedAt": "2026-08-03T11:35:47.841Z",
+      "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
+      "url": "https://news.hada.io/topic?id=32128",
+      "publishedAt": "2026-08-04T01:33:19.476Z",
       "source": "Geeknews"
     },
     {
-      "title": "웹앱과 AI",
-      "url": "https://news.hada.io/topic?id=32084",
-      "publishedAt": "2026-08-03T02:35:47.843Z",
+      "title": "크래프톤, 21B 한영 이중언어 음성 AI 모델 'A.X K2 Raon-Speech' 공개",
+      "url": "https://news.hada.io/topic?id=32125",
+      "publishedAt": "2026-08-04T00:33:19.477Z",
       "source": "Geeknews"
     },
     {
-      "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
-      "url": "https://news.hada.io/topic?id=32078",
-      "publishedAt": "2026-08-03T00:35:47.843Z",
+      "title": "카카오, '카나나-2'의 경량 모델 4종 오픈소스로 공개",
+      "url": "https://news.hada.io/topic?id=32124",
+      "publishedAt": "2026-08-04T00:33:19.477Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "LobeHub - AI 팀 전체를 고용/스케줄링/보고하는 Chief Agent Operator",
+      "url": "https://news.hada.io/topic?id=32123",
+      "publishedAt": "2026-08-04T00:33:19.477Z",
       "source": "Geeknews"
     }
   ]
