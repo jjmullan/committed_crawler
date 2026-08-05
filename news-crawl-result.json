@@ -1,29 +1,23 @@
 {
-  "crawledAt": "2026-08-04T23:33:29.067Z",
-  "total": 4,
+  "crawledAt": "2026-08-05T23:29:43.207Z",
+  "total": 3,
   "articles": [
     {
-      "title": "구글 서치 콘솔, X/인스타그램/틱톡/유튜브를 통한 유입 트래픽도 지원 시작",
-      "url": "https://news.hada.io/topic?id=32128",
-      "publishedAt": "2026-08-04T01:33:19.476Z",
+      "title": "Retrieval as Reasoning - LLM Wiki가 RAG보다 나은 이유에 대한 실증 벤치마크",
+      "url": "https://news.hada.io/topic?id=32164",
+      "publishedAt": "2026-08-05T02:29:33.529Z",
       "source": "Geeknews"
     },
     {
-      "title": "크래프톤, 21B 한영 이중언어 음성 AI 모델 'A.X K2 Raon-Speech' 공개",
-      "url": "https://news.hada.io/topic?id=32125",
-      "publishedAt": "2026-08-04T00:33:19.477Z",
+      "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
+      "url": "https://news.hada.io/topic?id=32161",
+      "publishedAt": "2026-08-05T01:29:33.529Z",
       "source": "Geeknews"
     },
     {
-      "title": "카카오, '카나나-2'의 경량 모델 4종 오픈소스로 공개",
-      "url": "https://news.hada.io/topic?id=32124",
-      "publishedAt": "2026-08-04T00:33:19.477Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "LobeHub - AI 팀 전체를 고용/스케줄링/보고하는 Chief Agent Operator",
-      "url": "https://news.hada.io/topic?id=32123",
-      "publishedAt": "2026-08-04T00:33:19.477Z",
+      "title": "kubara - 모범 사례 기반으로 Kubernetes 플랫폼을 부트스트랩하는 CLI",
+      "url": "https://news.hada.io/topic?id=32157",
+      "publishedAt": "2026-08-05T00:29:33.530Z",
       "source": "Geeknews"
     }
   ]
