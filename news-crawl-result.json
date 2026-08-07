@@ -1,23 +1,29 @@
 {
-  "crawledAt": "2026-08-05T23:29:43.207Z",
-  "total": 3,
+  "crawledAt": "2026-08-07T01:37:22.620Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Retrieval as Reasoning - LLM Wiki가 RAG보다 나은 이유에 대한 실증 벤치마크",
-      "url": "https://news.hada.io/topic?id=32164",
-      "publishedAt": "2026-08-05T02:29:33.529Z",
+      "title": "Shitty - 이상한 이름이지만 진지한 터미널 에뮬레이터",
+      "url": "https://news.hada.io/topic?id=32222",
+      "publishedAt": "2026-08-07T00:37:13.304Z",
       "source": "Geeknews"
     },
     {
-      "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
-      "url": "https://news.hada.io/topic?id=32161",
-      "publishedAt": "2026-08-05T01:29:33.529Z",
+      "title": "GitHub Actions 및 Pages 대규모 장애 발생",
+      "url": "https://news.hada.io/topic?id=32215",
+      "publishedAt": "2026-08-06T22:37:13.305Z",
       "source": "Geeknews"
     },
     {
-      "title": "kubara - 모범 사례 기반으로 Kubernetes 플랫폼을 부트스트랩하는 CLI",
-      "url": "https://news.hada.io/topic?id=32157",
-      "publishedAt": "2026-08-05T00:29:33.530Z",
+      "title": "MCP 서버를 배포해도 툴 설명은 갱신되지 않는다",
+      "url": "https://news.hada.io/topic?id=32203",
+      "publishedAt": "2026-08-06T11:37:13.305Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "DuckDuckGo의 \"스마트\" 글래스: Normal F***ing Sunglasses",
+      "url": "https://news.hada.io/topic?id=32198",
+      "publishedAt": "2026-08-06T02:37:13.306Z",
       "source": "Geeknews"
     }
   ]
