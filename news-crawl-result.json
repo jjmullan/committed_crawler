@@ -1,35 +1,23 @@
 {
-  "crawledAt": "2026-08-07T23:06:25.331Z",
-  "total": 5,
+  "crawledAt": "2026-08-08T22:58:02.423Z",
+  "total": 3,
   "articles": [
     {
-      "title": "SEO 버리고 답변 엔진 최적화 구축한 이유",
-      "url": "https://news.hada.io/topic?id=32233",
-      "publishedAt": "2026-08-07T09:06:15.717Z",
+      "title": "AI 시험지는 함정이 9할이다 - LLM 테스트 케이스 설계법",
+      "url": "https://news.hada.io/topic?id=32270",
+      "publishedAt": "2026-08-08T14:57:53.043Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI한테 시험을 냈는데 출제자가 5번 틀렸다 - LLM 파이프라인 검증기",
-      "url": "https://news.hada.io/topic?id=32231",
-      "publishedAt": "2026-08-07T06:06:15.718Z",
+      "title": "Paseo - 여러 코딩 에이전트를 데스크톱/모바일에서 관리하는 오케스트레이터",
+      "url": "https://news.hada.io/topic?id=32254",
+      "publishedAt": "2026-08-08T00:57:53.044Z",
       "source": "Geeknews"
     },
     {
-      "title": "zot – 단일 Go 바이너리부터 HA 클러스터까지 확장 가능한 가벼운 OCI Registry",
-      "url": "https://news.hada.io/topic?id=32230",
-      "publishedAt": "2026-08-07T06:06:15.718Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OCI Always Free: Ampere A1 Compute 할당량 변경 안내",
-      "url": "https://news.hada.io/topic?id=32228",
-      "publishedAt": "2026-08-07T04:06:15.719Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Shitty - 이상한 이름이지만 진지한 터미널 에뮬레이터",
-      "url": "https://news.hada.io/topic?id=32222",
-      "publishedAt": "2026-08-07T00:06:15.719Z",
+      "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
+      "url": "https://news.hada.io/topic?id=32253",
+      "publishedAt": "2026-08-07T23:57:53.044Z",
       "source": "Geeknews"
     }
   ]
