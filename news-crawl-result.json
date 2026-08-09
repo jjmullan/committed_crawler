@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-08-08T22:58:02.423Z",
-  "total": 3,
+  "crawledAt": "2026-08-09T23:00:25.146Z",
+  "total": 2,
   "articles": [
     {
-      "title": "AI 시험지는 함정이 9할이다 - LLM 테스트 케이스 설계법",
-      "url": "https://news.hada.io/topic?id=32270",
-      "publishedAt": "2026-08-08T14:57:53.043Z",
+      "title": "버그를 고쳤더니 이번엔 테스트 결과가 어긋났다 — 자동매매 3년 운영기",
+      "url": "https://news.hada.io/topic?id=32288",
+      "publishedAt": "2026-08-09T08:00:15.880Z",
       "source": "Geeknews"
     },
     {
-      "title": "Paseo - 여러 코딩 에이전트를 데스크톱/모바일에서 관리하는 오케스트레이터",
-      "url": "https://news.hada.io/topic?id=32254",
-      "publishedAt": "2026-08-08T00:57:53.044Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
-      "url": "https://news.hada.io/topic?id=32253",
-      "publishedAt": "2026-08-07T23:57:53.044Z",
+      "title": "goshot - 코드 스크린샷 생성기",
+      "url": "https://news.hada.io/topic?id=32282",
+      "publishedAt": "2026-08-09T01:00:15.881Z",
       "source": "Geeknews"
     }
   ]
