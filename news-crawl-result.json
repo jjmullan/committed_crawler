@@ -1,18 +1,36 @@
 {
-  "crawledAt": "2026-08-09T23:00:25.146Z",
-  "total": 2,
+  "crawledAt": "2026-08-10T23:06:19.830Z",
+  "total": 5,
   "articles": [
     {
-      "title": "버그를 고쳤더니 이번엔 테스트 결과가 어긋났다 — 자동매매 3년 운영기",
-      "url": "https://news.hada.io/topic?id=32288",
-      "publishedAt": "2026-08-09T08:00:15.880Z",
+      "title": "모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년",
+      "url": "https://news.hada.io/topic?id=32347",
+      "publishedAt": "2026-08-10T08:06:10.243Z",
       "source": "Geeknews"
     },
     {
-      "title": "goshot - 코드 스크린샷 생성기",
-      "url": "https://news.hada.io/topic?id=32282",
-      "publishedAt": "2026-08-09T01:00:15.881Z",
+      "title": "Ask GN: Fable 5가 걍 반쪽짜리 뇌임",
+      "url": "https://news.hada.io/topic?id=32346",
+      "publishedAt": "2026-08-10T08:06:10.244Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "hallmark - AI 티가 안나는 디자인 스킬",
+      "url": "https://news.hada.io/topic?id=32321",
+      "publishedAt": "2026-08-10T01:06:10.245Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Chat2DB - AI 기반 데이터베이스 클라이언트 & SQL 워크스페이스",
+      "url": "https://news.hada.io/topic?id=32318",
+      "publishedAt": "2026-08-10T00:06:10.245Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "토스 Frontend Platform Engineer가 궁금하다면?",
+      "url": "https://toss.tech/article/52209",
+      "publishedAt": "2026-08-10T11:40:00+09:00",
+      "source": "토스 테크"
     }
   ]
 }
