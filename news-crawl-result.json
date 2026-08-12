@@ -1,35 +1,29 @@
 {
-  "crawledAt": "2026-08-11T23:12:39.754Z",
-  "total": 5,
+  "crawledAt": "2026-08-12T23:11:08.725Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Solar Pro 4 - 에이전트 작업 특화 LLM",
-      "url": "https://news.hada.io/topic?id=32408",
-      "publishedAt": "2026-08-11T14:12:30.470Z",
+      "title": "Grok 4.6 공개, 파라미터 확장 대신 사후학습에 투자한 모델",
+      "url": "https://news.hada.io/topic?id=32438",
+      "publishedAt": "2026-08-12T16:10:59.263Z",
       "source": "Geeknews"
     },
     {
-      "title": "기술 블로그 69편을 AI 에이전트가 검색하도록 읽기 전용 MCP 서버로 공개한 과정",
-      "url": "https://news.hada.io/topic?id=32404",
-      "publishedAt": "2026-08-11T13:12:30.471Z",
+      "title": "HOP - HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱",
+      "url": "https://news.hada.io/topic?id=32428",
+      "publishedAt": "2026-08-12T06:10:59.264Z",
       "source": "Geeknews"
     },
     {
-      "title": "좌석 기반 요금제 버리고 사용량 기반 메터링 구축한 이유",
-      "url": "https://news.hada.io/topic?id=32399",
-      "publishedAt": "2026-08-11T09:12:30.472Z",
+      "title": "LLM Evals에 대해 알아야 할 모든 것",
+      "url": "https://news.hada.io/topic?id=32421",
+      "publishedAt": "2026-08-12T00:10:59.264Z",
       "source": "Geeknews"
     },
     {
-      "title": "LLM은 PCB 배선을 어디까지 할 수 있을까? 숙련자와 Net 단위로 비교해봤습니다",
-      "url": "https://news.hada.io/topic?id=32395",
-      "publishedAt": "2026-08-11T08:12:30.472Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Instatic - Webflow, Framer, WordPress를 대체하는 오픈소스 셀프호스팅 비주얼 CMS",
-      "url": "https://news.hada.io/topic?id=32372",
-      "publishedAt": "2026-08-11T00:12:30.473Z",
+      "title": "Xirp - Spotify가 만든 조직 컨텍스트 기반 AI 코딩 환경",
+      "url": "https://news.hada.io/topic?id=32420",
+      "publishedAt": "2026-08-12T00:10:59.264Z",
       "source": "Geeknews"
     }
   ]
