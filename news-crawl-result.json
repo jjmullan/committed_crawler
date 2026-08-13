@@ -1,29 +1,29 @@
 {
-  "crawledAt": "2026-08-12T23:11:08.725Z",
+  "crawledAt": "2026-08-13T23:11:53.182Z",
   "total": 4,
   "articles": [
     {
-      "title": "Grok 4.6 공개, 파라미터 확장 대신 사후학습에 투자한 모델",
-      "url": "https://news.hada.io/topic?id=32438",
-      "publishedAt": "2026-08-12T16:10:59.263Z",
+      "title": "Unsloth, Qwen3.8 2.4T를 397GB로 줄여 로컬 실행 지원",
+      "url": "https://news.hada.io/topic?id=32456",
+      "publishedAt": "2026-08-13T03:11:43.543Z",
       "source": "Geeknews"
     },
     {
-      "title": "HOP - HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱",
-      "url": "https://news.hada.io/topic?id=32428",
-      "publishedAt": "2026-08-12T06:10:59.264Z",
+      "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
+      "url": "https://news.hada.io/topic?id=32455",
+      "publishedAt": "2026-08-13T01:11:43.544Z",
       "source": "Geeknews"
     },
     {
-      "title": "LLM Evals에 대해 알아야 할 모든 것",
-      "url": "https://news.hada.io/topic?id=32421",
-      "publishedAt": "2026-08-12T00:10:59.264Z",
+      "title": "xberg - 다국어 문서 인텔리전스 프레임워크",
+      "url": "https://news.hada.io/topic?id=32452",
+      "publishedAt": "2026-08-13T00:11:43.544Z",
       "source": "Geeknews"
     },
     {
-      "title": "Xirp - Spotify가 만든 조직 컨텍스트 기반 AI 코딩 환경",
-      "url": "https://news.hada.io/topic?id=32420",
-      "publishedAt": "2026-08-12T00:10:59.264Z",
+      "title": "Linux용 Codex앱, 프리뷰 제공 시작",
+      "url": "https://news.hada.io/topic?id=32450",
+      "publishedAt": "2026-08-13T00:11:43.545Z",
       "source": "Geeknews"
     }
   ]
