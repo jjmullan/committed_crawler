@@ -1,29 +1,41 @@
 {
-  "crawledAt": "2026-08-13T23:11:53.182Z",
-  "total": 4,
+  "crawledAt": "2026-08-14T22:49:56.348Z",
+  "total": 6,
   "articles": [
     {
-      "title": "Unsloth, Qwen3.8 2.4T를 397GB로 줄여 로컬 실행 지원",
-      "url": "https://news.hada.io/topic?id=32456",
-      "publishedAt": "2026-08-13T03:11:43.543Z",
+      "title": "AI한테 넘기면 싸질 줄 알았다 — 넘길 때마다 붙는 비용 두 개",
+      "url": "https://news.hada.io/topic?id=32501",
+      "publishedAt": "2026-08-14T13:49:47.157Z",
       "source": "Geeknews"
     },
     {
-      "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
-      "url": "https://news.hada.io/topic?id=32455",
-      "publishedAt": "2026-08-13T01:11:43.544Z",
+      "title": "Qwen3.8-27B Upcoming release",
+      "url": "https://news.hada.io/topic?id=32494",
+      "publishedAt": "2026-08-14T08:49:47.159Z",
       "source": "Geeknews"
     },
     {
-      "title": "xberg - 다국어 문서 인텔리전스 프레임워크",
-      "url": "https://news.hada.io/topic?id=32452",
-      "publishedAt": "2026-08-13T00:11:43.544Z",
+      "title": "MCP가 Stateless해짐",
+      "url": "https://news.hada.io/topic?id=32492",
+      "publishedAt": "2026-08-14T07:49:47.159Z",
       "source": "Geeknews"
     },
     {
-      "title": "Linux용 Codex앱, 프리뷰 제공 시작",
-      "url": "https://news.hada.io/topic?id=32450",
-      "publishedAt": "2026-08-13T00:11:43.545Z",
+      "title": "X, For You 알고리듬 공개 범위 확대 - 랭킹 가중치와 노출 제한 시스템까지",
+      "url": "https://news.hada.io/topic?id=32491",
+      "publishedAt": "2026-08-14T02:49:47.160Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Wails v3 Beta - Go 데스크톱 앱을 위한 새로운 기반",
+      "url": "https://news.hada.io/topic?id=32485",
+      "publishedAt": "2026-08-14T00:49:47.160Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "palmier-pro - AI를 위해 만든 macOS 영상 편집기",
+      "url": "https://news.hada.io/topic?id=32484",
+      "publishedAt": "2026-08-14T00:49:47.160Z",
       "source": "Geeknews"
     }
   ]
