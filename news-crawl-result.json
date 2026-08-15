@@ -1,41 +1,23 @@
 {
-  "crawledAt": "2026-08-14T22:49:56.348Z",
-  "total": 6,
+  "crawledAt": "2026-08-15T22:47:20.434Z",
+  "total": 3,
   "articles": [
     {
-      "title": "AI한테 넘기면 싸질 줄 알았다 — 넘길 때마다 붙는 비용 두 개",
-      "url": "https://news.hada.io/topic?id=32501",
-      "publishedAt": "2026-08-14T13:49:47.157Z",
+      "title": "현대·기아차 Pleos OS, '붙박이'가 아닌 Plug-in 모듈로 가야 하는 이유",
+      "url": "https://news.hada.io/topic?id=32525",
+      "publishedAt": "2026-08-15T11:47:10.869Z",
       "source": "Geeknews"
     },
     {
-      "title": "Qwen3.8-27B Upcoming release",
-      "url": "https://news.hada.io/topic?id=32494",
-      "publishedAt": "2026-08-14T08:49:47.159Z",
+      "title": "hubble.md - 사람과 에이전트를 위한 노트패드",
+      "url": "https://news.hada.io/topic?id=32516",
+      "publishedAt": "2026-08-15T00:47:10.870Z",
       "source": "Geeknews"
     },
     {
-      "title": "MCP가 Stateless해짐",
-      "url": "https://news.hada.io/topic?id=32492",
-      "publishedAt": "2026-08-14T07:49:47.159Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "X, For You 알고리듬 공개 범위 확대 - 랭킹 가중치와 노출 제한 시스템까지",
-      "url": "https://news.hada.io/topic?id=32491",
-      "publishedAt": "2026-08-14T02:49:47.160Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Wails v3 Beta - Go 데스크톱 앱을 위한 새로운 기반",
-      "url": "https://news.hada.io/topic?id=32485",
-      "publishedAt": "2026-08-14T00:49:47.160Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "palmier-pro - AI를 위해 만든 macOS 영상 편집기",
-      "url": "https://news.hada.io/topic?id=32484",
-      "publishedAt": "2026-08-14T00:49:47.160Z",
+      "title": "Qwen3.8-27B, 17~19GB 메모리에서 4-bit 로컬 실행 가능",
+      "url": "https://news.hada.io/topic?id=32514",
+      "publishedAt": "2026-08-15T00:47:10.870Z",
       "source": "Geeknews"
     }
   ]
