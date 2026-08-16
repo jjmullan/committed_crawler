@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-08-15T22:47:20.434Z",
-  "total": 3,
+  "crawledAt": "2026-08-16T22:46:53.675Z",
+  "total": 2,
   "articles": [
     {
-      "title": "현대·기아차 Pleos OS, '붙박이'가 아닌 Plug-in 모듈로 가야 하는 이유",
-      "url": "https://news.hada.io/topic?id=32525",
-      "publishedAt": "2026-08-15T11:47:10.869Z",
+      "title": "손잡이를 갈아 끼우는 사람들",
+      "url": "https://news.hada.io/topic?id=32546",
+      "publishedAt": "2026-08-16T02:46:44.457Z",
       "source": "Geeknews"
     },
     {
-      "title": "hubble.md - 사람과 에이전트를 위한 노트패드",
-      "url": "https://news.hada.io/topic?id=32516",
-      "publishedAt": "2026-08-15T00:47:10.870Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Qwen3.8-27B, 17~19GB 메모리에서 4-bit 로컬 실행 가능",
-      "url": "https://news.hada.io/topic?id=32514",
-      "publishedAt": "2026-08-15T00:47:10.870Z",
+      "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
+      "url": "https://news.hada.io/topic?id=32545",
+      "publishedAt": "2026-08-16T00:46:44.458Z",
       "source": "Geeknews"
     }
   ]
