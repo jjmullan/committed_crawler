@@ -1,17 +1,29 @@
 {
-  "crawledAt": "2026-08-16T22:46:53.675Z",
-  "total": 2,
+  "crawledAt": "2026-08-17T22:50:56.814Z",
+  "total": 4,
   "articles": [
     {
-      "title": "손잡이를 갈아 끼우는 사람들",
-      "url": "https://news.hada.io/topic?id=32546",
-      "publishedAt": "2026-08-16T02:46:44.457Z",
+      "title": "Ask GN: 빈 User-Agent는 봇인가요? — 유령 가입 3주 추적기: UA로 막다가 실사용자를 차단했고, 결국 \"동의 전...",
+      "url": "https://news.hada.io/topic?id=32591",
+      "publishedAt": "2026-08-17T17:50:47.284Z",
       "source": "Geeknews"
     },
     {
-      "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
-      "url": "https://news.hada.io/topic?id=32545",
-      "publishedAt": "2026-08-16T00:46:44.458Z",
+      "title": "Ask GN: 인공지능 학습의 본질과 철학",
+      "url": "https://news.hada.io/topic?id=32576",
+      "publishedAt": "2026-08-17T02:50:47.284Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 증류와 사고의 해상도: 효율화 뒤에 숨은 롱테일의 딜레마",
+      "url": "https://news.hada.io/topic?id=32574",
+      "publishedAt": "2026-08-17T01:50:47.284Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "git-knife - Git 커밋 메타데이터를 표처럼 편집하는 데스크톱 GUI",
+      "url": "https://news.hada.io/topic?id=32568",
+      "publishedAt": "2026-08-17T00:50:47.285Z",
       "source": "Geeknews"
     }
   ]
