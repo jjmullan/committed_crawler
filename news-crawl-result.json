@@ -1,30 +1,42 @@
 {
-  "crawledAt": "2026-08-17T22:50:56.814Z",
-  "total": 4,
+  "crawledAt": "2026-08-18T22:50:43.673Z",
+  "total": 6,
   "articles": [
     {
-      "title": "Ask GN: 빈 User-Agent는 봇인가요? — 유령 가입 3주 추적기: UA로 막다가 실사용자를 차단했고, 결국 \"동의 전...",
-      "url": "https://news.hada.io/topic?id=32591",
-      "publishedAt": "2026-08-17T17:50:47.284Z",
+      "title": "Cursor, Origin 코드 호스팅 시작",
+      "url": "https://news.hada.io/topic?id=32621",
+      "publishedAt": "2026-08-18T15:50:34.014Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 인공지능 학습의 본질과 철학",
-      "url": "https://news.hada.io/topic?id=32576",
-      "publishedAt": "2026-08-17T02:50:47.284Z",
+      "title": "AI map Ontology — 팔란티어 Foundry·온톨로지를 실무자 언어로 정리한 사이트",
+      "url": "https://news.hada.io/topic?id=32619",
+      "publishedAt": "2026-08-18T14:50:34.015Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 증류와 사고의 해상도: 효율화 뒤에 숨은 롱테일의 딜레마",
-      "url": "https://news.hada.io/topic?id=32574",
-      "publishedAt": "2026-08-17T01:50:47.284Z",
+      "title": "Codex에서 GPT-5.6 Sol의 1M 토큰 컨텍스트 윈도우 활성화하기",
+      "url": "https://news.hada.io/topic?id=32600",
+      "publishedAt": "2026-08-18T00:50:34.015Z",
       "source": "Geeknews"
     },
     {
-      "title": "git-knife - Git 커밋 메타데이터를 표처럼 편집하는 데스크톱 GUI",
-      "url": "https://news.hada.io/topic?id=32568",
-      "publishedAt": "2026-08-17T00:50:47.285Z",
+      "title": "Docbank - 사람과 에이전트가 함께 쓰는 로컬 우선 문서 기록 시스템",
+      "url": "https://news.hada.io/topic?id=32598",
+      "publishedAt": "2026-08-18T00:50:34.015Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "채점을 AI한테 시켰더니 내 채점기의 버그를 잡았다",
+      "url": "https://news.hada.io/topic?id=32597",
+      "publishedAt": "2026-08-17T23:50:34.016Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "토스 Frontend Developer가 궁금하다면?",
+      "url": "https://toss.tech/article/games-in-ads",
+      "publishedAt": "2026-08-18T10:00:00+09:00",
+      "source": "토스 테크"
     }
   ]
 }
