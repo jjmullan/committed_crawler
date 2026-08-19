@@ -1,42 +1,36 @@
 {
-  "crawledAt": "2026-08-18T22:50:43.673Z",
-  "total": 6,
+  "crawledAt": "2026-08-19T22:50:53.657Z",
+  "total": 5,
   "articles": [
     {
-      "title": "Cursor, Origin 코드 호스팅 시작",
-      "url": "https://news.hada.io/topic?id=32621",
-      "publishedAt": "2026-08-18T15:50:34.014Z",
+      "title": "AI 시대, 개발자는 면사무소가 아니라 목욕탕을 만들어야 한다",
+      "url": "https://news.hada.io/topic?id=32662",
+      "publishedAt": "2026-08-19T12:50:43.999Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI map Ontology — 팔란티어 Foundry·온톨로지를 실무자 언어로 정리한 사이트",
-      "url": "https://news.hada.io/topic?id=32619",
-      "publishedAt": "2026-08-18T14:50:34.015Z",
+      "title": "돈과 자유 ― 성장 중심 경제에서 ‘소득의 권리’ 중심 경제로",
+      "url": "https://news.hada.io/topic?id=32642",
+      "publishedAt": "2026-08-19T04:50:44.000Z",
       "source": "Geeknews"
     },
     {
-      "title": "Codex에서 GPT-5.6 Sol의 1M 토큰 컨텍스트 윈도우 활성화하기",
-      "url": "https://news.hada.io/topic?id=32600",
-      "publishedAt": "2026-08-18T00:50:34.015Z",
+      "title": "Ask GN: 독파모의 본질과 현재의 AI 채점 방식에 대해 어떻게 생각하시나요?",
+      "url": "https://news.hada.io/topic?id=32634",
+      "publishedAt": "2026-08-19T01:50:44.000Z",
       "source": "Geeknews"
     },
     {
-      "title": "Docbank - 사람과 에이전트가 함께 쓰는 로컬 우선 문서 기록 시스템",
-      "url": "https://news.hada.io/topic?id=32598",
-      "publishedAt": "2026-08-18T00:50:34.015Z",
+      "title": "VisiGrid - 코드 에디터처럼 설계된 로컬 네이티브 스프레드시트",
+      "url": "https://news.hada.io/topic?id=32633",
+      "publishedAt": "2026-08-19T00:50:44.000Z",
       "source": "Geeknews"
     },
     {
-      "title": "채점을 AI한테 시켰더니 내 채점기의 버그를 잡았다",
-      "url": "https://news.hada.io/topic?id=32597",
-      "publishedAt": "2026-08-17T23:50:34.016Z",
+      "title": "Anthropic, 주간 Claude Code 한도 50% 상향을 8월 31일까지 연장",
+      "url": "https://news.hada.io/topic?id=32631",
+      "publishedAt": "2026-08-18T23:50:44.000Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "토스 Frontend Developer가 궁금하다면?",
-      "url": "https://toss.tech/article/games-in-ads",
-      "publishedAt": "2026-08-18T10:00:00+09:00",
-      "source": "토스 테크"
     }
   ]
 }
