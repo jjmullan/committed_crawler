@@ -1,66 +1,30 @@
 {
-  "crawledAt": "2026-08-20T22:55:46.209Z",
-  "total": 10,
+  "crawledAt": "2026-08-21T22:51:34.841Z",
+  "total": 4,
   "articles": [
     {
-      "title": "프로그래머를 위한 음악 이론",
-      "url": "https://news.hada.io/topic?id=32708",
-      "publishedAt": "2026-08-20T15:55:36.507Z",
+      "title": "ox-alpha",
+      "url": "https://news.hada.io/topic?id=32728",
+      "publishedAt": "2026-08-21T12:51:25.601Z",
       "source": "Geeknews"
     },
     {
-      "title": "Bun 1.4 출시 — Zig에서 Rust로 재작성, Node.js 호환성 역대 최대 폭 향상",
-      "url": "https://news.hada.io/topic?id=32707",
-      "publishedAt": "2026-08-20T15:55:36.508Z",
+      "title": "수익은 최고, 행동은 위험… Claude Opus 5의 두 얼굴",
+      "url": "https://news.hada.io/topic?id=32723",
+      "publishedAt": "2026-08-21T07:51:25.602Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 음성 메모에서 나온 할 일을 어떻게 실제 일정으로 옮기시나요?",
-      "url": "https://news.hada.io/topic?id=32696",
-      "publishedAt": "2026-08-20T08:55:36.509Z",
+      "title": "A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳",
+      "url": "https://news.hada.io/topic?id=32719",
+      "publishedAt": "2026-08-21T03:51:25.602Z",
       "source": "Geeknews"
     },
     {
-      "title": "TypeGPU로 실시간 깊이 인식 조명 주입 구현",
-      "url": "https://news.hada.io/topic?id=32695",
-      "publishedAt": "2026-08-20T06:55:36.509Z",
+      "title": "Kaneo - 필요한 것만 담은 오픈소스 프로젝트 관리 도구",
+      "url": "https://news.hada.io/topic?id=32714",
+      "publishedAt": "2026-08-21T00:51:25.602Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "Ask GN: 서비스 개발 시 회계 시스템과 어떻게 연동하시나요?",
-      "url": "https://news.hada.io/topic?id=32693",
-      "publishedAt": "2026-08-20T05:55:36.509Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "[팟캐스트] 개발자라면 알아야 할 암호학",
-      "url": "https://news.hada.io/topic?id=32688",
-      "publishedAt": "2026-08-20T01:55:36.509Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=32686",
-      "publishedAt": "2026-08-20T00:55:36.509Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "OpenSandbox - AI 에이전트를 위한 샌드박스 런타임",
-      "url": "https://news.hada.io/topic?id=32685",
-      "publishedAt": "2026-08-20T00:55:36.510Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Kimi Code CLI - 터미널에서 사용하는 오픈소스 코딩 에이전트",
-      "url": "https://news.hada.io/topic?id=32683",
-      "publishedAt": "2026-08-19T23:55:36.510Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
-      "url": "https://toss.tech/article/ads_dashboard_fe",
-      "publishedAt": "2026-08-20T10:00:00+09:00",
-      "source": "토스 테크"
     }
   ]
 }
