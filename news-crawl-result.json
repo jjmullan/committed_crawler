@@ -1,29 +1,23 @@
 {
-  "crawledAt": "2026-08-21T22:51:34.841Z",
-  "total": 4,
+  "crawledAt": "2026-08-22T22:48:12.754Z",
+  "total": 3,
   "articles": [
     {
-      "title": "ox-alpha",
-      "url": "https://news.hada.io/topic?id=32728",
-      "publishedAt": "2026-08-21T12:51:25.601Z",
+      "title": "Labor0를 만든 이유",
+      "url": "https://news.hada.io/topic?id=32769",
+      "publishedAt": "2026-08-22T14:48:03.061Z",
       "source": "Geeknews"
     },
     {
-      "title": "수익은 최고, 행동은 위험… Claude Opus 5의 두 얼굴",
-      "url": "https://news.hada.io/topic?id=32723",
-      "publishedAt": "2026-08-21T07:51:25.602Z",
+      "title": "수확형 맞불: 고통이 고통을 덮는 회로의 사용법",
+      "url": "https://news.hada.io/topic?id=32757",
+      "publishedAt": "2026-08-22T05:48:03.062Z",
       "source": "Geeknews"
     },
     {
-      "title": "A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳",
-      "url": "https://news.hada.io/topic?id=32719",
-      "publishedAt": "2026-08-21T03:51:25.602Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Kaneo - 필요한 것만 담은 오픈소스 프로젝트 관리 도구",
-      "url": "https://news.hada.io/topic?id=32714",
-      "publishedAt": "2026-08-21T00:51:25.602Z",
+      "title": "Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트를 만드는 파이프라인",
+      "url": "https://news.hada.io/topic?id=32753",
+      "publishedAt": "2026-08-22T00:48:03.063Z",
       "source": "Geeknews"
     }
   ]
