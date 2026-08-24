@@ -1,23 +1,23 @@
 {
-  "crawledAt": "2026-08-23T22:48:03.174Z",
+  "crawledAt": "2026-08-24T22:54:07.083Z",
   "total": 3,
   "articles": [
     {
-      "title": "[팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요?",
-      "url": "https://news.hada.io/topic?id=32814",
-      "publishedAt": "2026-08-23T21:58:53.670Z",
+      "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
+      "url": "https://news.hada.io/topic?id=32842",
+      "publishedAt": "2026-08-24T10:53:55.703Z",
       "source": "Geeknews"
     },
     {
-      "title": "프론트엔드 상태 관리의 네 가지 난제",
-      "url": "https://news.hada.io/topic?id=32794",
-      "publishedAt": "2026-08-23T07:47:53.671Z",
+      "title": "SonicMoE로 보는 GPU 커널 최적화",
+      "url": "https://news.hada.io/topic?id=32830",
+      "publishedAt": "2026-08-24T04:53:55.704Z",
       "source": "Geeknews"
     },
     {
-      "title": "gomacro - Generics와 Macro를 지원하는 인터랙티브 Go 인터프리터/디버거",
-      "url": "https://news.hada.io/topic?id=32785",
-      "publishedAt": "2026-08-23T00:47:53.672Z",
+      "title": "srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸",
+      "url": "https://news.hada.io/topic?id=32820",
+      "publishedAt": "2026-08-24T00:53:55.704Z",
       "source": "Geeknews"
     }
   ]
