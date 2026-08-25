@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-08-24T22:54:07.083Z",
-  "total": 3,
+  "crawledAt": "2026-08-25T22:56:12.166Z",
+  "total": 2,
   "articles": [
     {
-      "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
-      "url": "https://news.hada.io/topic?id=32842",
-      "publishedAt": "2026-08-24T10:53:55.703Z",
+      "title": "Kimi K3 실전 테스트: 웹·Flutter·Android 개발에서 확인한 강점과 한계",
+      "url": "https://news.hada.io/topic?id=32870",
+      "publishedAt": "2026-08-25T04:56:02.603Z",
       "source": "Geeknews"
     },
     {
-      "title": "SonicMoE로 보는 GPU 커널 최적화",
-      "url": "https://news.hada.io/topic?id=32830",
-      "publishedAt": "2026-08-24T04:53:55.704Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸",
-      "url": "https://news.hada.io/topic?id=32820",
-      "publishedAt": "2026-08-24T00:53:55.704Z",
+      "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
+      "url": "https://news.hada.io/topic?id=32861",
+      "publishedAt": "2026-08-25T00:56:02.604Z",
       "source": "Geeknews"
     }
   ]
