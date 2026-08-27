@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-08-25T22:56:12.166Z",
-  "total": 2,
+  "crawledAt": "2026-08-27T03:27:13.399Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Kimi K3 실전 테스트: 웹·Flutter·Android 개발에서 확인한 강점과 한계",
-      "url": "https://news.hada.io/topic?id=32870",
-      "publishedAt": "2026-08-25T04:56:02.603Z",
+      "title": "Corsair - AI 에이전트의 외부 서비스 연결과 권한을 관리하는 통합 레이어",
+      "url": "https://news.hada.io/topic?id=32927",
+      "publishedAt": "2026-08-27T00:27:03.802Z",
       "source": "Geeknews"
     },
     {
-      "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
-      "url": "https://news.hada.io/topic?id=32861",
-      "publishedAt": "2026-08-25T00:56:02.604Z",
+      "title": "wsrv.nl - 무료 오픈소스 이미지 CDN",
+      "url": "https://news.hada.io/topic?id=32915",
+      "publishedAt": "2026-08-26T17:27:03.803Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Edge Vision AI - AI를 현실 세계로 가져오는 기술",
+      "url": "https://news.hada.io/topic?id=32905",
+      "publishedAt": "2026-08-26T10:27:03.803Z",
       "source": "Geeknews"
     }
   ]
