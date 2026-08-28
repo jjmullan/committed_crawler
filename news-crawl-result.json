@@ -1,23 +1,23 @@
 {
-  "crawledAt": "2026-08-27T03:27:13.399Z",
+  "crawledAt": "2026-08-28T06:14:38.437Z",
   "total": 3,
   "articles": [
     {
-      "title": "Corsair - AI 에이전트의 외부 서비스 연결과 권한을 관리하는 통합 레이어",
-      "url": "https://news.hada.io/topic?id=32927",
-      "publishedAt": "2026-08-27T00:27:03.802Z",
+      "title": "superfile - 멀티 패널을 지원하는 터미널 파일 관리자",
+      "url": "https://news.hada.io/topic?id=32965",
+      "publishedAt": "2026-08-28T01:14:29.153Z",
       "source": "Geeknews"
     },
     {
-      "title": "wsrv.nl - 무료 오픈소스 이미지 CDN",
-      "url": "https://news.hada.io/topic?id=32915",
-      "publishedAt": "2026-08-26T17:27:03.803Z",
+      "title": "Agent Behavior - AI 에이전트의 반복 행동을 문서화해 평가 기준으로 삼는 표준",
+      "url": "https://news.hada.io/topic?id=32962",
+      "publishedAt": "2026-08-28T00:14:29.155Z",
       "source": "Geeknews"
     },
     {
-      "title": "Edge Vision AI - AI를 현실 세계로 가져오는 기술",
-      "url": "https://news.hada.io/topic?id=32905",
-      "publishedAt": "2026-08-26T10:27:03.803Z",
+      "title": "메타, SNS 중독 관련 최대 25조원 배상 합의",
+      "url": "https://news.hada.io/topic?id=32943",
+      "publishedAt": "2026-08-27T14:14:29.155Z",
       "source": "Geeknews"
     }
   ]
