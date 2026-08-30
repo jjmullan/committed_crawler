@@ -1,17 +1,11 @@
 {
-  "crawledAt": "2026-08-29T03:48:48.362Z",
-  "total": 2,
+  "crawledAt": "2026-08-30T00:34:08.595Z",
+  "total": 1,
   "articles": [
     {
-      "title": "syncular - 로컬 SQLite를 서버와 동기화하는 오프라인 우선 엔진",
-      "url": "https://news.hada.io/topic?id=33000",
-      "publishedAt": "2026-08-29T00:48:38.727Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "블랙박스 LLM의 크기를 재는 법",
-      "url": "https://news.hada.io/topic?id=32977",
-      "publishedAt": "2026-08-28T13:48:38.728Z",
+      "title": "GeoLibre - Tauri 기반의 경량 클라우드 네이티브 데스크톱 GIS",
+      "url": "https://news.hada.io/topic?id=33021",
+      "publishedAt": "2026-08-30T00:30:59.072Z",
       "source": "Geeknews"
     }
   ]
