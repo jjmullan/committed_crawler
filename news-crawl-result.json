@@ -1,11 +1,35 @@
 {
-  "crawledAt": "2026-08-30T00:34:08.595Z",
-  "total": 1,
+  "crawledAt": "2026-08-31T00:45:51.850Z",
+  "total": 5,
   "articles": [
     {
-      "title": "GeoLibre - Tauri 기반의 경량 클라우드 네이티브 데스크톱 GIS",
-      "url": "https://news.hada.io/topic?id=33021",
-      "publishedAt": "2026-08-30T00:30:59.072Z",
+      "title": "mu - 에이전트가 들어 있는 개인 서버",
+      "url": "https://news.hada.io/topic?id=33054",
+      "publishedAt": "2026-08-31T00:29:42.306Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "macOS가 파일 매니저에게 사진 권한을 물어본 이유 — lldb로 범인 경로 찾기",
+      "url": "https://news.hada.io/topic?id=33053",
+      "publishedAt": "2026-08-31T00:21:42.307Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "TwelveLabs Jockey로 강의 검수 파이프라인 만들기, 한 달 실측기",
+      "url": "https://news.hada.io/topic?id=33045",
+      "publishedAt": "2026-08-30T21:45:42.307Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "한국 플랫폼 15곳의 robots.txt를 전수 확인해봤습니다",
+      "url": "https://news.hada.io/topic?id=33032",
+      "publishedAt": "2026-08-30T11:45:42.308Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "월 $6 VPS 한 대로 MMORPG 동접 1,000명에 도전해봤습니다",
+      "url": "https://news.hada.io/topic?id=33027",
+      "publishedAt": "2026-08-30T04:45:42.308Z",
       "source": "Geeknews"
     }
   ]
