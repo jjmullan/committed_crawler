@@ -1,35 +1,17 @@
 {
-  "crawledAt": "2026-09-02T00:24:54.562Z",
-  "total": 5,
+  "crawledAt": "2026-09-03T00:31:03.000Z",
+  "total": 2,
   "articles": [
     {
-      "title": "AI로 책 2권을 만들어 상품 42개를 올렸습니다. 매출은 0원입니다.",
-      "url": "https://news.hada.io/topic?id=33131",
-      "publishedAt": "2026-09-01T22:24:45.308Z",
+      "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
+      "url": "https://news.hada.io/topic?id=33174",
+      "publishedAt": "2026-09-03T00:30:53.309Z",
       "source": "Geeknews"
     },
     {
-      "title": "10년 동안 축적된 12TB 이상의 스팀 데이터가 외부로 유출되었습니다.",
-      "url": "https://news.hada.io/topic?id=33107",
-      "publishedAt": "2026-09-01T07:24:45.309Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Codex의 20X는 주간 사용량도 실제 20배, Claude는 5시간 한도만 20배",
-      "url": "https://news.hada.io/topic?id=33106",
-      "publishedAt": "2026-09-01T06:24:45.309Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Kubernetes에서 Java JVM의 CPU·메모리 Request와 Limit",
-      "url": "https://news.hada.io/topic?id=33103",
-      "publishedAt": "2026-09-01T05:24:45.309Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "국토부, 테슬라 감독형 FSD는 국내 기준에 부적합, 미국산은 FTA로 예외",
-      "url": "https://news.hada.io/topic?id=33102",
-      "publishedAt": "2026-09-01T04:24:45.310Z",
+      "title": "클릭하우스(ClickHouse) – 기적의 데이터베이스 기술",
+      "url": "https://news.hada.io/topic?id=33149",
+      "publishedAt": "2026-09-02T08:30:53.310Z",
       "source": "Geeknews"
     }
   ]
