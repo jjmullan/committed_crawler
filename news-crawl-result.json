@@ -1,17 +1,11 @@
 {
-  "crawledAt": "2026-09-03T00:31:03.000Z",
-  "total": 2,
+  "crawledAt": "2026-09-04T00:16:25.383Z",
+  "total": 1,
   "articles": [
     {
-      "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
-      "url": "https://news.hada.io/topic?id=33174",
-      "publishedAt": "2026-09-03T00:30:53.309Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "클릭하우스(ClickHouse) – 기적의 데이터베이스 기술",
-      "url": "https://news.hada.io/topic?id=33149",
-      "publishedAt": "2026-09-02T08:30:53.310Z",
+      "title": "Diffusion으로 OCR 디코딩 가속하기",
+      "url": "https://news.hada.io/topic?id=33187",
+      "publishedAt": "2026-09-03T09:16:15.799Z",
       "source": "Geeknews"
     }
   ]
