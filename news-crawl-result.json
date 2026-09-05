@@ -1,12 +1,24 @@
 {
-  "crawledAt": "2026-09-04T00:16:25.383Z",
-  "total": 1,
+  "crawledAt": "2026-09-05T00:16:47.090Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Diffusion으로 OCR 디코딩 가속하기",
-      "url": "https://news.hada.io/topic?id=33187",
-      "publishedAt": "2026-09-03T09:16:15.799Z",
+      "title": "Stave - AWS 설정 사이에 숨어 있는 공격 경로를 찾는 보안 검증 도구",
+      "url": "https://news.hada.io/topic?id=33243",
+      "publishedAt": "2026-09-05T00:02:37.328Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "MongoDB 컬렉션을 PostgreSQL로 복사하고 동기화하기",
+      "url": "https://news.hada.io/topic?id=33219",
+      "publishedAt": "2026-09-04T10:16:37.329Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "2026 토스 커뮤니티 FE 대규모 채용 중",
+      "url": "https://toss.tech/article/52885",
+      "publishedAt": "2026-09-04T17:47:00+09:00",
+      "source": "토스 테크"
     }
   ]
 }
