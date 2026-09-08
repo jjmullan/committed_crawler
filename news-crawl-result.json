@@ -1,18 +1,24 @@
 {
-  "crawledAt": "2026-09-07T00:11:32.769Z",
-  "total": 2,
+  "crawledAt": "2026-09-08T00:36:47.026Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Nitter, 개발 지속 확정",
-      "url": "https://news.hada.io/topic?id=33297",
-      "publishedAt": "2026-09-06T23:32:23.241Z",
+      "title": "Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스",
+      "url": "https://news.hada.io/topic?id=33336",
+      "publishedAt": "2026-09-08T00:30:37.852Z",
       "source": "Geeknews"
     },
     {
-      "title": "사람 뇌 구조를 기반으로 실행하는 온디바이스 자아지능 AI (IDin) 를 1인 개발하였습니다.",
-      "url": "https://news.hada.io/topic?id=33277",
-      "publishedAt": "2026-09-06T09:11:23.241Z",
+      "title": "LG TV 화면을 끈 상태에서 오디오 녹음, 주변 기기 탐색 적발",
+      "url": "https://news.hada.io/topic?id=33318",
+      "publishedAt": "2026-09-07T11:36:37.853Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "How Documents Find Developers at Toss",
+      "url": "https://toss.tech/article/toss-frontend-ai-docs-eng",
+      "publishedAt": "2026-09-07T15:27:00+09:00",
+      "source": "토스 테크"
     }
   ]
 }
