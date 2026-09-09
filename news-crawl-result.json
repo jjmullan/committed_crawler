@@ -1,24 +1,30 @@
 {
-  "crawledAt": "2026-09-08T00:36:47.026Z",
-  "total": 3,
+  "crawledAt": "2026-09-09T00:26:38.666Z",
+  "total": 4,
   "articles": [
     {
-      "title": "Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스",
-      "url": "https://news.hada.io/topic?id=33336",
-      "publishedAt": "2026-09-08T00:30:37.852Z",
+      "title": "Ask GN: 마케팅을 어떻게 하면 잘 할 수 있을까?",
+      "url": "https://news.hada.io/topic?id=33353",
+      "publishedAt": "2026-09-08T05:26:29.091Z",
       "source": "Geeknews"
     },
     {
-      "title": "LG TV 화면을 끈 상태에서 오디오 녹음, 주변 기기 탐색 적발",
-      "url": "https://news.hada.io/topic?id=33318",
-      "publishedAt": "2026-09-07T11:36:37.853Z",
+      "title": "Ask GN: 단 하나만 구독할 수 있다면 어떤걸 하시겠어요?",
+      "url": "https://news.hada.io/topic?id=33351",
+      "publishedAt": "2026-09-08T04:26:29.092Z",
       "source": "Geeknews"
     },
     {
-      "title": "How Documents Find Developers at Toss",
-      "url": "https://toss.tech/article/toss-frontend-ai-docs-eng",
-      "publishedAt": "2026-09-07T15:27:00+09:00",
-      "source": "토스 테크"
+      "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
+      "url": "https://news.hada.io/topic?id=33349",
+      "publishedAt": "2026-09-08T02:26:29.093Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Cursor Origin API changelog가 하루 만에 자기 말을 뒤집었고, 두 항목 다 아직 살아있음",
+      "url": "https://news.hada.io/topic?id=33348",
+      "publishedAt": "2026-09-08T02:26:29.093Z",
+      "source": "Geeknews"
     }
   ]
 }
