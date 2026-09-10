@@ -1,30 +1,54 @@
 {
-  "crawledAt": "2026-09-09T00:26:38.666Z",
-  "total": 4,
+  "crawledAt": "2026-09-10T00:26:27.719Z",
+  "total": 8,
   "articles": [
     {
-      "title": "Ask GN: 마케팅을 어떻게 하면 잘 할 수 있을까?",
-      "url": "https://news.hada.io/topic?id=33353",
-      "publishedAt": "2026-09-08T05:26:29.091Z",
+      "title": "Addy Osmani, Google 떠나 Anthropic 합류",
+      "url": "https://news.hada.io/topic?id=33462",
+      "publishedAt": "2026-09-10T00:20:18.133Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: 단 하나만 구독할 수 있다면 어떤걸 하시겠어요?",
-      "url": "https://news.hada.io/topic?id=33351",
-      "publishedAt": "2026-09-08T04:26:29.092Z",
+      "title": "AI도 의식을 가질 수 있을까: ‘의식의 어려운 문제’가 다시 중요해진 이유",
+      "url": "https://news.hada.io/topic?id=33432",
+      "publishedAt": "2026-09-09T09:26:18.134Z",
       "source": "Geeknews"
     },
     {
-      "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
-      "url": "https://news.hada.io/topic?id=33349",
-      "publishedAt": "2026-09-08T02:26:29.093Z",
+      "title": "내 PC가 AI 데이터센터가 된다: 유휴 컴퓨팅 자원의 새로운 수익화",
+      "url": "https://news.hada.io/topic?id=33431",
+      "publishedAt": "2026-09-09T09:26:18.134Z",
       "source": "Geeknews"
     },
     {
-      "title": "Cursor Origin API changelog가 하루 만에 자기 말을 뒤집었고, 두 항목 다 아직 살아있음",
-      "url": "https://news.hada.io/topic?id=33348",
-      "publishedAt": "2026-09-08T02:26:29.093Z",
+      "title": "수학자에게 Lean이 있다면 개발자에게는 TLA+가 있다",
+      "url": "https://news.hada.io/topic?id=33428",
+      "publishedAt": "2026-09-09T08:26:18.134Z",
       "source": "Geeknews"
+    },
+    {
+      "title": "ChatGPT Pro 신규 구독 일시 중단 가능성 예고",
+      "url": "https://news.hada.io/topic?id=33420",
+      "publishedAt": "2026-09-09T05:26:18.135Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 메모리 벤치마크 의견 구함",
+      "url": "https://news.hada.io/topic?id=33418",
+      "publishedAt": "2026-09-09T05:26:18.135Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI로 개발할 때 진짜 위험: 못 만드는 게 아니라, 잘못 생각한 걸 너무 잘 만들어준다",
+      "url": "https://news.hada.io/topic?id=33411",
+      "publishedAt": "2026-09-09T04:26:18.135Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "App Router의 장점은 우리에게도 장점일까요?",
+      "url": "https://toss.tech/article/52999",
+      "publishedAt": "2026-09-09T15:45:00+09:00",
+      "source": "토스 테크"
     }
   ]
 }
