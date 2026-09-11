@@ -1,54 +1,24 @@
 {
-  "crawledAt": "2026-09-10T00:26:27.719Z",
-  "total": 8,
+  "crawledAt": "2026-09-11T00:22:37.527Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Addy Osmani, Google 떠나 Anthropic 합류",
-      "url": "https://news.hada.io/topic?id=33462",
-      "publishedAt": "2026-09-10T00:20:18.133Z",
+      "title": "Multigres - Postgres의 수평 확장을 위한 오픈소스",
+      "url": "https://news.hada.io/topic?id=33505",
+      "publishedAt": "2026-09-11T00:19:27.884Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI도 의식을 가질 수 있을까: ‘의식의 어려운 문제’가 다시 중요해진 이유",
-      "url": "https://news.hada.io/topic?id=33432",
-      "publishedAt": "2026-09-09T09:26:18.134Z",
+      "title": "ChatGPT Pro 구독 일시중단",
+      "url": "https://news.hada.io/topic?id=33500",
+      "publishedAt": "2026-09-10T22:22:27.884Z",
       "source": "Geeknews"
     },
     {
-      "title": "내 PC가 AI 데이터센터가 된다: 유휴 컴퓨팅 자원의 새로운 수익화",
-      "url": "https://news.hada.io/topic?id=33431",
-      "publishedAt": "2026-09-09T09:26:18.134Z",
+      "title": "티빙 3954만 계정 유출…문제는 ‘해킹 기술’이 아니라 내부 통제였다",
+      "url": "https://news.hada.io/topic?id=33482",
+      "publishedAt": "2026-09-10T14:22:27.885Z",
       "source": "Geeknews"
-    },
-    {
-      "title": "수학자에게 Lean이 있다면 개발자에게는 TLA+가 있다",
-      "url": "https://news.hada.io/topic?id=33428",
-      "publishedAt": "2026-09-09T08:26:18.134Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "ChatGPT Pro 신규 구독 일시 중단 가능성 예고",
-      "url": "https://news.hada.io/topic?id=33420",
-      "publishedAt": "2026-09-09T05:26:18.135Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Ask GN: 메모리 벤치마크 의견 구함",
-      "url": "https://news.hada.io/topic?id=33418",
-      "publishedAt": "2026-09-09T05:26:18.135Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI로 개발할 때 진짜 위험: 못 만드는 게 아니라, 잘못 생각한 걸 너무 잘 만들어준다",
-      "url": "https://news.hada.io/topic?id=33411",
-      "publishedAt": "2026-09-09T04:26:18.135Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "App Router의 장점은 우리에게도 장점일까요?",
-      "url": "https://toss.tech/article/52999",
-      "publishedAt": "2026-09-09T15:45:00+09:00",
-      "source": "토스 테크"
     }
   ]
 }
