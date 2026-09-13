@@ -1,17 +1,11 @@
 {
-  "crawledAt": "2026-09-12T00:28:03.795Z",
-  "total": 2,
+  "crawledAt": "2026-09-13T00:08:03.513Z",
+  "total": 1,
   "articles": [
     {
-      "title": "GitByBit: VS Code에서 Git을 직접 쳐보며 배우는 익스텐션",
-      "url": "https://news.hada.io/topic?id=33529",
-      "publishedAt": "2026-09-11T11:27:54.153Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AX 시대의 FDE는 조직에 무엇을 남길까",
-      "url": "https://news.hada.io/topic?id=33520",
-      "publishedAt": "2026-09-11T06:27:54.154Z",
+      "title": "커넥톰과 물리학을 활용한 초파리 시뮬레이션",
+      "url": "https://news.hada.io/topic?id=33594",
+      "publishedAt": "2026-09-12T20:07:54.113Z",
       "source": "Geeknews"
     }
   ]
