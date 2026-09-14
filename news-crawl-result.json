@@ -1,11 +1,41 @@
 {
-  "crawledAt": "2026-09-13T00:08:03.513Z",
-  "total": 1,
+  "crawledAt": "2026-09-14T00:21:19.280Z",
+  "total": 6,
   "articles": [
     {
-      "title": "커넥톰과 물리학을 활용한 초파리 시뮬레이션",
-      "url": "https://news.hada.io/topic?id=33594",
-      "publishedAt": "2026-09-12T20:07:54.113Z",
+      "title": "회원가입 없는 견적서·거래명세서 PDF 생성기를 만들었습니다",
+      "url": "https://news.hada.io/topic?id=33663",
+      "publishedAt": "2026-09-14T00:13:09.956Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "프론트엔드 상태 관리의 네 가지 난제, Bunja로 풀어보기",
+      "url": "https://news.hada.io/topic?id=33627",
+      "publishedAt": "2026-09-13T15:21:09.957Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "PuzzleMask: 평범한 문장을 잠재적 AI 공격 수단으로 오용하기",
+      "url": "https://news.hada.io/topic?id=33622",
+      "publishedAt": "2026-09-13T13:21:09.957Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "macOS 패키지 관리자 Homebrew v7",
+      "url": "https://news.hada.io/topic?id=33618",
+      "publishedAt": "2026-09-13T10:21:09.957Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 여러 AI끼리 토론시켜봤는데, 오래 돌리면 결국 같은 말 반복하는데 고치는법 아는사람 알려주세요오",
+      "url": "https://news.hada.io/topic?id=33615",
+      "publishedAt": "2026-09-13T09:21:09.958Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Dreeve - 운동 데이터를 직접 보관하고 분석하는 셀프 호스팅 대시보드",
+      "url": "https://news.hada.io/topic?id=33606",
+      "publishedAt": "2026-09-13T01:21:09.958Z",
       "source": "Geeknews"
     }
   ]
