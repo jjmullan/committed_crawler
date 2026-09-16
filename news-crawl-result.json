@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-09-15T00:47:56.549Z",
-  "total": 2,
+  "crawledAt": "2026-09-16T00:39:34.741Z",
+  "total": 3,
   "articles": [
     {
-      "title": "pg_chdb - PostgreSQL에서 ClickHouse로 외부 데이터를 조회하고 가져오는 확장",
-      "url": "https://news.hada.io/topic?id=33716",
-      "publishedAt": "2026-09-15T00:29:47.067Z",
+      "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
+      "url": "https://news.hada.io/topic?id=33760",
+      "publishedAt": "2026-09-16T00:30:25.107Z",
       "source": "Geeknews"
     },
     {
-      "title": "WebKit, Top-Level Await 버그를 고치기 위해 Safari 모듈 로더를 C++로 전면 재작성",
-      "url": "https://news.hada.io/topic?id=33689",
-      "publishedAt": "2026-09-14T10:47:47.068Z",
+      "title": "디자이너가 Figma를 지웠습니다-— 프로덕트 디자이너가 코드로 화면을 만든 지 1년, 알고케어가 디자인 ...",
+      "url": "https://news.hada.io/topic?id=33728",
+      "publishedAt": "2026-09-15T07:39:25.108Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: Claude Code/Codex 같은 코딩 에이전트한테 프로젝트를 통째로 맡겨보신 분들, 이 에이전트들을 어디까...",
+      "url": "https://news.hada.io/topic?id=33727",
+      "publishedAt": "2026-09-15T07:39:25.108Z",
       "source": "Geeknews"
     }
   ]
