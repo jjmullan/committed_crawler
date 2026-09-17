@@ -1,23 +1,29 @@
 {
-  "crawledAt": "2026-09-16T00:39:34.741Z",
-  "total": 3,
+  "crawledAt": "2026-09-17T00:46:52.130Z",
+  "total": 4,
   "articles": [
     {
-      "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
-      "url": "https://news.hada.io/topic?id=33760",
-      "publishedAt": "2026-09-16T00:30:25.107Z",
+      "title": "Octane - React 프로그래밍 모델을 직접 DOM 코드로 컴파일하는 UI 프레임워크",
+      "url": "https://news.hada.io/topic?id=33814",
+      "publishedAt": "2026-09-17T00:30:42.862Z",
       "source": "Geeknews"
     },
     {
-      "title": "디자이너가 Figma를 지웠습니다-— 프로덕트 디자이너가 코드로 화면을 만든 지 1년, 알고케어가 디자인 ...",
-      "url": "https://news.hada.io/topic?id=33728",
-      "publishedAt": "2026-09-15T07:39:25.108Z",
+      "title": "Ask GN: 클로드 코드, Codex 같은 에이전트마다 프롬프트 잘 쓰는 방식이 다르다던데, 어떻게 다른지 아시는 분 ...",
+      "url": "https://news.hada.io/topic?id=33775",
+      "publishedAt": "2026-09-16T07:46:42.863Z",
       "source": "Geeknews"
     },
     {
-      "title": "Ask GN: Claude Code/Codex 같은 코딩 에이전트한테 프로젝트를 통째로 맡겨보신 분들, 이 에이전트들을 어디까...",
-      "url": "https://news.hada.io/topic?id=33727",
-      "publishedAt": "2026-09-15T07:39:25.108Z",
+      "title": "Ask GN: 홈페이지 외주 납품 후에 오는 수정 요청 어떻게 처리하시나요??",
+      "url": "https://news.hada.io/topic?id=33768",
+      "publishedAt": "2026-09-16T04:46:42.863Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "래블업(lablup) 개발자 컨퍼런스 2026",
+      "url": "https://news.hada.io/topic?id=33763",
+      "publishedAt": "2026-09-16T01:46:42.864Z",
       "source": "Geeknews"
     }
   ]
