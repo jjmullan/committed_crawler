@@ -1,11 +1,23 @@
 {
-  "crawledAt": "2026-09-19T00:30:10.197Z",
-  "total": 1,
+  "crawledAt": "2026-09-20T00:15:59.887Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Ask GN: OSS의 사용자 대상 광고 노출은 어디까지 허용될까?",
-      "url": "https://news.hada.io/topic?id=33903",
-      "publishedAt": "2026-09-18T16:30:00.539Z",
+      "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+      "url": "https://news.hada.io/topic?id=33940",
+      "publishedAt": "2026-09-19T12:15:50.316Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "SQPOLL은 불안형 여친이다",
+      "url": "https://news.hada.io/topic?id=33929",
+      "publishedAt": "2026-09-19T02:15:50.317Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Claude Code, 이제 AGENTS.md도 지원",
+      "url": "https://news.hada.io/topic?id=33925",
+      "publishedAt": "2026-09-19T01:15:50.317Z",
       "source": "Geeknews"
     }
   ]
