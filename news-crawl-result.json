@@ -1,17 +1,41 @@
 {
-  "crawledAt": "2026-09-22T01:00:53.764Z",
-  "total": 2,
+  "crawledAt": "2026-09-23T00:50:16.293Z",
+  "total": 6,
   "articles": [
     {
-      "title": "pdfcn - React 컴포넌트로 만드는 PDF 문서",
-      "url": "https://news.hada.io/topic?id=34090",
-      "publishedAt": "2026-09-22T00:29:44.224Z",
+      "title": "Filament - 데이터베이스와 SaaS 데이터를 옮기고 동기화하는 오픈소스 도구",
+      "url": "https://news.hada.io/topic?id=34152",
+      "publishedAt": "2026-09-23T00:40:06.891Z",
       "source": "Geeknews"
     },
     {
-      "title": "콘웨이의 법칙과 프로그래밍 언어",
-      "url": "https://news.hada.io/topic?id=34063",
-      "publishedAt": "2026-09-21T11:00:44.225Z",
+      "title": "Fluree DB - 이력과 검증, 브랜치 병합을 갖춘 그래프 데이터베이스",
+      "url": "https://news.hada.io/topic?id=34150",
+      "publishedAt": "2026-09-23T00:30:06.892Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
+      "url": "https://news.hada.io/topic?id=34122",
+      "publishedAt": "2026-09-22T12:50:06.892Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Anthropic 사이트 소스코드에서 발견한 \"claude-opus-5-5\"라는 페이지 이름, 근데 지금은 흔적도 없이 ...",
+      "url": "https://news.hada.io/topic?id=34117",
+      "publishedAt": "2026-09-22T09:50:06.893Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Jev 사용 후기",
+      "url": "https://news.hada.io/topic?id=34115",
+      "publishedAt": "2026-09-22T07:50:06.893Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Ask GN: 클로드로 프로젝트 하나를 계속 이어가는데, 세션 나눌 때마다 이전 대화 설명하는 게 너무 귀찮아요, ...",
+      "url": "https://news.hada.io/topic?id=34108",
+      "publishedAt": "2026-09-22T06:50:06.893Z",
       "source": "Geeknews"
     }
   ]
