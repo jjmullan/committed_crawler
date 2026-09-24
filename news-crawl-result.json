@@ -1,41 +1,23 @@
 {
-  "crawledAt": "2026-09-23T00:50:16.293Z",
-  "total": 6,
+  "crawledAt": "2026-09-24T00:43:13.118Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Filament - 데이터베이스와 SaaS 데이터를 옮기고 동기화하는 오픈소스 도구",
-      "url": "https://news.hada.io/topic?id=34152",
-      "publishedAt": "2026-09-23T00:40:06.891Z",
+      "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+      "url": "https://news.hada.io/topic?id=34204",
+      "publishedAt": "2026-09-24T00:30:03.590Z",
       "source": "Geeknews"
     },
     {
-      "title": "Fluree DB - 이력과 검증, 브랜치 병합을 갖춘 그래프 데이터베이스",
-      "url": "https://news.hada.io/topic?id=34150",
-      "publishedAt": "2026-09-23T00:30:06.892Z",
+      "title": "\"완벽주의라는 자기검열을 깨고 일단 빌드하라\" — 피터 신(Outsome CEO) 세션 요약",
+      "url": "https://news.hada.io/topic?id=34184",
+      "publishedAt": "2026-09-23T16:43:03.591Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
-      "url": "https://news.hada.io/topic?id=34122",
-      "publishedAt": "2026-09-22T12:50:06.892Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Anthropic 사이트 소스코드에서 발견한 \"claude-opus-5-5\"라는 페이지 이름, 근데 지금은 흔적도 없이 ...",
-      "url": "https://news.hada.io/topic?id=34117",
-      "publishedAt": "2026-09-22T09:50:06.893Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Jev 사용 후기",
-      "url": "https://news.hada.io/topic?id=34115",
-      "publishedAt": "2026-09-22T07:50:06.893Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Ask GN: 클로드로 프로젝트 하나를 계속 이어가는데, 세션 나눌 때마다 이전 대화 설명하는 게 너무 귀찮아요, ...",
-      "url": "https://news.hada.io/topic?id=34108",
-      "publishedAt": "2026-09-22T06:50:06.893Z",
+      "title": "Pencil 제작기: 제품 가설부터 구현·검증까지, 무한 Product Loop 구축",
+      "url": "https://news.hada.io/topic?id=34165",
+      "publishedAt": "2026-09-23T07:43:03.592Z",
       "source": "Geeknews"
     }
   ]
