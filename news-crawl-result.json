@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-09-24T00:43:13.118Z",
-  "total": 3,
+  "crawledAt": "2026-09-25T00:41:20.568Z",
+  "total": 2,
   "articles": [
     {
-      "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
-      "url": "https://news.hada.io/topic?id=34204",
-      "publishedAt": "2026-09-24T00:30:03.590Z",
+      "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+      "url": "https://news.hada.io/topic?id=34248",
+      "publishedAt": "2026-09-25T00:30:11.235Z",
       "source": "Geeknews"
     },
     {
-      "title": "\"완벽주의라는 자기검열을 깨고 일단 빌드하라\" — 피터 신(Outsome CEO) 세션 요약",
-      "url": "https://news.hada.io/topic?id=34184",
-      "publishedAt": "2026-09-23T16:43:03.591Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Pencil 제작기: 제품 가설부터 구현·검증까지, 무한 Product Loop 구축",
-      "url": "https://news.hada.io/topic?id=34165",
-      "publishedAt": "2026-09-23T07:43:03.592Z",
+      "title": "MongoDB와 PostgreSQL은 무엇이 다를까?",
+      "url": "https://news.hada.io/topic?id=34219",
+      "publishedAt": "2026-09-24T08:41:11.235Z",
       "source": "Geeknews"
     }
   ]
