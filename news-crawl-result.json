@@ -1,11 +1,23 @@
 {
-  "crawledAt": "2026-09-26T00:46:50.645Z",
-  "total": 1,
+  "crawledAt": "2026-09-27T00:46:37.211Z",
+  "total": 3,
   "articles": [
     {
-      "title": "Ordewell - 코딩 작업을 위한 멀티 에이전트 오케스트레이터",
-      "url": "https://news.hada.io/topic?id=34290",
-      "publishedAt": "2026-09-26T00:30:41.013Z",
+      "title": "Atlas - 코딩 에이전트를 위한 소스 관리 도구",
+      "url": "https://news.hada.io/topic?id=34344",
+      "publishedAt": "2026-09-27T00:30:27.901Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
+      "url": "https://news.hada.io/topic?id=34310",
+      "publishedAt": "2026-09-26T05:46:27.902Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "한 글자만 바꾼 가짜 도메인, 코드로 가려내기 — 편집 거리와 숫자 치환 정규화",
+      "url": "https://news.hada.io/topic?id=34307",
+      "publishedAt": "2026-09-26T05:46:27.903Z",
       "source": "Geeknews"
     }
   ]
