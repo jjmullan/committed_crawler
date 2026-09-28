@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-09-27T00:46:37.211Z",
-  "total": 3,
+  "crawledAt": "2026-09-28T01:02:00.663Z",
+  "total": 2,
   "articles": [
     {
-      "title": "Atlas - 코딩 에이전트를 위한 소스 관리 도구",
-      "url": "https://news.hada.io/topic?id=34344",
-      "publishedAt": "2026-09-27T00:30:27.901Z",
+      "title": "BrowserSkill - 로그인된 내 브라우저를 AI 에이전트가 사용하게 하는 도구",
+      "url": "https://news.hada.io/topic?id=34395",
+      "publishedAt": "2026-09-28T00:29:51.135Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
-      "url": "https://news.hada.io/topic?id=34310",
-      "publishedAt": "2026-09-26T05:46:27.902Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "한 글자만 바꾼 가짜 도메인, 코드로 가려내기 — 편집 거리와 숫자 치환 정규화",
-      "url": "https://news.hada.io/topic?id=34307",
-      "publishedAt": "2026-09-26T05:46:27.903Z",
+      "title": "Stripe가 한국에 머천트 계정을 안 줍니다. 유료 SaaS를 만들었습니다",
+      "url": "https://news.hada.io/topic?id=34349",
+      "publishedAt": "2026-09-27T05:01:51.136Z",
       "source": "Geeknews"
     }
   ]
