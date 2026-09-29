@@ -1,17 +1,35 @@
 {
-  "crawledAt": "2026-09-28T01:02:00.663Z",
-  "total": 2,
+  "crawledAt": "2026-09-29T02:10:45.227Z",
+  "total": 5,
   "articles": [
     {
-      "title": "BrowserSkill - 로그인된 내 브라우저를 AI 에이전트가 사용하게 하는 도구",
-      "url": "https://news.hada.io/topic?id=34395",
-      "publishedAt": "2026-09-28T00:29:51.135Z",
+      "title": "글 쓰다가 막혔을 때 대처법",
+      "url": "https://news.hada.io/topic?id=34466",
+      "publishedAt": "2026-09-29T01:11:35.806Z",
       "source": "Geeknews"
     },
     {
-      "title": "Stripe가 한국에 머천트 계정을 안 줍니다. 유료 SaaS를 만들었습니다",
-      "url": "https://news.hada.io/topic?id=34349",
-      "publishedAt": "2026-09-27T05:01:51.136Z",
+      "title": "NobodyWho - 앱과 게임에 로컬 AI를 넣는 온디바이스 추론 엔진",
+      "url": "https://news.hada.io/topic?id=34463",
+      "publishedAt": "2026-09-29T00:10:35.807Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "F/OSS Comics #10: C언어의 아버지, 데니스 리치의 일생",
+      "url": "https://news.hada.io/topic?id=34450",
+      "publishedAt": "2026-09-28T20:10:35.807Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "AI 시대를 여행하는 히치하이커를 위한 안내서 – 수학과 코드 없이 LLM의 발전 흐름 이해하기",
+      "url": "https://news.hada.io/topic?id=34422",
+      "publishedAt": "2026-09-28T10:10:35.807Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "우리는 우리 속도를 못 잰다 (METR이 자사의 19% 둔화 결과를 물린 이유)",
+      "url": "https://news.hada.io/topic?id=34410",
+      "publishedAt": "2026-09-28T04:10:35.807Z",
       "source": "Geeknews"
     }
   ]
