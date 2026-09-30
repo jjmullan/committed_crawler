@@ -1,35 +1,47 @@
 {
-  "crawledAt": "2026-09-29T02:10:45.227Z",
-  "total": 5,
+  "crawledAt": "2026-09-30T01:25:03.218Z",
+  "total": 7,
   "articles": [
     {
-      "title": "글 쓰다가 막혔을 때 대처법",
-      "url": "https://news.hada.io/topic?id=34466",
-      "publishedAt": "2026-09-29T01:11:35.806Z",
+      "title": "LatticeDB - 그래프, 벡터, 전문 검색을 한 파일에 담는 임베디드 DB",
+      "url": "https://news.hada.io/topic?id=34517",
+      "publishedAt": "2026-09-30T00:29:53.700Z",
       "source": "Geeknews"
     },
     {
-      "title": "NobodyWho - 앱과 게임에 로컬 AI를 넣는 온디바이스 추론 엔진",
-      "url": "https://news.hada.io/topic?id=34463",
-      "publishedAt": "2026-09-29T00:10:35.807Z",
+      "title": "OpenAI, GPT-6.1 Sol 공개",
+      "url": "https://news.hada.io/topic?id=34500",
+      "publishedAt": "2026-09-29T17:24:53.701Z",
       "source": "Geeknews"
     },
     {
-      "title": "F/OSS Comics #10: C언어의 아버지, 데니스 리치의 일생",
-      "url": "https://news.hada.io/topic?id=34450",
-      "publishedAt": "2026-09-28T20:10:35.807Z",
+      "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
+      "url": "https://news.hada.io/topic?id=34483",
+      "publishedAt": "2026-09-29T09:24:53.701Z",
       "source": "Geeknews"
     },
     {
-      "title": "AI 시대를 여행하는 히치하이커를 위한 안내서 – 수학과 코드 없이 LLM의 발전 흐름 이해하기",
-      "url": "https://news.hada.io/topic?id=34422",
-      "publishedAt": "2026-09-28T10:10:35.807Z",
+      "title": "서버 모니터링 분석 가이드",
+      "url": "https://news.hada.io/topic?id=34478",
+      "publishedAt": "2026-09-29T06:24:53.701Z",
       "source": "Geeknews"
     },
     {
-      "title": "우리는 우리 속도를 못 잰다 (METR이 자사의 19% 둔화 결과를 물린 이유)",
-      "url": "https://news.hada.io/topic?id=34410",
-      "publishedAt": "2026-09-28T04:10:35.807Z",
+      "title": "Pluto - SOTA 스타크래프트 AI",
+      "url": "https://news.hada.io/topic?id=34474",
+      "publishedAt": "2026-09-29T04:24:53.701Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "RAG 인덱스와 에이전트 메모리를 Git처럼 버전 관리하기 (LambdaDB)",
+      "url": "https://news.hada.io/topic?id=34472",
+      "publishedAt": "2026-09-29T04:24:53.702Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "cron의 */45는 45분 간격이 아니다",
+      "url": "https://news.hada.io/topic?id=34469",
+      "publishedAt": "2026-09-29T02:24:53.702Z",
       "source": "Geeknews"
     }
   ]
