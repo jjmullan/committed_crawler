@@ -1,47 +1,23 @@
 {
-  "crawledAt": "2026-09-30T01:25:03.218Z",
-  "total": 7,
+  "crawledAt": "2026-10-01T01:25:46.618Z",
+  "total": 3,
   "articles": [
     {
-      "title": "LatticeDB - 그래프, 벡터, 전문 검색을 한 파일에 담는 임베디드 DB",
-      "url": "https://news.hada.io/topic?id=34517",
-      "publishedAt": "2026-09-30T00:29:53.700Z",
+      "title": "Traycer - 여러 코딩 에이전트의 문맥과 협업을 한곳에서 관리",
+      "url": "https://news.hada.io/topic?id=34575",
+      "publishedAt": "2026-10-01T00:29:37.359Z",
       "source": "Geeknews"
     },
     {
-      "title": "OpenAI, GPT-6.1 Sol 공개",
-      "url": "https://news.hada.io/topic?id=34500",
-      "publishedAt": "2026-09-29T17:24:53.701Z",
+      "title": "브라우저 실시간 통신 설계: 폴링·SSE·WebSocket과 상태 복구",
+      "url": "https://news.hada.io/topic?id=34572",
+      "publishedAt": "2026-09-30T23:25:37.361Z",
       "source": "Geeknews"
     },
     {
-      "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
-      "url": "https://news.hada.io/topic?id=34483",
-      "publishedAt": "2026-09-29T09:24:53.701Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "서버 모니터링 분석 가이드",
-      "url": "https://news.hada.io/topic?id=34478",
-      "publishedAt": "2026-09-29T06:24:53.701Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Pluto - SOTA 스타크래프트 AI",
-      "url": "https://news.hada.io/topic?id=34474",
-      "publishedAt": "2026-09-29T04:24:53.701Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "RAG 인덱스와 에이전트 메모리를 Git처럼 버전 관리하기 (LambdaDB)",
-      "url": "https://news.hada.io/topic?id=34472",
-      "publishedAt": "2026-09-29T04:24:53.702Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "cron의 */45는 45분 간격이 아니다",
-      "url": "https://news.hada.io/topic?id=34469",
-      "publishedAt": "2026-09-29T02:24:53.702Z",
+      "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
+      "url": "https://news.hada.io/topic?id=34528",
+      "publishedAt": "2026-09-30T03:25:37.361Z",
       "source": "Geeknews"
     }
   ]
