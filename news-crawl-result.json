@@ -1,53 +1,11 @@
 {
-  "crawledAt": "2026-10-02T01:46:24.541Z",
-  "total": 8,
+  "crawledAt": "2026-10-03T01:18:47.235Z",
+  "total": 1,
   "articles": [
     {
-      "title": "AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼",
-      "url": "https://news.hada.io/topic?id=34645",
-      "publishedAt": "2026-10-02T00:46:15.319Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "판단 전용 모델 Laya 실측 – 정확도 78%, 틀린 답에도 confidence 0.9 (파인 튜닝전에 데이터)",
-      "url": "https://news.hada.io/topic?id=34599",
-      "publishedAt": "2026-10-01T11:46:15.320Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Three Slicer: 브라우저 WASM 슬라이서의 91초를 10초로 줄이며 찾은 병렬화, V8, WebGPU 병목",
-      "url": "https://news.hada.io/topic?id=34598",
-      "publishedAt": "2026-10-01T10:46:15.321Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "PostgreSQL JSONB: JSON 데이터 조회, 수정 및 인덱싱",
-      "url": "https://news.hada.io/topic?id=34597",
-      "publishedAt": "2026-10-01T09:46:15.321Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "F/OSS Comics #11: BSD 유닉스 1화 – UC 버클리로 간 유닉스 코드",
-      "url": "https://news.hada.io/topic?id=34589",
-      "publishedAt": "2026-10-01T06:46:15.321Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "제미나이 4 아르곤(Argon): 프론티어 인텔리전스의 새로운 시대",
-      "url": "https://news.hada.io/topic?id=34588",
-      "publishedAt": "2026-10-01T05:46:15.321Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Pencil 제작기 (2): AI 디자인 하네스 만들기",
-      "url": "https://news.hada.io/topic?id=34582",
-      "publishedAt": "2026-10-01T03:46:15.322Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
-      "url": "https://news.hada.io/topic?id=34581",
-      "publishedAt": "2026-10-01T02:46:15.322Z",
+      "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+      "url": "https://news.hada.io/topic?id=34694",
+      "publishedAt": "2026-10-03T00:30:37.669Z",
       "source": "Geeknews"
     }
   ]
