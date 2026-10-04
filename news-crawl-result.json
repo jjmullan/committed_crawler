@@ -1,11 +1,17 @@
 {
-  "crawledAt": "2026-10-03T01:18:47.235Z",
-  "total": 1,
+  "crawledAt": "2026-10-04T01:50:07.445Z",
+  "total": 2,
   "articles": [
     {
-      "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
-      "url": "https://news.hada.io/topic?id=34694",
-      "publishedAt": "2026-10-03T00:30:37.669Z",
+      "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
+      "url": "https://news.hada.io/topic?id=34739",
+      "publishedAt": "2026-10-04T00:49:57.858Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "개발 못 하는 영업 직장인이 옵시디언에 클로드 코드를 붙여 일한 기록",
+      "url": "https://news.hada.io/topic?id=34711",
+      "publishedAt": "2026-10-03T13:49:57.859Z",
       "source": "Geeknews"
     }
   ]
