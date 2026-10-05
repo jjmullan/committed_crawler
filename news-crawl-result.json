@@ -1,17 +1,23 @@
 {
-  "crawledAt": "2026-10-04T01:50:07.445Z",
-  "total": 2,
+  "crawledAt": "2026-10-05T01:07:46.820Z",
+  "total": 3,
   "articles": [
     {
-      "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
-      "url": "https://news.hada.io/topic?id=34739",
-      "publishedAt": "2026-10-04T00:49:57.858Z",
+      "title": "OpenMuse - 브라우저와 터미널로 일하는 오픈소스 개인 AI 에이전트",
+      "url": "https://news.hada.io/topic?id=34790",
+      "publishedAt": "2026-10-05T00:29:37.546Z",
       "source": "Geeknews"
     },
     {
-      "title": "개발 못 하는 영업 직장인이 옵시디언에 클로드 코드를 붙여 일한 기록",
-      "url": "https://news.hada.io/topic?id=34711",
-      "publishedAt": "2026-10-03T13:49:57.859Z",
+      "title": "Ask GN: 코딩 에이전트 뭐 쓰고 계세요? 고른 이유가 궁금합니다",
+      "url": "https://news.hada.io/topic?id=34756",
+      "publishedAt": "2026-10-04T11:07:37.547Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Claude Code 스킬 패턴 — 반복 작업을 재사용 가능한 스킬로 설계하는 법과 실무에서 쌓으며 배운 것",
+      "url": "https://news.hada.io/topic?id=34752",
+      "publishedAt": "2026-10-04T07:07:37.547Z",
       "source": "Geeknews"
     }
   ]
