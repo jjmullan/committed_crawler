@@ -1,23 +1,17 @@
 {
-  "crawledAt": "2026-10-06T02:24:27.918Z",
-  "total": 3,
+  "crawledAt": "2026-10-07T01:44:04.756Z",
+  "total": 2,
   "articles": [
     {
-      "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
-      "url": "https://news.hada.io/topic?id=34854",
-      "publishedAt": "2026-10-06T00:24:18.440Z",
+      "title": "Octop - 가족과 소규모 팀이 함께 쓰는 셀프 호스팅 AI 비서",
+      "url": "https://news.hada.io/topic?id=34916",
+      "publishedAt": "2026-10-07T00:43:55.086Z",
       "source": "Geeknews"
     },
     {
-      "title": "MCPB로 로컬 MCP 서버를 Claude Desktop 원클릭 확장으로 만들기",
-      "url": "https://news.hada.io/topic?id=34822",
-      "publishedAt": "2026-10-05T12:24:18.442Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "자율주행 데이터의 진짜 문제는 크기가 아니다",
-      "url": "https://news.hada.io/topic?id=34805",
-      "publishedAt": "2026-10-05T04:24:18.442Z",
+      "title": "에이전트가 쓴 테스트는 무엇을 증명하나",
+      "url": "https://news.hada.io/topic?id=34873",
+      "publishedAt": "2026-10-06T04:43:55.088Z",
       "source": "Geeknews"
     }
   ]
