@@ -1,17 +1,35 @@
 {
-  "crawledAt": "2026-10-07T01:44:04.756Z",
-  "total": 2,
+  "crawledAt": "2026-10-08T02:11:31.833Z",
+  "total": 5,
   "articles": [
     {
-      "title": "Octop - 가족과 소규모 팀이 함께 쓰는 셀프 호스팅 AI 비서",
-      "url": "https://news.hada.io/topic?id=34916",
-      "publishedAt": "2026-10-07T00:43:55.086Z",
+      "title": "D2Coding 폰트 1.4.0 공개 - 숫자 0 선택 기능과 한글/코드 표시 개선",
+      "url": "https://news.hada.io/topic?id=34987",
+      "publishedAt": "2026-10-08T02:10:22.072Z",
       "source": "Geeknews"
     },
     {
-      "title": "에이전트가 쓴 테스트는 무엇을 증명하나",
-      "url": "https://news.hada.io/topic?id=34873",
-      "publishedAt": "2026-10-06T04:43:55.088Z",
+      "title": "pg-jev - 자연어 조건으로 데이터를 검색하고 분류하는 PostgreSQL 확장",
+      "url": "https://news.hada.io/topic?id=34981",
+      "publishedAt": "2026-10-08T01:11:22.073Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "Lemma - 사람과 AI 에이전트가 한 팀으로 일하는 오픈소스 작업 공간",
+      "url": "https://news.hada.io/topic?id=34976",
+      "publishedAt": "2026-10-08T00:11:22.074Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "자율주행 데이터에서 시간은 어떻게 맞춰지는가",
+      "url": "https://news.hada.io/topic?id=34936",
+      "publishedAt": "2026-10-07T09:11:22.074Z",
+      "source": "Geeknews"
+    },
+    {
+      "title": "jev가 여는 비즈니스 AI: 에이전트에서 컴포넌트로",
+      "url": "https://news.hada.io/topic?id=34932",
+      "publishedAt": "2026-10-07T07:11:22.074Z",
       "source": "Geeknews"
     }
   ]
