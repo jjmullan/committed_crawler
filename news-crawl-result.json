@@ -1,29 +1,17 @@
 {
-  "crawledAt": "2026-10-10T01:52:27.640Z",
-  "total": 4,
+  "crawledAt": "2026-10-11T01:08:19.001Z",
+  "total": 2,
   "articles": [
     {
-      "title": "Expo bets big on React Native's agentic future",
-      "url": "https://news.hada.io/topic?id=35095",
-      "publishedAt": "2026-10-10T00:59:17.972Z",
+      "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
+      "url": "https://news.hada.io/topic?id=35140",
+      "publishedAt": "2026-10-11T00:30:09.378Z",
       "source": "Geeknews"
     },
     {
-      "title": "vgpu - 브라우저와 Node.js에서 같은 코드로 쓰는 경량 WebGPU 라이브러리",
-      "url": "https://news.hada.io/topic?id=35088",
-      "publishedAt": "2026-10-10T00:52:17.972Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "Claude Startups 프로그램, 모든 신청서 재검토 예정",
-      "url": "https://news.hada.io/topic?id=35062",
-      "publishedAt": "2026-10-09T11:52:17.973Z",
-      "source": "Geeknews"
-    },
-    {
-      "title": "AI 시대 주니어 개발자의 역할은 무엇이 돼야 할까요?",
-      "url": "https://news.hada.io/topic?id=35056",
-      "publishedAt": "2026-10-09T08:52:17.973Z",
+      "title": "Bun, TypeScript를 네이티브 코드로 선행 컴파일하는 AOT 컴파일러 실험 공개",
+      "url": "https://news.hada.io/topic?id=35124",
+      "publishedAt": "2026-10-10T15:08:09.379Z",
       "source": "Geeknews"
     }
   ]
